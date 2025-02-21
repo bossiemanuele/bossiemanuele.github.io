@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Optimization of the Actual Takeoff Weight"
-excerpt: "Implementing Machine Learning Techniques for Predictive Analysis and Operational Optimization![image](https://github.com/user-attachments/assets/a0b37863-855d-42aa-8099-91f16c9e0f49)
+excerpt: "Implementing Machine Learning Techniques for Predictive Analysis and Operational Optimization.
 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
