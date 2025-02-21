@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/CI460
+venue: "Embry-Riddle Aeronautical University, College of Business, Security & Intelligence"
+date: Fall 2024, Spring 2025
+location: "Prescott, AZ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisted Professor Warner in the development of a new 400-level machine learning course structure (lectures, quizzes, and exams). Hosted review sessions, graded assignment and presented material to 120 students across 4 sections.
