@@ -9,6 +9,8 @@ This project has been funded through **ERAU-URI Eagle Prize Award** for the AY 2
 
 Part of this project consisted in the participation in the **PRC Data Challenge**, competition organized by *EUROCONTROL*. The team submitted a rough draft of their initial solution and ranked in the TOP 25 among 132 teams.
 
+### Abstract
+
 The aviation industry plays a critical role in global transportation, but its safety and environmental impact are increasingly under scrutiny. A significant concern is the frequency of aviation accidents linked to exceeding the allowable take-off weight, underscoring the need for more precise methods to monitor aircraft weight during this critical stage of a flight.
 
 Developing accurate systems for estimating takeoff weight is crucial to improving safety and optimizing aircraft performance, including fuel consumption, trajectory prediction, and key flight characteristics such as climb rate, range, and takeoff distance. Moreover, takeoff weight directly influences sustainability and operational efficiency.
