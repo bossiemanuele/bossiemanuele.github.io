@@ -13,4 +13,4 @@ My **research interests** center on developing trustworthy *autonomous systems* 
 
 Upon graduation, I would like to pursue a **Ph.D. in Artificial Intelligence**. My **long-term goal** is to push the boundaries of intelligent systems, enabling them to automate increasingly complex tasks in safety-critical applications. I aspire to develop theoretically sound and computationally efficient algorithms that not only enhance autonomy but also ensure practical feasibility for real-world deployment. Through my Ph.D. research, I seek to contribute to the next generation of autonomous systems, ensuring they are not only intelligent but also safe, interpretable, and reliable in the field. 
 
-For more information about my recent research projects, please visit the [Projects](https://bossiemanuele.github.io/portfolio/) section.
+For more information about my recent research projects, please visit the [Research Projects](https://bossiemanuele.github.io/portfolio/) section.
