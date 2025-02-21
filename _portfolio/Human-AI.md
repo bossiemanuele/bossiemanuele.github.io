@@ -1,6 +1,6 @@
 ---
 title: "Measuring Human Trust in AI in Safety-Critical Systems"
-excerpt: "Developing an experimental study to assess AI's impact on decision-making in aviation safety."
+excerpt: "Developing an experimental study to assess AI's impact on decision-making in aviation safety.
 <br/><img src='/images/Takeoff picture.webp' width='300' height='500'>"
 collection: portfolio
 ---
