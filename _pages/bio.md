@@ -7,10 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am double-major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am a **Teaching Assistant** for Professor *Timothy King* for the 300-level course *Software Engineering Practices* and for Professor *Christopher Warner* for the 400-level course *Machine Learning and Big Data Analysis*. Additionally, I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working with different professors across projects that span Mathematics, Engineering, and Computer Science.
+I was born and raised near **Milan, Italy**, in a family of four: my dad, Stefano, my mom, Cinzia, and my younger brother, Ludovico. After completing *Liceo Scientifico delle Scienze Applicat*e (the Italian equivalent of high school), I decided to pursue a new adventure far from home—college in the United States. I spent my freshman year in West Virginia at **WVU Tech**, and from my sophomore year onward, I moved to Arizona to continue my studies at **Embry-Riddle Aeronautical University**.
 
-My **research interests** center on developing trustworthy *autonomous systems* that can operate reliably in high-stakes scenarios, ensuring both safety and efficiency. By integrating principles from artificial intelligence, control theory, and human-robot interaction, I aim to design autonomous agents capable of making robust, real-time decisions in dynamic environments. I am particularly interested in the application of Artificial Intelligence in Aviation and Aerospace.
+*Why did you decide to move to The USA?*
 
-Upon graduation, I would like to pursue a **Ph.D. in Artificial Intelligence**. My **long-term goal** is to push the boundaries of intelligent systems, enabling them to automate increasingly complex tasks in safety-critical applications. I aspire to develop theoretically sound and computationally efficient algorithms that not only enhance autonomy but also ensure practical feasibility for real-world deployment. Through my Ph.D. research, I seek to contribute to the next generation of autonomous systems, ensuring they are not only intelligent but also safe, interpretable, and reliable in the field. 
+*...still in progress..*
 
-For more information about my recent research projects, please visit the [Research Projects](https://bossiemanuele.github.io/portfolio/) section.
+*What are your hobbies?*
+
+Since childhood, **soccer** has been my greatest passion. I was fortunate to be selected to play at the youth professional level for *Pro Sesto 1919*, making my dream a reality. After competing in the Primavera (the Italian U19 Professional Championship), I had the privilege of playing for *SC Caronnese* and *ASCD Gozzano* in Serie D (the Italian fourth division). My passion for soccer continued throughout my undergraduate studies in the U.S., where I had the honor of playing for the *Golden Bears* of WVU Tech, with whom I won the River States Conference regular season in 2022, and for the *Eagles* of Embry-Riddle Aeronautical University.
+
+Playing soccer has taught me invaluable lessons in teamwork, time management, and competition, and it has also helped me forge lifelong friendships.
+
+I am a dedicated supporter of **Juventus**, and my favorite player is **Cristiano Ronaldo**—the GOAT.
+
+*Why did you decide to study Data Science?
+
+*...still in progress..*
