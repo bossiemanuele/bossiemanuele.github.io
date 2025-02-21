@@ -25,4 +25,5 @@ This research is pivotal for the future of automation in the aviation sector, as
 
 ### Methodology Flowchart
 The first stage of this project consisted in the participation in the PRC Data Challenge. Due to time constraints, the team developed just a "quick" solution. After the completition of the Data Challenge, building on the good results obtained, the team decided to follow a more structured approach that can be represented by the following flowchart.
+
 <img src='/images/ATOW Flowchart.png'>
