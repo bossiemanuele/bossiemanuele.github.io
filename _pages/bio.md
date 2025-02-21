@@ -3,8 +3,8 @@ permalink: /bio/
 title: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /bio/
+  - /bio.md
 ---
 
 I was born and raised near **Milan, Italy**, in a family of four: my dad, Stefano, my mom, Cinzia, and my younger brother, Ludovico. After completing *Liceo Scientifico delle Scienze Applicat*e (the Italian equivalent of high school), I decided to pursue a new adventure far from home—college in the United States. I spent my freshman year in West Virginia at **WVU Tech**, and from my sophomore year onward, I moved to Arizona to continue my studies at **Embry-Riddle Aeronautical University**.
