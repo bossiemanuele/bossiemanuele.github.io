@@ -15,7 +15,10 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/
+    url: /teaching/    
+
+  - title: "Bio"
+    url: /bio/
     
   - title: "CV"
     url: https://bossiemanuele.github.io/files/Bossi_CV_02212025.pdf
