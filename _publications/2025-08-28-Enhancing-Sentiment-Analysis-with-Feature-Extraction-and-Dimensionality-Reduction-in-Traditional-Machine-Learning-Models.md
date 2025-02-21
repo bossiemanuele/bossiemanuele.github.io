@@ -1,4 +1,4 @@
----
++---
 title: "Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models"
 collection: publications
 category: manuscripts
@@ -7,7 +7,7 @@ excerpt: 'This study investigates the role of feature extraction and dimensional
 date: 2025-08-28
 venue: 'Lecture Notes in Networks and Systems'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/Bossi_Paper_IntelliSys2025.pdf'
 citation: 'Bossi, E., Ahmed, F. (2025). &quot;Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models.&quot; <i>Lecture Notes in Networks and Systems</i>. 1(1).'
 ---
 
