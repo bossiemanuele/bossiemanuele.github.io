@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am a **Teaching Assistant** for Professor *Timothy King* for the 300-level course *Software Engineering Practices* and for Professor *Christopher Warner* for the 400-level course *Machine Learning and Big Data Analysis*. Additionally, I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working with different professors across projects that span Mathematics, Engineering, and Computer Science.
+I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am double-major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am a **Teaching Assistant** for Professor *Timothy King* for the 300-level course *Software Engineering Practices* and for Professor *Christopher Warner* for the 400-level course *Machine Learning and Big Data Analysis*. Additionally, I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working with different professors across projects that span Mathematics, Engineering, and Computer Science.
 
 My **research interests** center on developing trustworthy *autonomous systems* that can operate reliably in high-stakes scenarios, ensuring both safety and efficiency. By integrating principles from artificial intelligence, control theory, and human-robot interaction, I aim to design autonomous agents capable of making robust, real-time decisions in dynamic environments. I am particularly interested in the application of Artificial Intelligence in Aviation and Aerospace.
 
