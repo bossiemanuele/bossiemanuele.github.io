@@ -32,5 +32,6 @@ The following video briefly presents the problem and our solution:
     src="https://www.canva.com/design/DAGei-BUIDA/GfcZaWOFFm-Av-yDS45Vxw/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
+<br>
 
-You can find the Slides of our presentation [here](https://www.canva.com/design/DAGeeKELaqM/RREwDxA664DgCdWZmP8bHw/view?utm_content=DAGeeKELaqM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2863d555b2).
+You can also find the Slides of our presentation [here](https://www.canva.com/design/DAGeeKELaqM/RREwDxA664DgCdWZmP8bHw/view?utm_content=DAGeeKELaqM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2863d555b2).
