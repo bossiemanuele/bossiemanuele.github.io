@@ -20,7 +20,7 @@ Our team, **Agri-AI**, will compete next April at Texas A&M against:
 * Team HydroShield from Texas A&M University – College Station (*USA*)
 * Team Iris from Atlantic Technological University (*Ireland*)
 
-<img src='/images/IFTP2025logo.jpeg' width='500' height='200'>
+<img src='/images/IFTP2025logo.jpeg' width='800' height='200'>
 
 ### The Agricultural Water Crisis and Sustainable Energy Solutions
 
