@@ -22,8 +22,10 @@ Our team, **Agri-AI**, will compete next April at Texas A&M against:
 
 <img src='/images/IFTP2025logo.jpeg' width='500' height='200'>
 
-### Problem Statement
+### The Agricultural Water Crisis and Sustainable Energy Solutions
 
-### Our Solution
+The following video briefly presents the problem and our solution:
 
-You can find our [Slides here](https://www.canva.com/design/DAGeeKELaqM/RREwDxA664DgCdWZmP8bHw/view?utm_content=DAGeeKELaqM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2863d555b2).
+<iframe src="https://www.canva.com/design/DAGei-BUIDA/TK6SZHGKQLyV8b96f0xhTw/watch?utm_content=DAGei-BUIDA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heea3cca8de" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+You can find the Slides of our presentation [here](https://www.canva.com/design/DAGeeKELaqM/RREwDxA664DgCdWZmP8bHw/view?utm_content=DAGeeKELaqM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2863d555b2).
