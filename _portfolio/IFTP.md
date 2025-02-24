@@ -26,4 +26,4 @@ Our team, **Agri-AI**, will compete next April at Texas A&M against:
 
 ### Our Solution
 
-You can find our [Slides here] (https://www.canva.com/design/DAGeeKELaqM/RREwDxA664DgCdWZmP8bHw/view?utm_content=DAGeeKELaqM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2863d555b2)
+You can find our [Slides here](https://www.canva.com/design/DAGeeKELaqM/RREwDxA664DgCdWZmP8bHw/view?utm_content=DAGeeKELaqM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2863d555b2)
