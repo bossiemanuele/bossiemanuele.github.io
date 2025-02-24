@@ -33,6 +33,5 @@ The following video briefly presents the problem and our solution:
     src="https://www.canva.com/design/DAGei-BUIDA/GfcZaWOFFm-Av-yDS45Vxw/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGei-BUIDA&#x2F;GfcZaWOFFm-Av-yDS45Vxw&#x2F;watch?utm_content=DAGei-BUIDA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">APEX Video</a> di Emanuele Bossi
 
 You can find the Slides of our presentation [here](https://www.canva.com/design/DAGeeKELaqM/RREwDxA664DgCdWZmP8bHw/view?utm_content=DAGeeKELaqM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2863d555b2).
