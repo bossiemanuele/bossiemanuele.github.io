@@ -1,7 +1,7 @@
 ---
 title: " AI-Driven Smart Agriculture for Climate Resilience"
 excerpt: "AI-powered precision agriculture system that integrates IoT Sensors, Satellite Data, and Machine Learning.
-<br/><img src='/images/Takeoff picture.webp' width='300' height='500'>"
+<br/><img src='/images/AIinAgriculture.jpeg' width='300' height='500'>"
 collection: portfolio
 ---
 
