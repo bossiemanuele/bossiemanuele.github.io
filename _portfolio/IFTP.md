@@ -4,6 +4,7 @@ excerpt: "AI-powered precision agriculture system that integrates IoT Sensors, S
 <br/><img src='/images/AIinAgriculture.jpeg' width='300' height='500'>"
 collection: portfolio
 ---
+<img src='/images/IFTP2025logo.jpeg' width='600' height='200'>
 
 Each year, the College of Engineering at Texas A&M University organizes the **Invent for the Planet (IFTP) Engineering Challenge**,
 a 48-hours event where students from around the globe collaborate across disciplines to develop innovative solutions to some of the
@@ -20,13 +21,11 @@ Our team, **Agri-AI**, will compete next April at Texas A&M against:
 * Team HydroShield from Texas A&M University – College Station (*USA*)
 * Team Iris from Atlantic Technological University (*Ireland*)
 
-<img src='/images/IFTP2025logo.jpeg' width='800' height='200'>
-
 ### The Agricultural Water Crisis and Sustainable Energy Solutions
 
 The following video briefly presents the problem and our solution:
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+<div style="position: relative; width: 640px; height: 360px; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
