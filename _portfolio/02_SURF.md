@@ -34,7 +34,7 @@ The student will gain experience in:
 
 ## Research Area
 
-As conducted in the Jain Research Lab, this project is part of the **Human-Automation Interaction** ongoing project.
+As part of the Jain Research Lab, this project is focused on the **Human-Automation Interaction** research area of the lab.
 The following is the description of the research area from the official website of the research lab.
 
 "Across all aspects of our lives, humans are being asked to interact, collaborate, and team with different types of autonomous systems.
