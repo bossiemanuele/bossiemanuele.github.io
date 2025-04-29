@@ -16,6 +16,8 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent Systems Conference (IntelliSys) 2025 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Amsterdam, NL*, 2025-08.
 
+## Past talks
+
 **Measuring Human Trust in Safety-Critical Autonomous Systems** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arizona Space Grant Symposium \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Scottsdale, AZ*, 2025-04.
