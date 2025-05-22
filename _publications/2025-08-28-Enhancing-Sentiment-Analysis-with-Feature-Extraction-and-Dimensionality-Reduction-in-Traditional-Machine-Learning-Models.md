@@ -6,7 +6,6 @@ permalink: /publication/2025-08-28-Enhancing-Sentiment-Analysis-with-Feature-Ext
 excerpt: ''
 date: 2025-08-28
 venue: 'Lecture Notes in Networks and Systems'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://bossiemanuele.github.io/files/Bossi_Paper_IntelliSys2025.pdf'
 citation: 'Bossi, E., Ahmed, F. (2025). &quot;Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models.&quot; <i>Lecture Notes in Networks and Systems</i>.'
 ---
