@@ -12,7 +12,7 @@ citation: 'Bossi, E., AlMomani, R. (2025). "EAn Information-Theoretic Framework 
 
 *This paper is in preparation. You can download an extended abstract and see the prelimnary results by dowloading the file attached to this page.*
 
-The aviation industry plays a critical role in global transportation, but its safety and environmental impact are increasingly under scrutiny. A significant concern is the frequency of aviation accidents linked to exceeding the allowable take-off weight, underscoring the need for more precise methods to monitor aircraft weight during this critical stage of a flight.
+**Abstract**: The aviation industry plays a critical role in global transportation, but its safety and environmental impact are increasingly under scrutiny. A significant concern is the frequency of aviation accidents linked to exceeding the allowable take-off weight, underscoring the need for more precise methods to monitor aircraft weight during this critical stage of a flight.
 
 Developing accurate systems for estimating takeoff weight is crucial to improving safety and optimizing aircraft performance, including fuel consumption, trajectory prediction, and key flight characteristics such as climb rate, range, and takeoff distance. Moreover, takeoff weight directly influences sustainability and operational efficiency.
 
