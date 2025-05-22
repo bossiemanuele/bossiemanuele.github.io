@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-12-31
 venue: 'In Preparation'
 paperurl: 'http://bossiemanuele.github.io/files/Bossi_Abstract.pdf'
-citation: 'Bossi, E., AlMomani, R. (2025). "EAn Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)." In Preparation.'
+citation: 'Bossi, E., AlMomani, R. (2025). "An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)." In Preparation.'
 ---
 
 *This paper is in preparation. You can download an extended abstract and see the prelimnary results by dowloading the file attached to this page.*
