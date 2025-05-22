@@ -5,6 +5,10 @@ excerpt: "Implementing Machine Learning Techniques for Predictive Analysis and O
 collection: portfolio
 ---
 
+*In Preparation: An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)*
+
+Extended Abstract and Preliminary Results: 
+
 This project has been funded through **ERAU-URI Eagle Prize Award** for the AY 2024-2025. The advisor for this project is **Dr. AlMomani**, Assistant Professor of Mathematics and Data Science and Program Director of Data Science. This is an *individual research project* conducted by Emanuele Bossi.
 
 Part of this project consisted in the participation in the **PRC Data Challenge**, competition organized by *EUROCONTROL*. The team submitted a rough draft of their initial solution and ranked in the TOP 25 among 132 teams.
