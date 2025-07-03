@@ -21,16 +21,16 @@ For more information about my recent research projects, please visit the [Resear
 <!-- TOP 3 ARTICLES -->
 <ol>
   <li>
-    <strong><a href="https://example.com/article1" target="_blank">Interview with Emanuele Bossi: AI for Safer Skies</a></strong><br>
-    <em>Flight Safety Weekly – June 2025</em>
+    <strong><a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</a></strong><br>
+    <em>Embry-Riddle Newsroom – June 2025</em>
   </li>
   <li>
-    <strong><a href="https://example.com/article2" target="_blank">Purdue Fellowship Shines Light on Future Leader in Autonomy</a></strong><br>
-    <em>Purdue News – May 2025</em>
+    <strong><a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">Embry‑Riddle Student Team Plants the Seed for Smart Farming System</a></strong><br>
+    <em>Embry-Riddle Newsroom – May 2025</em>
   </li>
   <li>
-    <strong><a href="https://example.com/article3" target="_blank">ERAU Student Wins Award for AI-Powered Trust Model in Aviation</a></strong><br>
-    <em>Embry-Riddle Newsroom – March 2025</em>
+    <strong><a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">Blending Athletics and Academia: A Journey of Dedication and Passion</a></strong><br>
+    <em>Embry-Riddle Newsroom – November 2024</em>
   </li>
 </ol>
 
