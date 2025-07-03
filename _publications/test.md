@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models"
 collection: publications
-category: conferences
+category: thesis
 permalink: /publication/test
 excerpt: ''
 date: 2025-08-28
