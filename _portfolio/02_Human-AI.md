@@ -1,5 +1,5 @@
 ---
-title: "Measuring Human Trust in AI in Safety-Critical Systems"
+title: "Modeling Human Behavior in Safety-Critical Aviation Systems"
 excerpt: "Developing an experimental study to assess AI's impact on decision-making in aviation safety.
 <br/><img src='/images/Robot_Cockpit.webp' width='300' height='500'>"
 collection: portfolio
