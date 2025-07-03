@@ -18,7 +18,7 @@ For more information about my recent research projects, please visit the [Resear
 📰 On The News
 </div>
 
-<!-- TOP 3 ARTICLES -->
+<!-- MOST RECENT 3 ARTICLES -->
 <ol>
   <li>
     <strong><a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</a></strong><br>
@@ -29,8 +29,8 @@ For more information about my recent research projects, please visit the [Resear
     <em>Embry-Riddle Newsroom – May 2025</em>
   </li>
   <li>
-    <strong><a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">Blending Athletics and Academia: A Journey of Dedication and Passion</a></strong><br>
-    <em>Embry-Riddle Newsroom – November 2024</em>
+    <strong><a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">A Record Year for Student Research Projects Showcased at Annual Embry‑Riddle Symposiums</a></strong><br>
+    <em>Embry-Riddle Newsroom – April 2025</em>
   </li>
 </ol>
 
@@ -39,10 +39,8 @@ For more information about my recent research projects, please visit the [Resear
   <summary style="font-weight:bold; cursor:pointer;">▼ View Older News</summary>
   <ul>
     <li>
-      <a href="https://example.com/article4" target="_blank">Student Spotlight: Control Theory in the Cockpit</a> – Jan 2025
-    </li>
-    <li>
-      <a href="https://example.com/article5" target="_blank">ERAU Researcher Explores AI-Human Collaboration</a> – Nov 2024
-    </li>
+    <strong><a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">Blending Athletics and Academia: A Journey of Dedication and Passion</a></strong><br>
+    <em>Embry-Riddle Newsroom – November 2024</em>
+  </li>
   </ul>
 </details>
