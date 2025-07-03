@@ -7,7 +7,7 @@ collection: portfolio
 
 *In Preparation: "Don't Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving." Bachelor's Thesis.*
 
-This research project is in progress during Summer 2025 at **Jain Research Lab**, the research laboratory of Dr. Jain at **Purdue University**.
+This research project is in progress during Summer 2025 at ([**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/)), the research laboratory of Dr. Jain at **Purdue University**.
 The advisor for this project is **Dr. Jain**, Associate Professor of Mechanical Engineering (by courtesy in Aeronautics & Astronautics). The Ph.D. Mentor for this project is
 **S. Jeevanandam**, Ph.D. candidate in Mechanical Engineering.
 This project is part of the **2025 Summer Undergraduate Research Fellowship (SURF)** program at Purdue University.
