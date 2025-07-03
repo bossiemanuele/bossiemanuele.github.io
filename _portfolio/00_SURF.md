@@ -5,47 +5,21 @@ excerpt: "Summer Undergraduate Research Fellowship (SURF) at Purdue University.
 collection: portfolio
 ---
 
-This research project will be conducted during Summer 2025 at **Jain Research Lab**, the research laboratory of Dr. Jain at **Purdue University**.
-The advisors for this project are **Dr. Jain**, Associate Professor of Mechanical Engineering (by courtesy in Aeronautics & Astronautics), and
+This research project it's in progress during Summer 2025 at **Jain Research Lab**, the research laboratory of Dr. Jain at **Purdue University**.
+The advisor for this project is **Dr. Jain**, Associate Professor of Mechanical Engineering (by courtesy in Aeronautics & Astronautics). The Ph.D. Mentor for this project is
 **S. Jeevanandam**, Ph.D. candidate in Mechanical Engineering.
 This project is part of the **2025 Summer Undergraduate Research Fellowship (SURF)** program at Purdue University.
 
 As part of the program, I will present my research at the **Purdue University Summer Symposium** on July 30, 2025.
 
-## Project Description
 
-The following is the project description as per SURF Research Projects catalog. A more accurate abstract will be uploaded
-during or after the completition of the research project.
 
-"During safety-critical human-automation interactions such as automated driving,
-knowledge of cognitive states such as the driver’s trust in the automation can help prevent automation misuse (over-reliance).
-However, unlike estimating the speed of a car, estimating a human’s cognitive state is not straightforward;
-it needs to be inferred from their behavior (usage of automation, eye-gaze), involuntary physiological responses (heart-rate),
-and what they self-report (to questions like “How much do you trust the automation?”).
-Unlike recording data-streams from sensors such as a heart-rate monitor, it is not reasonable to ask the user
-to report their trust too frequently. The goal of this project is to enable development and testing of algorithms that
-schedule solicitation of self-reports only when absolutely required to reduce uncertainty in cognitive state estimates.
+## Abstract
 
-The student will gain experience in:
+Estimating human cognitive states is increasingly important for enabling safe and efficient human–autonomy interaction, particularly in safety-critical settings such as automated driving. Cognitive states, such as trust, workload, and perceived risk, are known to influence driver behavior but are not directly observable; instead, they must be inferred from behavioral data, physiological data, and intermittent self-reports of these states. Prior work on cognitive state estimation in human–autonomy interaction—--particularly in automated driving--—has predominantly used static, categorical models based on unimodal inputs, with limited support for real-time updates, uncertainty quantification, or adaptive querying of human input.
 
-- **Driving simulation for human-centric research**
-- **Conducting human subject experiments**
-- **State estimation algorithms**"
+This paper introduces a novel modeling framework that treats cognitive states as continuous-valued, time-varying latent variables and automation reliance as a discrete, observable output. The framework facilitates combining self-reports and psychophysiological measurements in state estimation framework that utilizes a hybrid dynamical system model. Crucially, the framework also quantifies predictive uncertainty, enabling the system to identify when to actively solicit human input. This allows for adaptive self-report scheduling to improve sample efficiency while minimizing user burden. The central research question is: *How can online machine learning and dynamical systems theory be combined to enable real-time, participant-specific estimation of automation reliance—--while quantifying uncertainty to guide when adaptive systems should actively seek human input during automated driving?*
 
-## Research Area
+Our approach involves predicting a human's trust, workload, and perceived risk using a affine dynamical model. These latent states are then used to predict reliance through a tree-based classifier. Model uncertainty informs whether to incorporate new self-reports; when unavailable but needed, a particle filter fuses selected physiological and gaze features via an auxiliary tree-based ensemble model to refine predictions under non-stationary conditions.
 
-As part of the Jain Research Lab, this project is focused on the **Human-Automation Interaction** research area of the lab.
-The following is the description of the research area from the official website of the research lab.
-
-"Across all aspects of our lives, humans are being asked to interact, collaborate, and team with different types of autonomous systems.
-At the core of successful cooperation between human and machine is trust. To that end, we are interested in mathematically modeling
-how human trust, and other human cognitive states (mental workload, self-confidence, risk perception), evolve during their interactions with
-machines and how feedback control principles can be applied to achieve the promise of automation—improving human quality of life.
-We have published several articles in this area, including on
-
-* **novel machine learning-based approaches** for estimating human trust via physiological (galvanic skin response (GSR) and electroencephalography (EEG) as well as behavioral measures;
-* **Markov-based modeling** of human trust and workload during human interactions with recommender (decision aid) systems that we in turn use for adaptive user interface (UI) design;
-* **cognitively-aware intelligent tutoring/training systems (ITSs)** that leverage self-confidence feedback from the human, and models of how user performance affects self-confidence, to determine when to provide automation assistance to users learning a psychomotor task.
-
-We are also studying how human operators make decisions in process manufacturing and using machine learning techniques 
-to assess how automation, combined with operator expertise, can achieve better, and more consistent performance."
+Experimental results show improved prediction and estimation accuracy over static or purely data-driven baselines, underscoring the advantages of integrating dynamical systems with machine learning in an online framework to account for the time-varying nature of human behavior. This approach enables individualized, continuous cognitive state estimation and lays the groundwork for closed-loop decision-making. Future work will focus on incorporating these estimates into controllers that intelligently manage driver engagement in complex, dynamic environments.
