@@ -5,7 +5,7 @@ excerpt: "Implementing Machine Learning Techniques for Predictive Analysis and O
 collection: portfolio
 ---
 
-*In Preparation: An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW). Submitted to AIAA SciTech 2026.*
+*In Preparation: "An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)." Submitted to AIAA SciTech 2026.*
 
 Extended Abstract and Preliminary Results: 
 
