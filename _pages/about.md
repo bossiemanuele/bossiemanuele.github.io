@@ -89,7 +89,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">January 2025</div>
       <img src="\images\teaching_emoji.jpg" alt="News icon" class="news-image">
       <div class="news-text">
-        I started the role of <b>Teaching Assistant<\b> for the course <b>Software Engineering Practices</b>. Thanks to Professor King for the opportunity!
+        I started the role of <b>Teaching Assistant</b> for the course <b>Software Engineering Practices</b>. Thanks to Professor King for the opportunity!
       </div>
     </div>
 
@@ -113,7 +113,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">August 2024</div>
       <img src="\images\teaching_emoji.jpg" alt="News icon" class="news-image">
       <div class="news-text">
-        I started the role of <b>Teaching Assistant<\b> for the course <b>Machine Learning and Big Data Analytics</b>. Thanks to Professor Warner for the opportunity!
+        I started the role of <b>Teaching Assistant</b> for the course <b>Machine Learning and Big Data Analytics</b>. Thanks to Professor Warner for the opportunity!
       </div>
     </div>
 
@@ -164,58 +164,6 @@ For more information about my recent research projects, please visit the [Resear
 .news-text {
   font-size: 0.95em;
   line-height: 1.4;
-}
-</style>
-
-
-
-<!-- ON THE NEWS BANNER -->
-<div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
-📰 On The News
-</div>
-
-<!-- SCROLLABLE NEWS SECTION -->
-<div class="news-scroll-container">
-  <ul class="news-list">
-    <li>
-      <strong><a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</a></strong><br>
-      <em>Embry-Riddle Newsroom – June 2025</em>
-    </li>
-    <li>
-      <strong><a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">Embry‑Riddle Student Team Plants the Seed for Smart Farming System</a></strong><br>
-      <em>Embry-Riddle Newsroom – May 2025</em>
-    </li>
-    <li>
-      <strong><a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">A Record Year for Student Research Projects Showcased at Annual Embry‑Riddle Symposiums</a></strong><br>
-      <em>Embry-Riddle Newsroom – April 2025</em>
-    </li>
-    <li>
-      <strong><a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">Blending Athletics and Academia: A Journey of Dedication and Passion</a></strong><br>
-      <em>Embry-Riddle Newsroom – November 2024</em>
-    </li>
-    <!-- Add more items as needed -->
-  </ul>
-</div>
-
-<!-- CSS -->
-<style>
-.news-scroll-container {
-  max-height: 200px;
-  overflow-y: auto;
-  border: 1px solid #ddd;
-  padding: 10px 15px;
-  background-color: #fefefe;
-}
-
-.news-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.news-list li {
-  margin-bottom: 15px;
-  font-size: 0.95em;
 }
 </style>
 
