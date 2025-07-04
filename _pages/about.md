@@ -18,39 +18,6 @@ For more information about my recent research projects, please visit the [Resear
 📰 On The News
 </div>
 
-<!-- MOST RECENT 3 ARTICLES -->
-<ol>
-  <li>
-    <strong><a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</a></strong><br>
-    <em>Embry-Riddle Newsroom – June 2025</em>
-  </li>
-  <li>
-    <strong><a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">Embry‑Riddle Student Team Plants the Seed for Smart Farming System</a></strong><br>
-    <em>Embry-Riddle Newsroom – May 2025</em>
-  </li>
-  <li>
-    <strong><a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">A Record Year for Student Research Projects Showcased at Annual Embry‑Riddle Symposiums</a></strong><br>
-    <em>Embry-Riddle Newsroom – April 2025</em>
-  </li>
-</ol>
-
-<!-- SCROLLABLE SECTION FOR OLDER ARTICLES -->
-<details>
-  <summary style="font-weight:bold; cursor:pointer;">▼ View Older News</summary>
-  <ul>
-    <li>
-    <strong><a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">Blending Athletics and Academia: A Journey of Dedication and Passion</a></strong><br>
-    <em>Embry-Riddle Newsroom – November 2024</em>
-  </li>
-  </ul>
-</details>
-
-
-<!-- ON THE NEWS BANNER -->
-<div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
-📰 On The News
-</div>
-
 <!-- SCROLLABLE NEWS SECTION -->
 <div class="news-scroll-container">
   <ul class="news-list">
@@ -95,3 +62,71 @@ For more information about my recent research projects, please visit the [Resear
   font-size: 0.95em;
 }
 </style>
+
+
+
+<!-- SECTION TITLE -->
+<div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
+📰 News
+</div>
+
+<!-- NEWS LIST CONTAINER -->
+<div class="news-list">
+
+  <!-- SINGLE NEWS ITEM -->
+  <div class="news-item">
+    <div class="news-date">May 2025</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      Gave a talk on <strong>Exact Verification of First-order Methods via Mixed-Integer Linear Programming</strong> at the Conference on Discrete Optimization and Machine Learning at the Research Institute for Mathematical Sciences (RIMS), Kyoto, Japan. It was a great event! Thanks Antoine Deza and Sebastian Pokutta for the invitation.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">May 2025</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      Great to give a talk on <strong>Exact Verification of First-order Methods via Mixed-Integer Linear Programming</strong> at the CRM Montreal workshop on Combinatorial Optimization and Data Science. Thanks Margarida, Quentin, and Utsav for the kind invitation!
+    </div>
+  </div>
+
+</div>
+
+<!-- CSS STYLING -->
+<style>
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 900px;
+}
+
+.news-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.news-date {
+  font-size: 0.85em;
+  color: #555;
+  min-width: 80px;
+  flex-shrink: 0;
+}
+
+.news-image {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.news-text {
+  font-size: 0.95em;
+  line-height: 1.4;
+}
+</style>
+
