@@ -44,3 +44,63 @@ For more information about my recent research projects, please visit the [Resear
   </li>
   </ul>
 </details>
+
+
+<!-- ON THE NEWS BANNER -->
+<div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
+📰 On The News
+</div>
+
+<!-- SCROLLING CONTAINER -->
+<div class="news-container">
+  <div class="news-scroll">
+    <div class="news-item">
+      <strong><a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</a></strong><br>
+      <em>Embry-Riddle Newsroom – June 2025</em>
+    </div>
+    <div class="news-item">
+      <strong><a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">Embry‑Riddle Student Team Plants the Seed for Smart Farming System</a></strong><br>
+      <em>Embry-Riddle Newsroom – May 2025</em>
+    </div>
+    <div class="news-item">
+      <strong><a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">A Record Year for Student Research Projects Showcased at Annual Embry‑Riddle Symposiums</a></strong><br>
+      <em>Embry-Riddle Newsroom – April 2025</em>
+    </div>
+    <div class="news-item">
+      <strong><a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">Blending Athletics and Academia: A Journey of Dedication and Passion</a></strong><br>
+      <em>Embry-Riddle Newsroom – November 2024</em>
+    </div>
+  </div>
+</div>
+
+<!-- CSS for scrolling effect -->
+<style>
+.news-container {
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+  border: 1px solid #ddd;
+  background: #fefefe;
+}
+
+.news-scroll {
+  display: flex;
+  flex-direction: column;
+  animation: scrollNews 20s linear infinite;
+}
+
+.news-item {
+  padding: 10px 15px;
+  border-bottom: 1px solid #eee;
+  font-size: 0.95em;
+}
+
+@keyframes scrollNews {
+  0% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+</style>
