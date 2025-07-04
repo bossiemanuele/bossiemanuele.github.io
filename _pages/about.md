@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Ciao!
-
 I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am dual major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am a [**Teaching Assistant**](https://bossiemanuele.github.io/teaching/) for Professor *Timothy King*, Professor *Christopher Warner*, and Professor *Andri M. Gretarsson*. Additionally, I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working with different professors across projects that span Mathematics, Engineering, and Computer Science. Particularly, my research is closely conducted under the mentorship of *Dr. Abd AlRahman AlMomani*, Assistant Professor of Data Science and Mathematics and Data Science Program Coordinator. Currently (Summer 2025), I am joining as *Visiting Research Fellow* the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/) at **Purdue University**. I am working on the project *["Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"](https://bossiemanuele.github.io/portfolio/00_SURF/)*.
 
 My **research interests** center on developing trustworthy *autonomous systems* that can operate reliably in high-stakes scenarios, ensuring both safety and efficiency. By integrating principles from optimization, control theory, probabilistic modeling, reinforcement learning, and applied linear algebra, I aim to design autonomous agents capable of making robust, real-time decisions in dynamic environments. Specifically, I am particularly interested in the application of Artificial Intelligence in Transportation and Aerospace.
@@ -82,7 +80,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">April 2025</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        I joined the Jain Research Lab at Purdue University!
+        I joined the <b>Jain Research Lab</b> at Purdue University!
       </div>
     </div>
 
@@ -90,7 +88,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">April 2025</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        I gave a talk on Modeling Human Behavior in Safety-Critical Aviation Systems at NASA Space Grant Symposium 2025 in Scottsdale. Thanks to Embry-Riddle URI!
+        I gave a talk on <b>Modeling Human Behavior in Safety-Critical Aviation Systems</b> at <b>NASA Space Grant Symposium 2025</b> in Scottsdale. Thanks to Embry-Riddle URI!
       </div>
     </div>
 
@@ -98,7 +96,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">April 2025</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        I participate in Invent for the Planet Global Finals! It has been a great experience. Thanks to Embry-Riddle's College of Engineering to support us.
+        I participate in <b>Invent for the Planet Global Finals</b>! It has been a great experience. Thanks to Embry-Riddle's College of Engineering to support us.
       </div>
     </div>
 
@@ -106,7 +104,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">April 2025</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        I gave a talk at NCUR 2025. It has been an amazing opportunity to network with some of the brightest minds around the country. Thanks to Embry-Riddle URI!
+        I gave a talk at <b>NCUR 2025</b>. It has been an amazing opportunity to network with some of the brightest minds around the country. Thanks to Embry-Riddle URI!
       </div>
     </div>
 
@@ -114,7 +112,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">February 2025</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        I've been selected to join the Jain Research Laboratory at Purdue University this Summer as part of SURF 2025. I'll be working on the project “Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving.”
+        I've been selected to join the <b>Jain Research Laboratory</b> at <b>Purdue University</b> this Summer as part of <b>SURF 2025</b>. I'll be working on the project <b>Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving</b>.”
       </div>
     </div>
 
@@ -122,7 +120,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">February 2025</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        I won the Invent for the Planet 2025 - Engineering Challenge at the university level with the project “AI-Driven Smart Agriculture for Climate Resilience.” Our solution has been selected as one of the top 7 worldwide and we will present it at Texas A&M University!
+        I won the <b>Invent for the Planet 2025 - Engineering Challenge</b> at the university level with the project <b>AI-Driven Smart Agriculture for Climate Resilience</b>. Our solution has been selected as one of the top 7 worldwide and we will present it at Texas A&M University!
       </div>
     </div>
 
@@ -130,7 +128,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">January 2025</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        The paper <b>Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense</b> has been accepted for publication at the Intelligent Systems Conference (IntelliSys) 2025. I will present at IntelliSys 2025 in Amsterdam!
+        The paper <b>Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense</b> has been accepted for publication at the <b>Intelligent Systems Conference (IntelliSys) 2025</b>. I will present at IntelliSys 2025 in Amsterdam!
       </div>
     </div>
 
@@ -138,7 +136,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">January 2025</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        The abstract "Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense" has been accepted for presentation at the National Conference on Undergraduate Research (NCUR) 2025. I will present at NCUR 2025 in Pittsburgh!
+        The abstract <b>Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense</b> has been accepted for presentation at the <b>National Conference on Undergraduate Research (NCUR) 2025</b>. I will present at NCUR 2025 in Pittsburgh!
       </div>
     </div>
 
@@ -146,7 +144,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">October 2024</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        Received 2024-25 CBSI Philanthropy Council Award for the project “Modeling Human Behavior in Safety-Critical Aviation Systems.”
+        I received the 2024-25 CBSI Philanthropy Council Award for the project <b>Modeling Human Behavior in Safety-Critical Aviation Systems</b>.”
       </div>
     </div>
 
@@ -154,7 +152,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">October 2024</div>
       <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
       <div class="news-text">
-        Received 2024-25 E-Prize Award for the project “AI-Driven Optimization of the Actual Takeoff Weight.”
+        I received the 2024-25 E-Prize Award for the project <b>AI-Driven Optimization of the Actual Takeoff Weight</b>.”
       </div>
     </div>
 
