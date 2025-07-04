@@ -78,7 +78,7 @@ For more information about my recent research projects, please visit the [Resear
     <!-- SINGLE NEWS ITEM -->
     <div class="news-item">
       <div class="news-date">April 2025</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\book_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
         I joined the <b>Jain Research Lab</b> at Purdue University!
       </div>
@@ -86,7 +86,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">April 2025</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\talk_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
         I gave a talk on <b>Modeling Human Behavior in Safety-Critical Aviation Systems</b> at <b>NASA Space Grant Symposium 2025</b> in Scottsdale. Thanks to Embry-Riddle URI!
       </div>
@@ -102,7 +102,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">April 2025</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\talk_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
         I gave a talk at <b>NCUR 2025</b>. It has been an amazing opportunity to network with some of the brightest minds around the country. Thanks to Embry-Riddle URI!
       </div>
@@ -110,7 +110,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">February 2025</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\book_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
         I've been selected to join the <b>Jain Research Laboratory</b> at <b>Purdue University</b> this Summer as part of <b>SURF 2025</b>. I'll be working on the project <b>Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving</b>.”
       </div>
@@ -118,7 +118,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">February 2025</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\award_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
         I won the <b>Invent for the Planet 2025 - Engineering Challenge</b> at the university level with the project <b>AI-Driven Smart Agriculture for Climate Resilience</b>. Our solution has been selected as one of the top 7 worldwide and we will present it at Texas A&M University!
       </div>
@@ -142,7 +142,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">October 2024</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\award_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
         I received the 2024-25 CBSI Philanthropy Council Award for the project <b>Modeling Human Behavior in Safety-Critical Aviation Systems</b>.”
       </div>
@@ -150,7 +150,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">October 2024</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\award_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
         I received the 2024-25 E-Prize Award for the project <b>AI-Driven Optimization of the Actual Takeoff Weight</b>.”
       </div>
