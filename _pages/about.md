@@ -78,7 +78,7 @@ For more information about my recent research projects, please visit the [Resear
     <!-- SINGLE NEWS ITEM -->
     <div class="news-item">
       <div class="news-date">April 2025</div>
-      <img src="\images\book_emoji.png" alt="News icon" class="news-image">
+      <img src="\images\herrick_logo.jpeg" alt="News icon" class="news-image">
       <div class="news-text">
         I joined the <b>Jain Research Lab</b> at Purdue University!
       </div>
@@ -86,7 +86,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">April 2025</div>
-      <img src="\images\talk_emoji.png" alt="News icon" class="news-image">
+      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
       <div class="news-text">
         I gave a talk on <b>Modeling Human Behavior in Safety-Critical Aviation Systems</b> at <b>NASA Space Grant Symposium 2025</b> in Scottsdale. Thanks to Embry-Riddle URI!
       </div>
@@ -94,7 +94,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">April 2025</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\earth_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
         I participate in <b>Invent for the Planet Global Finals</b>! It has been a great experience. Thanks to Embry-Riddle's College of Engineering to support us.
       </div>
@@ -102,7 +102,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">April 2025</div>
-      <img src="\images\talk_emoji.png" alt="News icon" class="news-image">
+      <img src="\images\ncur_logo.webp" alt="News icon" class="news-image">
       <div class="news-text">
         I gave a talk at <b>NCUR 2025</b>. It has been an amazing opportunity to network with some of the brightest minds around the country. Thanks to Embry-Riddle URI!
       </div>
@@ -110,7 +110,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">February 2025</div>
-      <img src="\images\book_emoji.png" alt="News icon" class="news-image">
+      <img src="\images\purdue_logo.png" alt="News icon" class="news-image">
       <div class="news-text">
         I've been selected to join the <b>Jain Research Laboratory</b> at <b>Purdue University</b> this Summer as part of <b>SURF 2025</b>. I'll be working on the project <b>Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving</b>.”
       </div>
@@ -126,15 +126,15 @@ For more information about my recent research projects, please visit the [Resear
 
     <div class="news-item">
       <div class="news-date">January 2025</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\intellisys_logo.png" alt="News icon" class="news-image">
       <div class="news-text">
-        The paper <b>Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense</b> has been accepted for publication at the <b>Intelligent Systems Conference (IntelliSys) 2025</b>. I will present at IntelliSys 2025 in Amsterdam!
+        The paper <b>Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models</b> has been accepted for publication at the <b>Intelligent Systems Conference (IntelliSys) 2025</b>. I will present at IntelliSys 2025 in Amsterdam!
       </div>
     </div>
 
     <div class="news-item">
       <div class="news-date">January 2025</div>
-      <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+      <img src="\images\ncur_logo.webp" alt="News icon" class="news-image">
       <div class="news-text">
         The abstract <b>Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense</b> has been accepted for presentation at the <b>National Conference on Undergraduate Research (NCUR) 2025</b>. I will present at NCUR 2025 in Pittsburgh!
       </div>
