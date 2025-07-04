@@ -121,7 +121,7 @@ My **research interests** center on developing trustworthy *autonomous systems* 
 <!-- CSS STYLING -->
 <style>
 .news-scroll-container {
-  max-height: 200px; /* adjust height as needed */
+  max-height: 300px; /* adjust height as needed */
   overflow-y: auto;
   border: 1px solid #ddd;
   padding: 10px 0;
@@ -166,10 +166,7 @@ My **research interests** center on developing trustworthy *autonomous systems* 
 </style>
 
 
-<!-- ON THE NEWS BANNER -->
-<div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
-📰 On The News
-</div>
+## Media Coverage
 
 <!-- SCROLLING CONTAINER -->
 <div class="news-carousel-container">
@@ -180,28 +177,28 @@ My **research interests** center on developing trustworthy *autonomous systems* 
       <a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">
         <h3>Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</h3>
       </a>
-      <img src="https://via.placeholder.com/600x300?text=June+2025" alt="News image">
+      <img src="\images\erau-team-ncur.jpg" alt="News image">
     </div>
 
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">
         <h3>Embry‑Riddle Student Team Plants the Seed for Smart Farming System</h3>
       </a>
-      <img src="https://via.placeholder.com/600x300?text=May+2025" alt="News image">
+      <img src="\images\iftp_texas.jpg" alt="News image">
     </div>
 
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">
         <h3>A Record Year for Student Research Projects Showcased at Annual Embry‑Riddle Symposiums</h3>
       </a>
-      <img src="https://via.placeholder.com/600x300?text=April+2025" alt="News image">
+      <img src="\images\erau-symposium.jpeg" alt="News image">
     </div>
 
     <div class="news-carousel-item">
       <a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">
         <h3>Blending Athletics and Academia: A Journey of Dedication and Passion</h3>
       </a>
-      <img src="https://via.placeholder.com/600x300?text=Nov+2024" alt="News image">
+      <img src="\images\bossi_erau_article.jpg" alt="News image">
     </div>
 
   </div>
