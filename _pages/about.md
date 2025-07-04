@@ -167,7 +167,9 @@ My **research interests** center on developing trustworthy *autonomous systems* 
 
 
 {% raw %}
-<h2>Media Coverage</h2>
+<h2 style="font-size: 1.6em; font-weight: bold; margin-top: 30px; text-align: center;">
+  Media Coverage
+</h2>
 
 <!-- ✅ Carousel Container -->
 <div class="news-carousel-container">
