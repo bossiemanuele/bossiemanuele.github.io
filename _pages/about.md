@@ -7,65 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Ciao!
-
 I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am dual major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am a [**Teaching Assistant**](https://bossiemanuele.github.io/teaching/) for Professor *Timothy King*, Professor *Christopher Warner*, and Professor *Andri M. Gretarsson*. Additionally, I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working with different professors across projects that span Mathematics, Engineering, and Computer Science. Particularly, my research is closely conducted under the mentorship of *Dr. Abd AlRahman AlMomani*, Assistant Professor of Data Science and Mathematics and Data Science Program Coordinator. Currently (Summer 2025), I am joining as *Visiting Research Fellow* the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/) at **Purdue University**. I am working on the project *["Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"](https://bossiemanuele.github.io/portfolio/00_SURF/)*.
 
 My **research interests** center on developing trustworthy *autonomous systems* that can operate reliably in high-stakes scenarios, ensuring both safety and efficiency. By integrating principles from optimization, control theory, probabilistic modeling, reinforcement learning, and applied linear algebra, I aim to design autonomous agents capable of making robust, real-time decisions in dynamic environments. Specifically, I am particularly interested in the application of Artificial Intelligence in Transportation and Aerospace.
 
 For more information about my recent research projects, please visit the [Research Projects](https://bossiemanuele.github.io/portfolio/) section.
-
-<!-- ON THE NEWS BANNER -->
-<div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
-📰 On The News
-</div>
-
-<!-- SCROLLABLE NEWS SECTION -->
-<div class="news-scroll-container">
-  <ul class="news-list">
-    <li>
-      <strong><a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</a></strong><br>
-      <em>Embry-Riddle Newsroom – June 2025</em>
-    </li>
-    <li>
-      <strong><a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">Embry‑Riddle Student Team Plants the Seed for Smart Farming System</a></strong><br>
-      <em>Embry-Riddle Newsroom – May 2025</em>
-    </li>
-    <li>
-      <strong><a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">A Record Year for Student Research Projects Showcased at Annual Embry‑Riddle Symposiums</a></strong><br>
-      <em>Embry-Riddle Newsroom – April 2025</em>
-    </li>
-    <li>
-      <strong><a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">Blending Athletics and Academia: A Journey of Dedication and Passion</a></strong><br>
-      <em>Embry-Riddle Newsroom – November 2024</em>
-    </li>
-    <!-- Add more items as needed -->
-  </ul>
-</div>
-
-<!-- CSS -->
-<style>
-.news-scroll-container {
-  max-height: 200px;
-  overflow-y: auto;
-  border: 1px solid #ddd;
-  padding: 10px 15px;
-  background-color: #fefefe;
-}
-
-.news-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.news-list li {
-  margin-bottom: 15px;
-  font-size: 0.95em;
-}
-</style>
-
-
 
 ## News
 
@@ -111,7 +57,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">February 2025</div>
       <img src="\images\purdue_logo.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I've been selected to join the <b>Jain Research Laboratory</b> at <b>Purdue University</b> this Summer as part of <b>SURF 2025</b>. I'll be working on the project <b>Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving</b>.”
+        I've been selected to join the <b>Jain Research Laboratory</b> at <b>Purdue University</b> this Summer as part of <b>SURF 2025</b>. I'll be working on the project <b>Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving</b>.
       </div>
     </div>
 
@@ -218,5 +164,148 @@ For more information about my recent research projects, please visit the [Resear
 .news-text {
   font-size: 0.95em;
   line-height: 1.4;
+}
+</style>
+
+
+
+<!-- ON THE NEWS BANNER -->
+<div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
+📰 On The News
+</div>
+
+<!-- SCROLLABLE NEWS SECTION -->
+<div class="news-scroll-container">
+  <ul class="news-list">
+    <li>
+      <strong><a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</a></strong><br>
+      <em>Embry-Riddle Newsroom – June 2025</em>
+    </li>
+    <li>
+      <strong><a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">Embry‑Riddle Student Team Plants the Seed for Smart Farming System</a></strong><br>
+      <em>Embry-Riddle Newsroom – May 2025</em>
+    </li>
+    <li>
+      <strong><a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">A Record Year for Student Research Projects Showcased at Annual Embry‑Riddle Symposiums</a></strong><br>
+      <em>Embry-Riddle Newsroom – April 2025</em>
+    </li>
+    <li>
+      <strong><a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">Blending Athletics and Academia: A Journey of Dedication and Passion</a></strong><br>
+      <em>Embry-Riddle Newsroom – November 2024</em>
+    </li>
+    <!-- Add more items as needed -->
+  </ul>
+</div>
+
+<!-- CSS -->
+<style>
+.news-scroll-container {
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 10px 15px;
+  background-color: #fefefe;
+}
+
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news-list li {
+  margin-bottom: 15px;
+  font-size: 0.95em;
+}
+</style>
+
+
+<!-- ON THE NEWS BANNER -->
+<div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
+📰 On The News
+</div>
+
+<!-- SCROLLING CONTAINER -->
+<div class="news-carousel-container">
+  <div class="news-carousel-track">
+    
+    <!-- NEWS ITEM -->
+    <div class="news-carousel-item">
+      <a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">
+        <h3>Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</h3>
+      </a>
+      <img src="https://via.placeholder.com/600x300?text=June+2025" alt="News image">
+    </div>
+
+    <div class="news-carousel-item">
+      <a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">
+        <h3>Embry‑Riddle Student Team Plants the Seed for Smart Farming System</h3>
+      </a>
+      <img src="https://via.placeholder.com/600x300?text=May+2025" alt="News image">
+    </div>
+
+    <div class="news-carousel-item">
+      <a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">
+        <h3>A Record Year for Student Research Projects Showcased at Annual Embry‑Riddle Symposiums</h3>
+      </a>
+      <img src="https://via.placeholder.com/600x300?text=April+2025" alt="News image">
+    </div>
+
+    <div class="news-carousel-item">
+      <a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">
+        <h3>Blending Athletics and Academia: A Journey of Dedication and Passion</h3>
+      </a>
+      <img src="https://via.placeholder.com/600x300?text=Nov+2024" alt="News image">
+    </div>
+
+  </div>
+</div>
+
+<!-- CSS STYLING -->
+<style>
+.news-carousel-container {
+  width: 100%;
+  max-width: 700px;
+  overflow: hidden;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.news-carousel-track {
+  display: flex;
+  animation: scroll-horizontal 40s linear infinite;
+  width: fit-content;
+}
+
+.news-carousel-item {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 700px;
+  box-sizing: border-box;
+  padding: 15px;
+  text-align: center;
+}
+
+.news-carousel-item h3 {
+  font-size: 1em;
+  margin-bottom: 10px;
+  color: #007acc;
+}
+
+.news-carousel-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+@keyframes scroll-horizontal {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-100%); }
+  50% { transform: translateX(-200%); }
+  75% { transform: translateX(-300%); }
+  100% { transform: translateX(0); }
 }
 </style>
