@@ -76,7 +76,7 @@ For more information about my recent research projects, please visit the [Resear
 
     <!-- SINGLE NEWS ITEM -->
     <div class="news-item">
-      <div class="news-date">April 2025</div>
+      <div class="news-date">May 2025</div>
       <img src="\images\herrick_logo.jpeg" alt="News icon" class="news-image">
       <div class="news-text">
         I joined the <b>Jain Research Lab</b> at Purdue University!
@@ -95,13 +95,13 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">April 2025</div>
       <img src="\images\earth_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I participate in <b>Invent for the Planet Global Finals</b>! It has been a great experience. Thanks to Embry-Riddle's College of Engineering to support us.
+        I participated in <b>Invent for the Planet Global Finals</b>! It has been a great experience. Thanks to Embry-Riddle's College of Engineering to support us.
       </div>
     </div>
 
     <div class="news-item">
       <div class="news-date">April 2025</div>
-      <img src="\images\ncur_logo.webp" alt="News icon" class="news-image">
+      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
       <div class="news-text">
         I gave a talk at <b>NCUR 2025</b>. It has been an amazing opportunity to network with some of the brightest minds around the country. Thanks to Embry-Riddle URI!
       </div>
@@ -140,6 +140,14 @@ For more information about my recent research projects, please visit the [Resear
     </div>
 
     <div class="news-item">
+      <div class="news-date">January 2025</div>
+      <img src="\images\teaching_emoji.jpg" alt="News icon" class="news-image">
+      <div class="news-text">
+        I started the role of <b>Teaching Assistant<\b> for the course <b>Software Engineering Practices</b>. Thanks to Professor King for the opportunity!
+      </div>
+    </div>
+
+    <div class="news-item">
       <div class="news-date">October 2024</div>
       <img src="\images\award_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
@@ -152,6 +160,14 @@ For more information about my recent research projects, please visit the [Resear
       <img src="\images\award_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
         I received the 2024-25 E-Prize Award for the project <b>AI-Driven Optimization of the Actual Takeoff Weight</b>.
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">August 2024</div>
+      <img src="\images\teaching_emoji.jpg" alt="News icon" class="news-image">
+      <div class="news-text">
+        I started the role of <b>Teaching Assistant<\b> for the course <b>Machine Learning and Big Data Analytics</b>. Thanks to Professor Warner for the opportunity!
       </div>
     </div>
 
