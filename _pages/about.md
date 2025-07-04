@@ -162,7 +162,7 @@ For more information about my recent research projects, please visit the [Resear
 <!-- CSS STYLING -->
 <style>
 .news-scroll-container {
-  max-height: 400px; /* adjust height as needed */
+  max-height: 200px; /* adjust height as needed */
   overflow-y: auto;
   border: 1px solid #ddd;
   padding: 10px 0;
