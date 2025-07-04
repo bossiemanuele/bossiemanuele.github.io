@@ -65,7 +65,7 @@ For more information about my recent research projects, please visit the [Resear
 
 
 
-<!-- SECTION TITLE -->
+<!-- NEWS SECTION -->
 <div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
 📰 News
 </div>
@@ -74,19 +74,84 @@ For more information about my recent research projects, please visit the [Resear
 <div class="news-list">
 
   <!-- SINGLE NEWS ITEM -->
+
   <div class="news-item">
-    <div class="news-date">May 2025</div>
+    <div class="news-date">April 2025</div>
     <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
     <div class="news-text">
-      Gave a talk on <strong>Exact Verification of First-order Methods via Mixed-Integer Linear Programming</strong> at the Conference on Discrete Optimization and Machine Learning at the Research Institute for Mathematical Sciences (RIMS), Kyoto, Japan. It was a great event! Thanks Antoine Deza and Sebastian Pokutta for the invitation.
+      I joined the Jain Research Lab at Purdue University!
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-date">April 2025</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      I gave a talk on Modeling Human Behavior in Safety-Critical Aviation Systems at NASA Space Grant Symposium 2025 in Scottsdale. Thanks to Embry-Riddle URI!
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-date">April 2025</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      I participate in Invent for the Planet Global Finals! It has been a great experience. Thanks to Embry-Riddle's College of Engineering to support us.
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-date">April 2025</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      I gave a talk at NCUR 2025. It has been an amazing opportunity to networking with some of the brightest minds around the country. Thanks to Embry-Riddle URI!
     </div>
   </div>
 
   <div class="news-item">
-    <div class="news-date">May 2025</div>
+    <div class="news-date">February 2025</div>
     <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
     <div class="news-text">
-      Great to give a talk on <strong>Exact Verification of First-order Methods via Mixed-Integer Linear Programming</strong> at the CRM Montreal workshop on Combinatorial Optimization and Data Science. Thanks Margarida, Quentin, and Utsav for the kind invitation!
+      I've been selected to join the Jain Research Laboratory at Purdue University this Summer as part of SURF 2025. I'll be working on the projet Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">February 2025</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      I won the Invent for the Planet 2025 - Engineering Challenge at the univrsity level with the project AI-Driven Smart Agriculture for Climate Resilience. Our solution has been selected as one of the top 7 solution worldwide and we will present it at Texas A&M University next April!
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-date">January 2025</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      The paper <br>Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense</br> has been accepted for publication at the Intelligent Systems Conference (IntelliSys) 2025. I will present at IntelliSys 2025 in Amsterdam!
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">January 2025</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      The abstract "Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense" has been accepted for presentation at the National Conference on Undergraduate Research (NCUR) 2025. I will present at NCUR 2025 in Pittsburgh!
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-date">October 2024</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      Received 2024-25 CBSI Philanthropy Council Award for the project "Modeling Human Behavior in Safety-Critical Aviation Systems."
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">October 2024</div>
+    <img src="https://via.placeholder.com/60" alt="News icon" class="news-image">
+    <div class="news-text">
+      Received 2024-25 E-Prize Award for the project "AI-Driven Optimization of the Actual Takeoff Weight."
     </div>
   </div>
 
