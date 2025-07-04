@@ -67,10 +67,7 @@ For more information about my recent research projects, please visit the [Resear
 
 
 
-<!-- NEWS -->
-<div style="background-color:#f9f9f9; border-left:5px solid #007acc; padding:10px 15px; margin: 20px 0; font-weight:bold; font-size:1.2em; width: fit-content;">
-📰 News
-</div>
+## News
 
 <!-- SCROLLABLE CONTAINER -->
 <div class="news-scroll-container">
