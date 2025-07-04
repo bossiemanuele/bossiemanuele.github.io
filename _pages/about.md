@@ -146,7 +146,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">October 2024</div>
       <img src="\images\award_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I received the 2024-25 CBSI Philanthropy Council Award for the project <b>Modeling Human Behavior in Safety-Critical Aviation Systems</b>.”
+        I received the 2024-25 CBSI Philanthropy Council Award for the project <b>Modeling Human Behavior in Safety-Critical Aviation Systems</b>.
       </div>
     </div>
 
@@ -154,7 +154,7 @@ For more information about my recent research projects, please visit the [Resear
       <div class="news-date">October 2024</div>
       <img src="\images\award_emoji.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I received the 2024-25 E-Prize Award for the project <b>AI-Driven Optimization of the Actual Takeoff Weight</b>.”
+        I received the 2024-25 E-Prize Award for the project <b>AI-Driven Optimization of the Actual Takeoff Weight</b>.
       </div>
     </div>
 
