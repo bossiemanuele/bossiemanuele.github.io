@@ -166,13 +166,14 @@ My **research interests** center on developing trustworthy *autonomous systems* 
 </style>
 
 
-## Media Coverage
+{% raw %}
+<h2>Media Coverage</h2>
 
-<!-- SCROLLING CONTAINER -->
+<!-- ✅ Carousel Container -->
 <div class="news-carousel-container">
   <div class="news-carousel-track" id="mediaCarouselTrack">
-    
-    <!-- NEWS ITEM -->
+
+    <!-- News Item 1 -->
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">
         <h3>Embry‑Riddle Students Shine on National Stage at Undergraduate Research Conference</h3>
@@ -180,6 +181,7 @@ My **research interests** center on developing trustworthy *autonomous systems* 
       <img src="/images/erau-team-ncur.jpg" alt="News image">
     </div>
 
+    <!-- News Item 2 -->
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">
         <h3>Embry‑Riddle Student Team Plants the Seed for Smart Farming System</h3>
@@ -187,6 +189,7 @@ My **research interests** center on developing trustworthy *autonomous systems* 
       <img src="/images/iftp_texas.jpg" alt="News image">
     </div>
 
+    <!-- News Item 3 -->
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">
         <h3>A Record Year for Student Research Projects Showcased at Annual Embry‑Riddle Symposiums</h3>
@@ -194,6 +197,7 @@ My **research interests** center on developing trustworthy *autonomous systems* 
       <img src="/images/erau-symposium.jpeg" alt="News image">
     </div>
 
+    <!-- News Item 4 -->
     <div class="news-carousel-item">
       <a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">
         <h3>Blending Athletics and Academia: A Journey of Dedication and Passion</h3>
@@ -204,28 +208,27 @@ My **research interests** center on developing trustworthy *autonomous systems* 
   </div>
 </div>
 
-<!-- CSS -->
+<!-- ✅ Carousel Styling -->
 <style>
 .news-carousel-container {
   width: 100%;
   max-width: 700px;
+  height: 380px;
   overflow: hidden;
   border: 1px solid #ddd;
   background-color: #fff;
   position: relative;
-  margin-bottom: 20px;
-  aspect-ratio: 7 / 4;
+  margin: 20px auto;
 }
 
 .news-carousel-track {
   display: flex;
-  transition: transform 0.6s ease-in-out;
-  will-change: transform;
+  width: 100%;
+  transition: transform 0.8s ease-in-out;
 }
 
 .news-carousel-item {
-  flex: 0 0 100%;
-  max-width: 100%;
+  min-width: 100%;
   box-sizing: border-box;
   padding: 15px;
   text-align: center;
@@ -239,27 +242,30 @@ My **research interests** center on developing trustworthy *autonomous systems* 
 
 .news-carousel-item img {
   width: 100%;
-  height: 300px;
+  height: 280px;
   object-fit: cover;
   border-radius: 8px;
 }
 </style>
 
-<!-- JavaScript -->
+<!-- ✅ Carousel Logic -->
 <script>
-const track = document.getElementById('mediaCarouselTrack');
-const items = track.children;
-let currentIndex = 0;
-const totalItems = items.length;
+document.addEventListener("DOMContentLoaded", () => {
+  const track = document.getElementById("mediaCarouselTrack");
+  const items = track.children;
+  const totalItems = items.length;
+  let currentIndex = 0;
 
-function showSlide(index) {
-  const offset = -index * 100;
-  track.style.transform = `translateX(${offset}%)`;
-}
+  function scrollToItem(index) {
+    const offset = -index * 100;
+    track.style.transform = `translateX(${offset}%)`;
+  }
 
-// Auto-scroll every 3 seconds
-setInterval(() => {
-  currentIndex = (currentIndex + 1) % totalItems;
-  showSlide(currentIndex);
-}, 3000);
+  setInterval(() => {
+    currentIndex = (currentIndex + 1) % totalItems;
+    scrollToItem(currentIndex);
+  }, 3000);
+});
 </script>
+{% endraw %}
+
