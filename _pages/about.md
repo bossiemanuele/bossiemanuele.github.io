@@ -96,7 +96,7 @@ redirect_from:
   </div>
 </div>
 
-
+<style>
 .mini-banner-container {
   overflow: hidden;
   width: 100%;
@@ -130,6 +130,7 @@ redirect_from:
     transform: translateX(-50%);
   }
 }
+</style>
 
 I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am dual major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am a [**Teaching Assistant**](https://bossiemanuele.github.io/teaching/) for Professor *Timothy King*, Professor *Christopher Warner*, and Professor *Andri M. Gretarsson*. Additionally, I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working with different professors across [**Research Projects**](https://bossiemanuele.github.io/portfolio/) that span Mathematics, Engineering, and Computer Science. Particularly, my research is closely conducted under the mentorship of *Dr. Abd AlRahman AlMomani*, Assistant Professor of Data Science and Mathematics and Data Science Program Coordinator. Currently (Summer 2025), I am joining as *Visiting Research Fellow* the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/) at **Purdue University**. I am working on the project *["Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"](https://bossiemanuele.github.io/portfolio/00_SURF/)*.
 
