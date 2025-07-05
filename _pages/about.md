@@ -77,16 +77,16 @@ redirect_from:
 </style>
 
 <!-- 🔄 Auto-scrolling Mini Banner -->
-<div class="mini-banner-track">
-  <div class="mini-banner-content">
+<div class="mini-banner-container">
+  <div class="mini-banner-track">
+    <!-- Logos duplicated for seamless loop -->
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
     <img src="/images/usa_flag.webp" alt="USA" />
-  </div>
-  <div class="mini-banner-content">
+
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
@@ -97,7 +97,6 @@ redirect_from:
 </div>
 
 
-<style>
 .mini-banner-container {
   overflow: hidden;
   width: 100%;
@@ -109,14 +108,10 @@ redirect_from:
 
 .mini-banner-track {
   display: flex;
-  width: max-content;
-  animation: scroll-mini 40s linear infinite;
-}
-
-.mini-banner-content {
-  display: flex;
-  gap: 18px;
   align-items: center;
+  gap: 18px;
+  white-space: nowrap;
+  animation: scroll-mini 20s linear infinite;
 }
 
 .mini-banner-track img {
@@ -129,15 +124,12 @@ redirect_from:
 
 @keyframes scroll-mini {
   0% {
-    transform: translateX(0);
+    transform: translateX(0%);
   }
   100% {
     transform: translateX(-50%);
   }
 }
-</style>
-
-<br>
 
 I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am dual major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am a [**Teaching Assistant**](https://bossiemanuele.github.io/teaching/) for Professor *Timothy King*, Professor *Christopher Warner*, and Professor *Andri M. Gretarsson*. Additionally, I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working with different professors across [**Research Projects**](https://bossiemanuele.github.io/portfolio/) that span Mathematics, Engineering, and Computer Science. Particularly, my research is closely conducted under the mentorship of *Dr. Abd AlRahman AlMomani*, Assistant Professor of Data Science and Mathematics and Data Science Program Coordinator. Currently (Summer 2025), I am joining as *Visiting Research Fellow* the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/) at **Purdue University**. I am working on the project *["Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"](https://bossiemanuele.github.io/portfolio/00_SURF/)*.
 
