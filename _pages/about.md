@@ -83,6 +83,7 @@ redirect_from:
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/wvu_logo.png" alt="WVU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
+    <img src="/images/issnaf-logo.png" alt="ISSNAF" />
     🇮🇹 🇺🇸 ⚽ 💻 🔢
   </div>
 </div>
