@@ -83,13 +83,16 @@ redirect_from:
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
-    <img src="/images/issnaf-logo.png" alt="ISSNAF" />
-    🇮🇹 🇺🇸 ⚽ 💻 🔢
+    <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
+    <img src="/images/italia_flag.png" alt="Italy" />
+    <img src="/images/usa_flag.png" alt="USA" />
+    
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
-    <img src="/images/issnaf-logo.png" alt="ISSNAF" />
-    🇮🇹 🇺🇸 ⚽ 💻 🔢
+    <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
+    <img src="/images/italia_flag.png" alt="Italy" />
+    <img src="/images/usa_flag.png" alt="USA" />
   </div>
 </div>
 
