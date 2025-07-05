@@ -80,15 +80,15 @@ redirect_from:
 <div class="mini-banner-container">
   <div class="mini-banner-track">
     <!-- Add logo images or emojis here -->
-    <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/wvu_logo.webp" alt="WVU" />
+    <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
     <img src="/images/usa_flag.webp" alt="USA" />
     
-    <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/wvu_logo.webp" alt="WVU" />
+    <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
