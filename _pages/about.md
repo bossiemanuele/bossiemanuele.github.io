@@ -18,7 +18,7 @@ redirect_from:
 
   <!-- LinkedIn Icon -->
   <div class="social-icons">
-    <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/emanuele-bossi" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" class="linkedin-icon">
     </a>
   </div>
@@ -89,6 +89,15 @@ My **research interests** center on developing trustworthy *autonomous systems* 
   <div class="news-list">
 
     <!-- SINGLE NEWS ITEM -->
+
+    <div class="news-item">
+      <div class="news-date">June 2025</div>
+      <img src="\images\issnaf_logo.png" alt="News icon" class="news-image">
+      <div class="news-text">
+        I’ve been selected to join the <b>ISSNAF</b> Mentoring Program for Students! I’ve been paired with <b>Dr. Luca Luceri</b>, Research Assistant Professor at the University of Southern California.
+      </div>
+    </div>
+    
     <div class="news-item">
       <div class="news-date">May 2025</div>
       <img src="\images\herrick_logo.jpeg" alt="News icon" class="news-image">
