@@ -92,7 +92,7 @@ My **research interests** center on developing trustworthy *autonomous systems* 
 
     <div class="news-item">
       <div class="news-date">June 2025</div>
-      <img src="\images\issnaf_logo.png" alt="News icon" class="news-image">
+      <img src="\images\issnaf-logo.png" alt="News icon" class="news-image">
       <div class="news-text">
         I’ve been selected to join the <b>ISSNAF</b> Mentoring Program for Students! I’ve been paired with <b>Dr. Luca Luceri</b>, Research Assistant Professor at the University of Southern California.
       </div>
