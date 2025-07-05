@@ -81,7 +81,7 @@ redirect_from:
   <div class="mini-banner-track">
     <!-- Add logo images or emojis here -->
     <img src="/images/erau_logo.png" alt="ERAU" />
-    <img src="/images/wvu_logo.png" alt="WVU" />
+    <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
     <img src="/images/issnaf-logo.png" alt="ISSNAF" />
     🇮🇹 🇺🇸 ⚽ 💻 🔢
@@ -102,10 +102,9 @@ redirect_from:
   display: flex;
   align-items: center;
   gap: 18px;
-  padding-left: 100%;
-  animation: scroll-mini 20s linear infinite;
   white-space: nowrap;
   font-size: 0.95em;
+  animation: scroll-mini 20s linear infinite;
 }
 
 .mini-banner-track img {
@@ -120,7 +119,7 @@ redirect_from:
     transform: translateX(0);
   }
   100% {
-    transform: translateX(-100%);
+    transform: translateX(-50%);
   }
 }
 </style>
