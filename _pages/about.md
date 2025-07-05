@@ -77,23 +77,16 @@ redirect_from:
 </style>
 
 <!-- 🔄 Auto-scrolling Mini Banner -->
-<div class="mini-banner-container">
-  <div class="mini-banner-track">
-    <!-- Add logo images or emojis here -->
+<div class="mini-banner-track">
+  <div class="mini-banner-content">
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
     <img src="/images/usa_flag.webp" alt="USA" />
-    
-    <img src="/images/wvu_logo.webp" alt="WVU" />
-    <img src="/images/erau_logo.png" alt="ERAU" />
-    <img src="/images/purdue_logo.png" alt="Purdue" />
-    <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
-    <img src="/images/italia_flag.webp" alt="Italy" />
-    <img src="/images/usa_flag.webp" alt="USA" />
-
+  </div>
+  <div class="mini-banner-content">
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
@@ -102,6 +95,7 @@ redirect_from:
     <img src="/images/usa_flag.webp" alt="USA" />
   </div>
 </div>
+
 
 <style>
 .mini-banner-container {
@@ -115,11 +109,14 @@ redirect_from:
 
 .mini-banner-track {
   display: flex;
-  align-items: center;
+  width: max-content;
+  animation: scroll-mini 40s linear infinite;
+}
+
+.mini-banner-content {
+  display: flex;
   gap: 18px;
-  white-space: nowrap;
-  font-size: 0.95em;
-  animation: scroll-mini 20s linear infinite;
+  align-items: center;
 }
 
 .mini-banner-track img {
