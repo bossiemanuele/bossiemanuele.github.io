@@ -116,7 +116,8 @@ redirect_from:
 }
 
 .mini-banner-track img {
-  height: 18px;
+  height: 28px;
+  width: auto;
   vertical-align: middle;
   opacity: 0.8;
   filter: grayscale(60%);
@@ -127,7 +128,7 @@ redirect_from:
     transform: translateX(0);
   }
   100% {
-    transform: translateX(-100%);
+    transform: translateX(-50%);
   }
 }
 </style>
