@@ -111,7 +111,7 @@ redirect_from:
   align-items: center;
   gap: 18px;
   white-space: nowrap;
-  animation: scroll-mini 20s linear infinite;
+  animation: scroll-mini 10s linear infinite;
 }
 
 .mini-banner-track img {
