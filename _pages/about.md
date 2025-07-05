@@ -12,47 +12,70 @@ redirect_from:
 <div class="hero-header">
   <h1>Emanuele Bossi</h1>
   <p class="title">Undergraduate Student</p>
-  <p class="affiliation">Embry‑Riddle Aeronautical University</p>
+  <p class="affiliation"><a href="https://erau.edu" target="_blank">Embry‑Riddle Aeronautical University</a></p>
   <p class="majors">Data Science, Software Engineering</p>
-  <p class="visiting">Visiting Researcher at Purdue University (Jain Research Lab)</p>
   <p class="contact"><a href="mailto:bossie@my.erau.edu">bossie@my.erau.edu</a></p>
+
+  <!-- LinkedIn Icon -->
+  <div class="social-icons">
+    <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" class="linkedin-icon">
+    </a>
+  </div>
+  
 </div>
 {% endraw %}
 
 <style>
 .hero-header {
   text-align: center;
-  margin-top: 40px;
-  margin-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #333;
 }
 
 .hero-header h1 {
-  font-size: 2.4em;
-  font-weight: bold;
-  margin: 0 0 0.2em;
-  color: #222;
+  font-size: 1.8em;
+  margin-bottom: 0.1em;
+  font-weight: 500;
 }
 
-.hero-header .title,
-.hero-header .affiliation,
-.hero-header .majors,
-.hero-header .visiting {
-  font-size: 1.1em;
-  margin: 0.2em 0;
-  color: #555;
+.hero-header p {
+  font-size: 0.95em;
+  margin: 2px 0;
+  line-height: 1.3;
+  color: #444;
 }
 
+.hero-header .affiliation a,
 .hero-header .contact a {
-  font-size: 1em;
   color: #007acc;
   text-decoration: none;
+  font-weight: normal;
 }
 
+.hero-header .affiliation a:hover,
 .hero-header .contact a:hover {
   text-decoration: underline;
 }
-</style>
 
+.social-icons {
+  margin-top: 8px;
+}
+
+.linkedin-icon {
+  width: 22px;
+  height: 22px;
+  filter: invert(33%) sepia(95%) saturate(800%) hue-rotate(176deg) brightness(100%) contrast(92%);
+  transition: transform 0.2s ease;
+  vertical-align: middle;
+}
+
+.linkedin-icon:hover {
+  transform: scale(1.1);
+}
+</style>
 
 I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am dual major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am a [**Teaching Assistant**](https://bossiemanuele.github.io/teaching/) for Professor *Timothy King*, Professor *Christopher Warner*, and Professor *Andri M. Gretarsson*. Additionally, I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working with different professors across [Research Projects](https://bossiemanuele.github.io/portfolio/) that span Mathematics, Engineering, and Computer Science. Particularly, my research is closely conducted under the mentorship of *Dr. Abd AlRahman AlMomani*, Assistant Professor of Data Science and Mathematics and Data Science Program Coordinator. Currently (Summer 2025), I am joining as *Visiting Research Fellow* the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/) at **Purdue University**. I am working on the project *["Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"](https://bossiemanuele.github.io/portfolio/00_SURF/)*.
 
