@@ -11,9 +11,8 @@ redirect_from:
 <!-- 👤 Header Section -->
 <div class="hero-header">
   <h1><b>Emanuele Bossi</b></h1>
-  <p class="title">Undergraduate Student</p>
+  <p class="title"><i>Undergraduate Student</i></p>
   <p class="affiliation"><a href="https://erau.edu" target="_blank">Embry‑Riddle Aeronautical University</a></p>
-  <p class="majors">Data Science, Software Engineering</p>
   <p class="contact"><a href="mailto:bossie@my.erau.edu">bossie@my.erau.edu</a></p>
 
   <!-- LinkedIn Icon -->
