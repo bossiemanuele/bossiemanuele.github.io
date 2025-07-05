@@ -7,6 +7,53 @@ redirect_from:
   - /about.html
 ---
 
+{% raw %}
+<!-- 👤 Header Section -->
+<div class="hero-header">
+  <h1>Emanuele Bossi</h1>
+  <p class="title">Undergraduate Student</p>
+  <p class="affiliation">Embry‑Riddle Aeronautical University</p>
+  <p class="majors">Data Science, Software Engineering</p>
+  <p class="visiting">Visiting Researcher at Purdue University (Jain Research Lab)</p>
+  <p class="contact"><a href="mailto:bossie@my.erau.edu">bossie@my.erau.edu</a></p>
+</div>
+{% endraw %}
+
+<style>
+.hero-header {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.hero-header h1 {
+  font-size: 2.4em;
+  font-weight: bold;
+  margin: 0 0 0.2em;
+  color: #222;
+}
+
+.hero-header .title,
+.hero-header .affiliation,
+.hero-header .majors,
+.hero-header .visiting {
+  font-size: 1.1em;
+  margin: 0.2em 0;
+  color: #555;
+}
+
+.hero-header .contact a {
+  font-size: 1em;
+  color: #007acc;
+  text-decoration: none;
+}
+
+.hero-header .contact a:hover {
+  text-decoration: underline;
+}
+</style>
+
+
 I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am dual major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am a [**Teaching Assistant**](https://bossiemanuele.github.io/teaching/) for Professor *Timothy King*, Professor *Christopher Warner*, and Professor *Andri M. Gretarsson*. Additionally, I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working with different professors across [Research Projects](https://bossiemanuele.github.io/portfolio/) that span Mathematics, Engineering, and Computer Science. Particularly, my research is closely conducted under the mentorship of *Dr. Abd AlRahman AlMomani*, Assistant Professor of Data Science and Mathematics and Data Science Program Coordinator. Currently (Summer 2025), I am joining as *Visiting Research Fellow* the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/) at **Purdue University**. I am working on the project *["Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"](https://bossiemanuele.github.io/portfolio/00_SURF/)*.
 
 My **research interests** center on developing trustworthy *autonomous systems* that can operate reliably in high-stakes scenarios, ensuring both safety and efficiency. By integrating principles from optimization, control theory, probabilistic modeling, reinforcement learning, and applied linear algebra, I aim to design autonomous agents capable of making robust, real-time decisions in dynamic environments. Specifically, I am particularly interested in the application of Artificial Intelligence in Transportation and Aerospace.
