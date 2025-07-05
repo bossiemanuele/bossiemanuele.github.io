@@ -10,7 +10,7 @@ redirect_from:
 {% raw %}
 <!-- 👤 Header Section -->
 <div class="hero-header">
-  <h1>Emanuele Bossi</h1>
+  <h1><b>Emanuele Bossi</b></h1>
   <p class="title">Undergraduate Student</p>
   <p class="affiliation"><a href="https://erau.edu" target="_blank">Embry‑Riddle Aeronautical University</a></p>
   <p class="majors">Data Science, Software Engineering</p>
