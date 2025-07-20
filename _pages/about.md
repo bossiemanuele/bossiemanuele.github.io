@@ -153,6 +153,14 @@ My **research interests** lie in *control theory*, *optimization*, and *machine 
     <!-- SINGLE NEWS ITEM -->
 
     <div class="news-item">
+      <div class="news-date">July 2025</div>
+      <img src="\images\purdue_logo.png" alt="News icon" class="news-image">
+      <div class="news-text">
+        I’ve been selected to give a research talk at Purdue University's Summer Symposium. I will be presenting the recent work I've conducted in the Jain Research Lab!
+      </div>
+    </div>
+    
+    <div class="news-item">
       <div class="news-date">June 2025</div>
       <img src="\images\issnaf-logo.png" alt="News icon" class="news-image">
       <div class="news-text">
