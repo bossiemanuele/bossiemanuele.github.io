@@ -22,7 +22,7 @@ The PI for this project is **Dr. Jain**, Associate Professor of Mechanical Engin
 **S. Jeevanandam**, Ph.D. candidate in Mechanical Engineering.
 This project have been funded by NSF Career Award (Dr. Jain) and through the **2025 Summer Undergraduate Research Fellowship (SURF)** program at Purdue University.
 
-As part of the program, I have been selected to give a talk about this research at the **Purdue University Summer Symposium** on July 30, 2025. At the top of this page you can find a 15-minute overview of the research project, aimed at a *general, non-technical, audience*.
+As part of the program, I have been selected to give a talk about this research at the **Purdue University Summer Symposium** on July 30, 2025. At the top of this page you can find a 15-minutes overview of the research project, aimed at a *general, non-technical, audience*.
 
 ## Abstract
 
