@@ -14,6 +14,15 @@ This project is part of the **2025 Summer Undergraduate Research Fellowship (SUR
 
 As part of the program, I will present my research at the **Purdue University Summer Symposium** on July 30, 2025.
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGujyHH9tA/JSHWUrUArVrKniXcT9h-5Q/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGujyHH9tA&#x2F;JSHWUrUArVrKniXcT9h-5Q&#x2F;watch?utm_content=DAGujyHH9tA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Progetto</a> di Emanuele Bossi
+
 ## Abstract
 
 Estimating human cognitive states is increasingly important for enabling safe and efficient human–autonomy interaction, particularly in safety-critical settings such as automated driving. Cognitive states, such as trust, workload, and perceived risk, are known to influence driver behavior but are not directly observable; instead, they must be inferred from behavioral data, physiological data, and intermittent self-reports of these states. Prior work on cognitive state estimation in human–autonomy interaction—--particularly in automated driving--—has predominantly used static, categorical models based on unimodal inputs, with limited support for real-time updates, uncertainty quantification, or adaptive querying of human input.
