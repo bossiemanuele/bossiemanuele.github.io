@@ -7,6 +7,8 @@ collection: portfolio
 
 *In Preparation: "Don't Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving." Bachelor's Thesis.*
 
+*In Preparation: "Don’t Bother the Driver: Adaptive Cognitive State Estimation During Automated Driving Under Reduced Querying."*
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -14,7 +16,7 @@ collection: portfolio
     src="https://www.canva.com/design/DAGujyHH9tA/JSHWUrUArVrKniXcT9h-5Q/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGujyHH9tA&#x2F;JSHWUrUArVrKniXcT9h-5Q&#x2F;watch?utm_content=DAGujyHH9tA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Progetto</a> di Emanuele Bossi
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGujyHH9tA&#x2F;JSHWUrUArVrKniXcT9h-5Q&#x2F;watch?utm_content=DAGujyHH9tA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
 This research project has been completed during Summer 2025 at the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/), the research laboratory of Dr. Jain at **Purdue University**.
 The PI for this project is **Dr. Jain**, Associate Professor of Mechanical Engineering (by courtesy in Aeronautics & Astronautics). The Ph.D. Mentor for this project is
