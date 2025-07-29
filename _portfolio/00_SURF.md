@@ -7,13 +7,6 @@ collection: portfolio
 
 *In Preparation: "Don't Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving." Bachelor's Thesis.*
 
-This research project is in progress during Summer 2025 at the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/), the research laboratory of Dr. Jain at **Purdue University**.
-The advisor for this project is **Dr. Jain**, Associate Professor of Mechanical Engineering (by courtesy in Aeronautics & Astronautics). The Ph.D. Mentor for this project is
-**S. Jeevanandam**, Ph.D. candidate in Mechanical Engineering.
-This project is part of the **2025 Summer Undergraduate Research Fellowship (SURF)** program at Purdue University.
-
-As part of the program, I will present my research at the **Purdue University Summer Symposium** on July 30, 2025.
-
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -22,6 +15,13 @@ As part of the program, I will present my research at the **Purdue University Su
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGujyHH9tA&#x2F;JSHWUrUArVrKniXcT9h-5Q&#x2F;watch?utm_content=DAGujyHH9tA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Progetto</a> di Emanuele Bossi
+
+This research project has been completed during Summer 2025 at the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/), the research laboratory of Dr. Jain at **Purdue University**.
+The PI for this project is **Dr. Jain**, Associate Professor of Mechanical Engineering (by courtesy in Aeronautics & Astronautics). The Ph.D. Mentor for this project is
+**S. Jeevanandam**, Ph.D. candidate in Mechanical Engineering.
+This project have been funded by NSF Career Award (Dr. Jain) and through the **2025 Summer Undergraduate Research Fellowship (SURF)** program at Purdue University.
+
+As part of the program, I have being selected to give a talk about this research at the **Purdue University Summer Symposium** on July 30, 2025. At the top of this page you can find a 15-minute overview of the research project, aimed at a *general, non-technical, audience*.
 
 ## Abstract
 
