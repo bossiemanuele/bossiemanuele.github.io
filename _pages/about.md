@@ -153,7 +153,7 @@ My **research interests** lie in *control theory*, *optimization*, and *machine 
     <!-- SINGLE NEWS ITEM -->
 
     <div class="news-item">
-      <div class="news-date">July 2025</div>
+      <div class="news-date">August 2025</div>
       <img src="\images\princeton_logo.png" alt="News icon" class="news-image">
       <div class="news-text">
         I have been admitted to the 2025 Pathways to Graduate School for Rising College Seniors program, hosted by Princeton Engineering!
