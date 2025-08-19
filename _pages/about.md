@@ -154,6 +154,14 @@ My **research interests** lie in *control theory*, *optimization*, and *machine 
 
     <div class="news-item">
       <div class="news-date">August 2025</div>
+      <img src="\images\teaching_emoji.jpg" alt="News icon" class="news-image">
+      <div class="news-text">
+        I started the role of <b>Teaching Assistant</b> for the course <b>Physics III for Engineers Lab</b> in support of Professor Gretarsson. This Fall I will also continue to serve as a TA to Professors Warner and King.
+      </div>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">August 2025</div>
       <img src="\images\princeton_logo.png" alt="News icon" class="news-image">
       <div class="news-text">
         I have been admitted to the 2025 <b>Pathways to Graduate School for Rising College Seniors</b> program, hosted by <b>Princeton Engineering</b>!
