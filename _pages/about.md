@@ -156,7 +156,7 @@ My **research interests** lie in *control theory*, *optimization*, and *machine 
       <div class="news-date">August 2025</div>
       <img src="\images\princeton_logo.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I have been admitted to the 2025 Pathways to Graduate School for Rising College Seniors program, hosted by Princeton Engineering!
+        I have been admitted to the 2025 <b>Pathways to Graduate School for Rising College Seniors</b> program, hosted by <b>Princeton Engineering</b>!
       </div>
     </div>
     
@@ -164,7 +164,7 @@ My **research interests** lie in *control theory*, *optimization*, and *machine 
       <div class="news-date">July 2025</div>
       <img src="\images\purdue_logo.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I gave a research talk at Purdue University's Summer Symposium. I presented the recent work I've conducted in the Jain Research Lab titled "Don't Bother the Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"!
+        I gave a research talk at <b>Purdue University's Summer Symposium</b>. I presented the recent work I've conducted in the Jain Research Lab titled "<b>Don't Bother the Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving</b>"!
       </div>
     </div>
     
