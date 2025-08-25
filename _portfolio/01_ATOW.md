@@ -1,5 +1,5 @@
 ---
-title: "AI-Driven Optimization of the Actual Takeoff Weight"
+title: "An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight "
 excerpt: "Implementing Machine Learning Techniques for Predictive Analysis and Operational Optimization.
 <br/><img src='/images/Takeoff picture.webp' width='300' height='500'>"
 collection: portfolio
