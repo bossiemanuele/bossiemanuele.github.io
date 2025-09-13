@@ -7,10 +7,8 @@ excerpt: ''
 date: 2025-12-31
 venue: 'Submitted'
 paperurl: 'http://bossiemanuele.github.io/files/Bossi_Abstract.pdf'
-citation: 'Bossi, E., AlMomani, R. (2025). "An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)." In Preparation.'
+citation: 'Bossi, E., AlMomani, R. (2025). "An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)." AIAA SciTech Forum 2026, Orlando, FL. (Accepted).'
 ---
-
-*This paper has been submitted for consideration to a conference venue. You can download an extended abstract and see the prelimnary results by dowloading the file attached to this page.*
 
 **Abstract**: The aviation industry plays a critical role in global transportation, but its safety and environmental impact are increasingly under scrutiny. A significant concern is the frequency of aviation accidents linked to exceeding the allowable take-off weight, underscoring the need for more precise methods to monitor aircraft weight during this critical stage of a flight.
 
