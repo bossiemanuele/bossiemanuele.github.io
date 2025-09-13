@@ -1,6 +1,6 @@
 ---
 title: "An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight "
-excerpt: "Implementing Machine Learning Techniques for Predictive Analysis and Operational Optimization.
+excerpt: "Information Theory, Entropy, Machine Learning, Feature Selection, Takeoff Weight.
 <br/><img src='/images/Takeoff picture.webp' width='300' height='500'>"
 collection: portfolio
 ---
