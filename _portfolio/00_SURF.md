@@ -5,8 +5,8 @@ excerpt: "Summer Undergraduate Research Fellowship (SURF) at Purdue University.
 collection: portfolio
 ---
 
-1. *In Preparation: "Don't Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving." Bachelor's Thesis.*
-2. *In Preparation: "Don’t Bother the Driver: Adaptive Cognitive State Estimation During Automated Driving Under Reduced Querying."*
+1. *In Preparation. Topic: Physiologial Signals Analysis in Dynamic Driving Environment (venue: Conference Paper).*
+2. *In Preparation: Topic: Multimodal Cognitive State Estimaton and Sensor Scheduling (venue: Journal Paper).*
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
