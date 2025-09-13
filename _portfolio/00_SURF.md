@@ -1,6 +1,6 @@
 ---
 title: "Don't Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"
-excerpt: "Summer Undergraduate Research Fellowship (SURF) at Purdue University.
+excerpt: "
 <br/><img src='/images/SURF LOGO.gif' width='300' height='500'>"
 collection: portfolio
 ---
