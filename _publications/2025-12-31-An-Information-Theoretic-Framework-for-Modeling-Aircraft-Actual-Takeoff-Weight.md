@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-12-31-An-Information-Theoretic-Framework-for-Modeling-Aircraft-Actual-Takeoff-Weight
 excerpt: ''
 date: 2025-12-31
-venue: 'Submitted'
+venue: 'AIAA SciTech Forum 2026 (Accepted)'
 paperurl: 'http://bossiemanuele.github.io/files/Bossi_Abstract.pdf'
 citation: 'Bossi, E., AlMomani, R. (2025). "An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)." AIAA SciTech Forum 2026, Orlando, FL. (Accepted).'
 ---
