@@ -1,6 +1,6 @@
 ---
 title: "An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight "
-excerpt: "Information Theory, Entropy, Machine Learning, Feature Selection, Takeoff Weight.
+excerpt: "This research develops an interpretable machine learning framework to estimate aircraft Actual Takeoff Weight (ATOW) using flight metadata and ADS-B data, supported by feature analysis and error correction. The approach improves accuracy, robustness, and transparency over existing methods, enabling safer and more efficient aviation operations.
 <br/><img src='/images/Takeoff picture.webp' width='300' height='500'>"
 collection: portfolio
 ---
