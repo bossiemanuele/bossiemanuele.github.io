@@ -1,7 +1,7 @@
 ---
 title: "Don't Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"
 excerpt: "State Estimation, Machine Learning, Sensor Scheduling, Human-Autonomy Interaction, Automated Driving.
-<br/><img src='/images/SURF LOGO.gif' width='300' height='500'>"
+<br/><img src='/images/SURF - FigureDraft.png' width='300' height='500'>"
 collection: portfolio
 ---
 
