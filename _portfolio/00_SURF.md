@@ -16,7 +16,7 @@ collection: portfolio
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGujyHH9tA&#x2F;JSHWUrUArVrKniXcT9h-5Q&#x2F;watch?utm_content=DAGujyHH9tA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
-This research project has been completed during Summer 2025 at the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/), the research laboratory of Dr. Jain at **Purdue University**.
+This research project has been completed during Summer 2025 as Visiting Undergraduate Researcher in the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/), the research laboratory of Dr. Jain at **Purdue University**.
 The PI for this project is **Dr. Jain**, Associate Professor of Mechanical Engineering (by courtesy in Aeronautics & Astronautics). The Ph.D. Mentor for this project is
 **S. Jeevanandam**, Ph.D. candidate in Mechanical Engineering.
 This project have been funded by NSF Career Award (Dr. Jain) and through the **2025 Summer Undergraduate Research Fellowship (SURF)** program at Purdue University.
