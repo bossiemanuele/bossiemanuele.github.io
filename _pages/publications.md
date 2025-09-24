@@ -18,6 +18,13 @@ Papers listed by type and year of publication or year of submission/expected sub
 &nbsp;&nbsp;&nbsp;&nbsp; *Journal: TBD*     
 &nbsp;&nbsp;&nbsp;&nbsp; 2025    
 
+<a href="[https://arxiv.org/abs/2504.08097](https://bossiemanuele.github.io/portfolio/01_SURF/)" style="color:#000; font-weight:bold;">
+  **Don’t Bother the Driver: Adaptive Cognitive State Estimation During Automated Driving Under Reduced Querying**
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, S. Jeevanandam, N. Jain      
+&nbsp;&nbsp;&nbsp;&nbsp; *Journal: TBD*     
+&nbsp;&nbsp;&nbsp;&nbsp; 2025    
+
 ## Accepted
 
 ### [An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)](https://bossiemanuele.github.io/portfolio/02_ATOW/)  
