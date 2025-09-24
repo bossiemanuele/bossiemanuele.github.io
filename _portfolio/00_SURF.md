@@ -33,3 +33,5 @@ This paper introduces a novel modeling framework that treats cognitive states as
 Our approach involves predicting a human's trust, workload, and perceived risk using a affine dynamical model. These latent states are then used to predict reliance through a tree-based classifier. Model uncertainty informs whether to incorporate new self-reports; when unavailable but needed, a particle filter fuses selected physiological and gaze features via an auxiliary tree-based ensemble model to refine predictions under non-stationary conditions.
 
 Experimental results show improved prediction and estimation accuracy over static or purely data-driven baselines, underscoring the advantages of integrating dynamical systems with machine learning in an online framework to account for the time-varying nature of human behavior. This approach enables individualized, continuous cognitive state estimation and lays the groundwork for closed-loop decision-making. Future work will focus on incorporating these estimates into controllers that intelligently manage driver engagement in complex, dynamic environments.
+
+<img src='/images/SURF - FigureDraft.png'>
