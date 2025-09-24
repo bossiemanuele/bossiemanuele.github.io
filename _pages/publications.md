@@ -13,7 +13,7 @@ Papers listed by type and year of publication or year of submission/expected sub
 
 
 ## In Preparation
-<a href="https://arxiv.org/abs/2504.08097](https://bossiemanuele.github.io/portfolio/01_SURF/" style="color:#000; font-weight:bold;">
+<a href="https://bossiemanuele.github.io/portfolio/01_SURF/" style="color:#000; font-weight:bold;">
   **Don’t Bother the Driver: Adaptive Cognitive State Estimation During Automated Driving Under Reduced Querying**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, S. Jeevanandam, N. Jain      
