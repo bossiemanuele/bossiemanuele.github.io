@@ -14,18 +14,18 @@ Papers listed by type and year of publication or year of submission/expected sub
 
 ## In Preparation
 ### [Don’t Bother the Driver: Adaptive Cognitive State Estimation During Automated Driving Under Reduced Querying](https://bossiemanuele.github.io/portfolio/01_SURF/)  
-E. Bossi, S. Jeevanandam, N. Jain      
-*Journal: TBD*     
-2025    
+&nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, S. Jeevanandam, N. Jain      
+&nbsp;&nbsp;&nbsp;&nbsp; *Journal: TBD*     
+&nbsp;&nbsp;&nbsp;&nbsp; 2025    
 
 ## Accepted
 
 ### [An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)](https://bossiemanuele.github.io/portfolio/02_ATOW/)  
-E. Bossi, R.A. AlMomani      
-*AIAA SciTech 2026 Forum (accepted)*      
-2026
+&nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, R.A. AlMomani      
+&nbsp;&nbsp;&nbsp;&nbsp; *AIAA SciTech 2026 Forum (accepted)*      
+&nbsp;&nbsp;&nbsp;&nbsp; 2026
 
 ### [Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models]()  
-E. Bossi, F. Ahmed      
-*IntelliSys 2025 (presented)*     
-2025    
+&nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, F. Ahmed      
+&nbsp;&nbsp;&nbsp;&nbsp; *IntelliSys 2025 (presented)*     
+&nbsp;&nbsp;&nbsp;&nbsp; 2025    
