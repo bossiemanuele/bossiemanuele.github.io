@@ -1,6 +1,6 @@
 ---
 title: "Don't Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"
-excerpt: "State Estimation, Machine Learning, Sensor Scheduling, Human-Autonomy Interaction, Automated Driving.
+excerpt: "This research develops a hybrid dynamical systems and machine learning framework to continuously estimate drivers’ cognitive states (trust, workload, perceived risk) and predict automation reliance in real time. By quantifying uncertainty and adaptively scheduling self-reports, the approach improves prediction accuracy while reducing user burden, enabling safer and more efficient human–autonomy interaction in automated driving.
 <br/><img src='/images/SURF - FigureDraft.png' width='300' height='500'>"
 collection: portfolio
 ---
