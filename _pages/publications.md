@@ -13,6 +13,13 @@ Papers listed by type and year of publication or year of submission/expected sub
 
 
 ## In Preparation
+<a href="https://bossiemanuele.github.io/portfolio/00_ER/" style="color:#000; font-weight:bold;">
+  **Scalable Causal Network Discovery via Dynamics-Informed Information-Theoretic Representations**
+</a>   
+&nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, A.R. AlMomani      
+&nbsp;&nbsp;&nbsp;&nbsp; *Journal: TBD*     
+&nbsp;&nbsp;&nbsp;&nbsp; 2025    
+
 <a href="https://bossiemanuele.github.io/portfolio/01_SURF/" style="color:#000; font-weight:bold;">
   **Don’t Bother the Driver: Adaptive Cognitive State Estimation During Automated Driving Under Reduced Querying**
 </a>   
