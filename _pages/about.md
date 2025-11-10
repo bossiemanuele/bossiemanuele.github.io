@@ -152,7 +152,23 @@ My **research interests** focus on *data-driven discovery and control of complex
 
     <!-- SINGLE NEWS ITEM -->
 
-        <div class="news-item">
+    <div class="news-item">
+      <div class="news-date">November 2025</div>
+      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
+      <div class="news-text">
+        I gave a talk as Guest Speaker at Embry-Riddle AI Summit 2026 during the Panel Session.
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">November 2025</div>
+      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
+      <div class="news-text">
+        I gave a talk as Invited Speaker at UATE, Somma Lombardo. It's always great to give back to the community where I grew up!
+      </div>
+    </div>
+    
+    <div class="news-item">
       <div class="news-date">August 2025</div>
       <img src="\images\aiaa_scitech.jpg" alt="News icon" class="news-image">
       <div class="news-text">
