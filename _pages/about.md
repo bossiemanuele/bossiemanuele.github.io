@@ -156,7 +156,7 @@ My **research interests** focus on *data-driven discovery and control of complex
       <div class="news-date">November 2025</div>
       <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
       <div class="news-text">
-        I gave a talk as Guest Speaker at Embry-Riddle AI Summit 2026 during the Panel Session.
+        I gave a talk as Guest Speaker at Embry-Riddle AI Summit 2025 during the Panel Session.
       </div>
     </div>
 
