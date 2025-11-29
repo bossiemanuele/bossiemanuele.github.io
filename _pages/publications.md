@@ -33,7 +33,7 @@ Papers listed by type and year of publication or year of submission/expected sub
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, S. Jeevanandam, N. Jain      
 &nbsp;&nbsp;&nbsp;&nbsp; *2026 IFAC World Congress*     
-&nbsp;&nbsp;&nbsp;&nbsp; 2026   
+&nbsp;&nbsp;&nbsp;&nbsp; 2025   
 
 ## Accepted
 <a href="https://bossiemanuele.github.io/portfolio/03_ATOW/" style="color:#000; font-weight:bold;">
@@ -41,7 +41,7 @@ Papers listed by type and year of publication or year of submission/expected sub
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, A.R. AlMomani      
 &nbsp;&nbsp;&nbsp;&nbsp; *AIAA SciTech 2026 Forum (accepted)*      
-&nbsp;&nbsp;&nbsp;&nbsp; 2026
+&nbsp;&nbsp;&nbsp;&nbsp; 2025
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-032-07109-5_12" style="color:#000; font-weight:bold;">
   **Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models**
