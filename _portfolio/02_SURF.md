@@ -4,7 +4,7 @@ excerpt: "This research develops a hybrid dynamical systems and machine learning
 collection: portfolio
 ---
 
-1. *Submitted: A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving (venue: 2026 IFAC World Congress).*
+1. *Submitted: A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving (venue: 2026 IFAC World Congress).* *Abstract*: This paper introduces a hybrid dynamic modeling framework that predicts driver reliance on automation using intermittent self-reports of cognitive states. Building on a hybrid model of trust, risk perception, and workload, we replace restrictive threshold rules with a decision-tree classifier and enable online parameter adaptation. We further introduce a reliance-accuracy-based sensor-scheduling scheme that selectively triggers self-reports. Human-subject experiments ($N$ = 16) show that the approach improves mean prediction accuracy while using only one-third of available self-reports, demonstrating the value of lightweight, adaptive cognition modeling for automated driving. 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
