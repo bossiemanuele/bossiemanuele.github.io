@@ -1,6 +1,6 @@
 ---
-title: "An Entropy-Based Approach to Measure Quality of Clusters"
-excerpt: "This project develops an entropy-based framework for evaluating clustering quality, integrating both geometric structure and local density. Leveraging the Boltzmann–Shannon Interaction Entropy (BSIE), it provides a flexible, generalizable metric suitable for complex, non-spherical, and uneven clusters, enabling robust assessment of data partitions across diverse feature spaces."
+title: "Boltzmann-Shannon Index For Clustered and Mixed-Type Data"
+excerpt: "Defintion of the Boltzmann-Shannon Interaction Index, an indicator of how well the data is spread based on both frequency-based probability and geometric-based probability; in other words, we are introducing an index that will give a sense of how well the state-space is partitioned."
 collection: portfolio
 ---
 
