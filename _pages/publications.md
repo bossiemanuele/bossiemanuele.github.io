@@ -18,10 +18,10 @@ Papers listed by type and year of publication or year of submission/expected sub
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, A.R. AlMomani      
 &nbsp;&nbsp;&nbsp;&nbsp; *Journal: TBD*     
-&nbsp;&nbsp;&nbsp;&nbsp; 2025 
+&nbsp;&nbsp;&nbsp;&nbsp; 2026 
 
 <a href="https://bossiemanuele.github.io/portfolio/01_BSIE/" style="color:#000; font-weight:bold;">
-  **An Entropy-Based Approach to Measure Quality of Clusters**
+  **Boltzmann-Shannon Index For Clustered and Mixed-Type Data**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, C.T. Diggans, A.R. AlMomani      
 &nbsp;&nbsp;&nbsp;&nbsp; *Journal: TBD*     
