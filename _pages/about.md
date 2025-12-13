@@ -478,7 +478,10 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
-<!-- ✅ Carousel Container -->
+---
+
+<!-- ===================== NEWS CAROUSEL (FULL WORKING BLOCK) ===================== -->
+
 <div class="news-carousel-container" id="newsCarousel">
 
   <div class="news-carousel-track" id="mediaCarouselTrack">
@@ -487,35 +490,35 @@ document.addEventListener("DOMContentLoaded", () => {
       <a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">
         <h3>Embry-Riddle Students Shine on National Stage at Undergraduate Research Conference</h3>
       </a>
-      <img src="/images/erau-team-ncur.jpg" alt="News image">
+      <img src="/images/erau-team-ncur.jpg" alt="">
     </div>
 
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">
         <h3>Embry-Riddle Student Team Plants the Seed for Smart Farming System</h3>
       </a>
-      <img src="/images/iftp_texas.jpg" alt="News image">
+      <img src="/images/iftp_texas.jpg" alt="">
     </div>
 
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">
         <h3>A Record Year for Student Research Projects Showcased at Annual Embry-Riddle Symposiums</h3>
       </a>
-      <img src="/images/erau-symposium.jpeg" alt="News image">
+      <img src="/images/erau-symposium.jpeg" alt="">
     </div>
 
     <div class="news-carousel-item">
       <a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">
         <h3>Blending Athletics and Academia: A Journey of Dedication and Passion</h3>
       </a>
-      <img src="/images/bossi_erau_article.jpg" alt="News image">
+      <img src="/images/bossi_erau_article.jpg" alt="">
     </div>
 
   </div>
 
-  <!-- Arrows -->
-  <button class="carousel-arrow left" id="carouselPrev">&#10094;</button>
-  <button class="carousel-arrow right" id="carouselNext">&#10095;</button>
+  <!-- Navigation -->
+  <button class="carousel-arrow left" onclick="carouselPrev()">&#10094;</button>
+  <button class="carousel-arrow right" onclick="carouselNext()">&#10095;</button>
 
 </div>
 
@@ -532,13 +535,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
 .news-carousel-track {
   display: flex;
-  transition: transform 0.6s ease-in-out;
+  transition: transform 0.6s ease;
 }
 
 .news-carousel-item {
   flex: 0 0 100%;
-  padding: 15px;
   text-align: center;
+  padding: 15px;
 }
 
 .news-carousel-item img {
@@ -553,13 +556,13 @@ document.addEventListener("DOMContentLoaded", () => {
   top: 50%;
   transform: translateY(-50%);
   background: rgba(0,0,0,0.6);
-  color: white;
+  color: #fff;
   border: none;
   font-size: 26px;
   padding: 8px 12px;
   cursor: pointer;
-  border-radius: 50%;
   z-index: 10;
+  border-radius: 50%;
 }
 
 .carousel-arrow.left { left: 10px; }
@@ -567,43 +570,41 @@ document.addEventListener("DOMContentLoaded", () => {
 </style>
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
-  const container = document.getElementById("newsCarousel");
-  const track = document.getElementById("mediaCarouselTrack");
-  const items = track.children;
-  const totalItems = items.length;
+/* ======= NO DOMContentLoaded, NO EVENT LISTENERS ======= */
 
-  let currentIndex = 0;
-  let autoScroll;
+let carouselIndex = 0;
+const carouselTrack = document.getElementById("mediaCarouselTrack");
+const carouselItems = document.getElementsByClassName("news-carousel-item");
+const carouselContainer = document.getElementById("newsCarousel");
 
-  function moveCarousel() {
-    const width = container.clientWidth;
-    track.style.transform = `translateX(${-currentIndex * width}px)`;
-  }
+function carouselUpdate() {
+  const width = carouselContainer.offsetWidth;
+  carouselTrack.style.transform =
+    "translateX(" + (-carouselIndex * width) + "px)";
+}
 
-  document.getElementById("carouselPrev").onclick = () => {
-    currentIndex = (currentIndex - 1 + totalItems) % totalItems;
-    moveCarousel();
-  };
+function carouselNext() {
+  carouselIndex = (carouselIndex + 1) % carouselItems.length;
+  carouselUpdate();
+}
 
-  document.getElementById("carouselNext").onclick = () => {
-    currentIndex = (currentIndex + 1) % totalItems;
-    moveCarousel();
-  };
+function carouselPrev() {
+  carouselIndex =
+    (carouselIndex - 1 + carouselItems.length) % carouselItems.length;
+  carouselUpdate();
+}
 
-  function startAutoScroll() {
-    autoScroll = setInterval(() => {
-      currentIndex = (currentIndex + 1) % totalItems;
-      moveCarousel();
-    }, 3000);
-  }
+/* Auto scroll */
+setInterval(carouselNext, 3000);
 
-  startAutoScroll();
+/* Resize safety */
+window.onresize = carouselUpdate;
 
-  // Keep correct position on resize
-  window.addEventListener("resize", moveCarousel);
-});
+/* Initial position */
+carouselUpdate();
 </script>
+
+<!-- ===================== END NEWS CAROUSEL ===================== -->
 
 
 {% endraw %}
