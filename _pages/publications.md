@@ -37,7 +37,7 @@ Papers listed by type and year of publication or year of submission/expected sub
 
 ## Accepted
 <a href="https://bossiemanuele.github.io/portfolio/03_ATOW/" style="color:#000; font-weight:bold;">
-  **An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)**
+  **Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, A.R. AlMomani      
 &nbsp;&nbsp;&nbsp;&nbsp; *AIAA SciTech 2026 Forum (Accepted)*      
