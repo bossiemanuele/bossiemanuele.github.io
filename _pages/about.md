@@ -156,8 +156,9 @@ My **research interests** focus on *data-driven discovery and control of complex
       <div class="news-date">December 2025</div>
       <img src="\images\arxiv.png" alt="News icon" class="news-image">
       <div class="news-text">
-        A new Pre-Print is available on arXiv: *[Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance
-](https://arxiv.org/abs/2512.02397)*.
+        A new Pre-Print is available on arXiv: <a href="https://arxiv.org/abs/2512.02397" target="_blank">
+    <strong>Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance</strong>
+  </a>.
       </div>
     </div>
 
