@@ -182,7 +182,7 @@ My **research interests** focus on *data-driven discovery and control of complex
       <div class="news-date">August 2025</div>
       <img src="\images\aiaa_scitech.jpg" alt="News icon" class="news-image">
       <div class="news-text">
-        Orlando, here we go! The paper <b>An Information-Theoretic Framework for Modeling Aircraft Actual Takeoff Weight (ATOW)</b> has been accepted for publication at the <b>AIAA SciTech Forum 2026</b>. I will present at AIAA SciTech 2026 in Orlando!
+        Orlando, here we go! The paper <b>Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach</b> has been accepted for publication at the <b>AIAA SciTech Forum 2026</b>. I will present at AIAA SciTech 2026 in Orlando!
       </div>
     </div>
 
