@@ -479,12 +479,10 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 
 <!-- ✅ Carousel Container -->
-<div class="news-carousel-container">
-  
-  <!-- ✅ Carousel Track -->
+<div class="news-carousel-container" id="newsCarousel">
+
   <div class="news-carousel-track" id="mediaCarouselTrack">
 
-    <!-- News Item 1 -->
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">
         <h3>Embry-Riddle Students Shine on National Stage at Undergraduate Research Conference</h3>
@@ -492,7 +490,6 @@ document.addEventListener("DOMContentLoaded", () => {
       <img src="/images/erau-team-ncur.jpg" alt="News image">
     </div>
 
-    <!-- News Item 2 -->
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">
         <h3>Embry-Riddle Student Team Plants the Seed for Smart Farming System</h3>
@@ -500,7 +497,6 @@ document.addEventListener("DOMContentLoaded", () => {
       <img src="/images/iftp_texas.jpg" alt="News image">
     </div>
 
-    <!-- News Item 3 -->
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">
         <h3>A Record Year for Student Research Projects Showcased at Annual Embry-Riddle Symposiums</h3>
@@ -508,7 +504,6 @@ document.addEventListener("DOMContentLoaded", () => {
       <img src="/images/erau-symposium.jpeg" alt="News image">
     </div>
 
-    <!-- News Item 4 -->
     <div class="news-carousel-item">
       <a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">
         <h3>Blending Athletics and Academia: A Journey of Dedication and Passion</h3>
@@ -518,42 +513,32 @@ document.addEventListener("DOMContentLoaded", () => {
 
   </div>
 
-  <!-- ✅ Navigation Arrows -->
+  <!-- Arrows -->
   <button class="carousel-arrow left" id="carouselPrev">&#10094;</button>
   <button class="carousel-arrow right" id="carouselNext">&#10095;</button>
 
 </div>
 
-<!-- ✅ Carousel Styling -->
 <style>
 .news-carousel-container {
   width: 100%;
   max-width: 700px;
   height: 380px;
   overflow: hidden;
-  border: 1px solid #ddd;
-  background-color: #fff;
   position: relative;
   margin: 20px auto;
+  border: 1px solid #ddd;
 }
 
 .news-carousel-track {
   display: flex;
-  width: 100%;
-  transition: transform 0.8s ease-in-out;
+  transition: transform 0.6s ease-in-out;
 }
 
 .news-carousel-item {
-  min-width: 100%;
-  box-sizing: border-box;
+  flex: 0 0 100%;
   padding: 15px;
   text-align: center;
-}
-
-.news-carousel-item h3 {
-  font-size: 1em;
-  margin-bottom: 10px;
-  color: #007acc;
 }
 
 .news-carousel-item img {
@@ -563,17 +548,11 @@ document.addEventListener("DOMContentLoaded", () => {
   border-radius: 8px;
 }
 
-a {
-  color: #000 !important;
-  text-decoration: underline;
-}
-
-/* Navigation arrows */
 .carousel-arrow {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0,0,0,0.6);
   color: white;
   border: none;
   font-size: 26px;
@@ -583,52 +562,48 @@ a {
   z-index: 10;
 }
 
-.carousel-arrow.left {
-  left: 10px;
-}
-
-.carousel-arrow.right {
-  right: 10px;
-}
-
-.carousel-arrow:hover {
-  background: rgba(0, 0, 0, 0.8);
-}
+.carousel-arrow.left { left: 10px; }
+.carousel-arrow.right { right: 10px; }
 </style>
 
-<!-- ✅ Carousel Logic -->
 <script>
 document.addEventListener("DOMContentLoaded", () => {
+  const container = document.getElementById("newsCarousel");
   const track = document.getElementById("mediaCarouselTrack");
   const items = track.children;
   const totalItems = items.length;
+
   let currentIndex = 0;
+  let autoScroll;
 
-  const prevBtn = document.getElementById("carouselPrev");
-  const nextBtn = document.getElementById("carouselNext");
-
-  function scrollToItem(index) {
-    const offset = -index * 100;
-    track.style.transform = `translateX(${offset}%)`;
+  function moveCarousel() {
+    const width = container.clientWidth;
+    track.style.transform = `translateX(${-currentIndex * width}px)`;
   }
 
-  // Manual navigation
-  prevBtn.addEventListener("click", () => {
+  document.getElementById("carouselPrev").onclick = () => {
     currentIndex = (currentIndex - 1 + totalItems) % totalItems;
-    scrollToItem(currentIndex);
-  });
+    moveCarousel();
+  };
 
-  nextBtn.addEventListener("click", () => {
+  document.getElementById("carouselNext").onclick = () => {
     currentIndex = (currentIndex + 1) % totalItems;
-    scrollToItem(currentIndex);
-  });
+    moveCarousel();
+  };
 
-  // Auto-scroll
-  setInterval(() => {
-    currentIndex = (currentIndex + 1) % totalItems;
-    scrollToItem(currentIndex);
-  }, 3000);
+  function startAutoScroll() {
+    autoScroll = setInterval(() => {
+      currentIndex = (currentIndex + 1) % totalItems;
+      moveCarousel();
+    }, 3000);
+  }
+
+  startAutoScroll();
+
+  // Keep correct position on resize
+  window.addEventListener("resize", moveCarousel);
 });
 </script>
+
 
 {% endraw %}
