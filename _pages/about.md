@@ -153,6 +153,15 @@ My **research interests** focus on *data-driven discovery and control of complex
     <!-- SINGLE NEWS ITEM -->
 
     <div class="news-item">
+      <div class="news-date">December 2025</div>
+      <img src="\images\arxiv.png" alt="News icon" class="news-image">
+      <div class="news-text">
+        A new Pre-Print is available on arXiv: *[Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance
+](https://arxiv.org/abs/2512.02397)*.
+      </div>
+    </div>
+
+    <div class="news-item">
       <div class="news-date">November 2025</div>
       <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
       <div class="news-text">
