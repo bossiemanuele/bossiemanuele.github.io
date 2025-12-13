@@ -373,12 +373,13 @@ My **research interests** focus on *data-driven discovery and control of complex
   Media Coverage
 </h2>
 
-<!-- ===================== NEWS CAROUSEL (FULL WORKING BLOCK) ===================== -->
+<!-- ===================== NEWS CAROUSEL ===================== -->
 
 <div class="news-carousel-container" id="newsCarousel">
 
   <div class="news-carousel-track" id="mediaCarouselTrack">
 
+    <!-- Slide 1 -->
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank">
         <h3>Embry-Riddle Students Shine on National Stage at Undergraduate Research Conference</h3>
@@ -386,6 +387,7 @@ My **research interests** focus on *data-driven discovery and control of complex
       <img src="/images/erau-team-ncur.jpg" alt="">
     </div>
 
+    <!-- Slide 2 -->
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/embry-riddle-student-team-plants-the-seed-for-smart-farming-system" target="_blank">
         <h3>Embry-Riddle Student Team Plants the Seed for Smart Farming System</h3>
@@ -393,6 +395,7 @@ My **research interests** focus on *data-driven discovery and control of complex
       <img src="/images/iftp_texas.jpg" alt="">
     </div>
 
+    <!-- Slide 3 -->
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/a-record-year-for-student-research-projects-showcased-at-annual-embry-riddle-symposiums" target="_blank">
         <h3>A Record Year for Student Research Projects Showcased at Annual Embry-Riddle Symposiums</h3>
@@ -400,6 +403,7 @@ My **research interests** focus on *data-driven discovery and control of complex
       <img src="/images/erau-symposium.jpeg" alt="">
     </div>
 
+    <!-- Slide 4 -->
     <div class="news-carousel-item">
       <a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank">
         <h3>Blending Athletics and Academia: A Journey of Dedication and Passion</h3>
@@ -409,12 +413,13 @@ My **research interests** focus on *data-driven discovery and control of complex
 
   </div>
 
-  <!-- Navigation -->
+  <!-- Navigation Arrows -->
   <button class="carousel-arrow left" onclick="carouselPrev()">&#10094;</button>
   <button class="carousel-arrow right" onclick="carouselNext()">&#10095;</button>
 
 </div>
 
+<!-- ===================== STYLES ===================== -->
 <style>
 .news-carousel-container {
   width: 100%;
@@ -424,6 +429,7 @@ My **research interests** focus on *data-driven discovery and control of complex
   position: relative;
   margin: 20px auto;
   border: 1px solid #ddd;
+  background: #fff;
 }
 
 .news-carousel-track {
@@ -433,8 +439,13 @@ My **research interests** focus on *data-driven discovery and control of complex
 
 .news-carousel-item {
   flex: 0 0 100%;
-  text-align: center;
   padding: 15px;
+  text-align: center;
+}
+
+.news-carousel-item h3 {
+  font-size: 1em;
+  margin-bottom: 10px;
 }
 
 .news-carousel-item img {
@@ -462,39 +473,51 @@ My **research interests** focus on *data-driven discovery and control of complex
 .carousel-arrow.right { right: 10px; }
 </style>
 
+<!-- ===================== SCRIPT ===================== -->
 <script>
-/* ======= NO DOMContentLoaded, NO EVENT LISTENERS ======= */
-
+/* ---- Carousel State ---- */
 let carouselIndex = 0;
+let autoTimer = null;
+
 const carouselTrack = document.getElementById("mediaCarouselTrack");
 const carouselItems = document.getElementsByClassName("news-carousel-item");
 const carouselContainer = document.getElementById("newsCarousel");
 
+/* ---- Configuration ---- */
+const AUTO_DELAY = 3000; // milliseconds
+
+/* ---- Functions ---- */
 function carouselUpdate() {
   const width = carouselContainer.offsetWidth;
   carouselTrack.style.transform =
     "translateX(" + (-carouselIndex * width) + "px)";
 }
 
+function resetAutoScroll() {
+  clearInterval(autoTimer);
+  autoTimer = setInterval(() => {
+    carouselIndex = (carouselIndex + 1) % carouselItems.length;
+    carouselUpdate();
+  }, AUTO_DELAY);
+}
+
 function carouselNext() {
   carouselIndex = (carouselIndex + 1) % carouselItems.length;
   carouselUpdate();
+  resetAutoScroll();
 }
 
 function carouselPrev() {
   carouselIndex =
     (carouselIndex - 1 + carouselItems.length) % carouselItems.length;
   carouselUpdate();
+  resetAutoScroll();
 }
 
-/* Auto scroll */
-setInterval(carouselNext, 3000);
-
-/* Resize safety */
-window.onresize = carouselUpdate;
-
-/* Initial position */
+/* ---- Init ---- */
 carouselUpdate();
+resetAutoScroll();
+window.onresize = carouselUpdate;
 </script>
 
 <!-- ===================== END NEWS CAROUSEL ===================== -->
