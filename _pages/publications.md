@@ -25,7 +25,7 @@ Papers listed by type and year of publication or year of submission/expected sub
   **Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, C.T. Diggans, A.R. AlMomani      
-&nbsp;&nbsp;&nbsp;&nbsp; *Journal: PRX Intelligence (Submitted)*     
+&nbsp;&nbsp;&nbsp;&nbsp; *APL Machine Learning (Submitted)*     
 &nbsp;&nbsp;&nbsp;&nbsp; 2025    
 
 <a href="https://bossiemanuele.github.io/portfolio/02_SURF/" style="color:#000; font-weight:bold;">
@@ -40,7 +40,7 @@ Papers listed by type and year of publication or year of submission/expected sub
   **Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, A.R. AlMomani      
-&nbsp;&nbsp;&nbsp;&nbsp; *AIAA SciTech 2026 Forum (Accepted)*      
+&nbsp;&nbsp;&nbsp;&nbsp; *2026 AIAA Science and Technology Forum (Accepted)*      
 &nbsp;&nbsp;&nbsp;&nbsp; 2025
 
 ## Published
@@ -48,5 +48,5 @@ Papers listed by type and year of publication or year of submission/expected sub
   **Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, F. Ahmed      
-&nbsp;&nbsp;&nbsp;&nbsp; *IntelliSys 2025*     
-&nbsp;&nbsp;&nbsp;&nbsp; 2025    
+&nbsp;&nbsp;&nbsp;&nbsp; *Intelligent Systems Conference 2025*     
+&nbsp;&nbsp;&nbsp;&nbsp; 2025
