@@ -83,6 +83,7 @@ redirect_from:
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
+    <img src="/images/20TWENTIES_winner_badge.png" alt="20Twenties" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
     <img src="/images/usa_flag.webp" alt="USA" />
@@ -90,6 +91,7 @@ redirect_from:
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
+    <img src="/images/20TWENTIES_winner_badge.png" alt="20Twenties" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
     <img src="/images/usa_flag.webp" alt="USA" />
@@ -97,6 +99,7 @@ redirect_from:
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
+    <img src="/images/20TWENTIES_winner_badge.png" alt="20Twenties" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
     <img src="/images/usa_flag.webp" alt="USA" />
