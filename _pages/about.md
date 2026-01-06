@@ -190,6 +190,14 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
         I gave a talk as Invited Speaker at UATE, Somma Lombardo. It's always great to give back to the community where I grew up!
       </div>
     </div>
+
+    <div class="news-item">
+      <div class="news-date">October 2025</div>
+      <img src="\images\award_emoji.png" alt="News icon" class="news-image">
+      <div class="news-text">
+        I received the 2025-26 Ignite Award for the project <b>Beyond Sparse Discovery: Information-Theoretic Identification of High-Dimensional Coupled Dynamical Networks</b>.
+      </div>
+    </div>
     
     <div class="news-item">
       <div class="news-date">August 2025</div>
