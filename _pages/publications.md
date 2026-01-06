@@ -25,7 +25,7 @@ Papers listed by type and year of publication or year of submission/expected sub
   **Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, C.T. Diggans, A.R. AlMomani      
-&nbsp;&nbsp;&nbsp;&nbsp; *APL Machine Learning (Submitted)*     
+&nbsp;&nbsp;&nbsp;&nbsp; *Pre-Print*     
 &nbsp;&nbsp;&nbsp;&nbsp; 2025    
 
 <a href="https://bossiemanuele.github.io/portfolio/02_SURF/" style="color:#000; font-weight:bold;">
