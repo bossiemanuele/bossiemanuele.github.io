@@ -161,7 +161,7 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
       <div class="news-date">January 2026</div>
       <img src="\images\20TWENTIES_winner_badge.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I am deeply honored to share that I have been selected as a recipient of the <a href="https://arxiv.org/abs/2512.02397" target="_blank">
+        I am deeply honored to share that I have been selected as a recipient of the <a href="https://www.einpresswire.com/article/880869714/aviation-week-network-announces-class-of-2026-20-twenties-winners" target="_blank">
     <strong>Aviation Week Network's 20 Twenties Award</strong></a>! As such, I have been invited to attend the <b>Aviation Week Network's 68th Annual Laureate Awards</b> in Washington, D.C. (19th March 2026).
       </div>
     </div>
