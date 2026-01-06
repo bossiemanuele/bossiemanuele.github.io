@@ -12,7 +12,7 @@ redirect_from:
 
 ## Upcoming talks
 **Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach** \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AIAA SciTech Forum 2026 \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2026 AIAA Science & Technology (SciTech) Forum \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Orlando, FL*, 2026-01.
 
 ## Past talks
