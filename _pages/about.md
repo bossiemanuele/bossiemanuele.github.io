@@ -404,14 +404,14 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
 
     <div class="news-carousel-item">
       <a href="https://www.malpensa24.it/gallarate-usa-aviation-week/" target="_blank">
-        <h3>Six Embry‑Riddle Students Honored in Aviation Week’s Prestigious 20 Twenties List</h3>
+        <h3>Da Gallarate agli Usa: studente premiato da Aviation Week. E’ il primo italiano</h3>
       </a>
       <img src="/images/20251202-AgriAI-8852.jpg" alt="">
     </div>
     
     <div class="news-carousel-item">
       <a href="https://news.erau.edu/headlines/six-embry-riddle-students-honored-aviation-week-20-twenties-list" target="_blank">
-        <h3>Da Gallarate agli Usa: studente premiato da Aviation Week. E’ il primo italiano</h3>
+        <h3>Six Embry‑Riddle Students Honored in Aviation Week’s Prestigious 20 Twenties List</h3>
       </a>
       <img src="/images/embry-riddle-twenty-20-2026.jpg" alt="">
     </div>
