@@ -146,7 +146,7 @@ I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the
 
 My **research interests** focus on *data-driven discovery and control of complex dynamical systems*, with an emphasis on developing sparse, interpretable models and optimization-based methods to understand and influence interactions within high-dimensional networks.
 
-I was recently selected as a recipient of the [**Aviation Week Network's 20 Twenties Award** (Class of 2026)](https://20twenties.aviationweek.com/), which recognizes "talented individuals on course to change the face of the aviation, aerospace and defense industry."
+I was recently selected as a recipient of the [**Aviation Week Network's 20 Twenties Award**](https://www.einpresswire.com/article/880869714/aviation-week-network-announces-class-of-2026-20-twenties-winners), [Class of 2026](https://20twenties.aviationweek.com/winners/winners1/) which recognizes "talented individuals on course to change the face of the aviation, aerospace and defense industry."
 
 ## News
 
