@@ -403,6 +403,20 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
   <div class="news-carousel-track" id="mediaCarouselTrack">
 
     <div class="news-carousel-item">
+      <a href="https://www.varesenews.it/2026/01/emanuele-bossi-di-gallarate-primo-italiano-premiato-con-laviation-week-network-20-twenties-award/2453560/" target="_blank">
+        <h3>Emanuele Bossi di Gallarate primo italiano premiato con l’Aviation Week Network “20 Twenties Award”</h3>
+      </a>
+      <img src="/images/emanuele-bossi-gallarate-2016139.610x431.jpg" alt="">
+    </div>
+    
+    <div class="news-carousel-item">
+      <a href="https://www.prealpina.it/pages/un-gallaratese-tra-gli-under30-campioni-di-aviazione-401415.html" target="_blank">
+        <h3>Un gallaratese tra gli under 30 “campioni di aviazione” nel mondo</h3>
+      </a>
+      <img src="/images/GN4_DAT_48366927.jpg" alt="">
+    </div>
+    
+    <div class="news-carousel-item">
       <a href="https://www.malpensa24.it/gallarate-usa-aviation-week/" target="_blank">
         <h3>Da Gallarate agli Usa: studente premiato da Aviation Week. E’ il primo italiano</h3>
       </a>
