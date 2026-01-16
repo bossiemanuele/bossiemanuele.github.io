@@ -159,6 +159,14 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
 
     <div class="news-item">
       <div class="news-date">January 2026</div>
+      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
+      <div class="news-text">
+        I presented our newly published paper <a href="https://arc.aiaa.org/doi/10.2514/6.2026-2014"> <strong>Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach</strong></a> at the AIAA 2026 SciTech Forum in Orlando, FL!
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">January 2026</div>
       <img src="\images\20TWENTIES_winner_badge.png" alt="News icon" class="news-image">
       <div class="news-text">
         I am deeply honored to share that I have been selected as a recipient of the <a href="https://www.einpresswire.com/article/880869714/aviation-week-network-announces-class-of-2026-20-twenties-winners" target="_blank">
