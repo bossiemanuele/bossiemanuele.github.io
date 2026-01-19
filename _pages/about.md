@@ -411,6 +411,13 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
   <div class="news-carousel-track" id="mediaCarouselTrack">
 
     <div class="news-carousel-item">
+      <a href="aaa" target="_blank">
+        <h3>"Guardavo gli aerei in volo e ora li rendo intelligenti”</h3>
+      </a>
+      <img src="/images/LaPrealpNews.png" alt="">
+    </div>
+    
+    <div class="news-carousel-item">
       <a href="https://www.varesenews.it/2026/01/emanuele-bossi-di-gallarate-primo-italiano-premiato-con-laviation-week-network-20-twenties-award/2453560/" target="_blank">
         <h3>Emanuele Bossi di Gallarate primo italiano premiato con l’Aviation Week Network “20 Twenties Award”</h3>
       </a>
