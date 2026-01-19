@@ -411,7 +411,7 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
   <div class="news-carousel-track" id="mediaCarouselTrack">
 
     <div class="news-carousel-item">
-      <a href="aaa" target="_blank">
+      <a href="https://bossiemanuele.github.io/files/Intervista Emanuele Bossi.pdf" target="_blank">
         <h3>"Guardavo gli aerei in volo e ora li rendo intelligenti”</h3>
       </a>
       <img src="/images/LaPrealpNews.png" alt="">
