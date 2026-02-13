@@ -35,9 +35,6 @@ Papers listed by type and year of publication or year of submission/expected sub
 &nbsp;&nbsp;&nbsp;&nbsp; *2026 IFAC World Congress (Submitted)*     
 &nbsp;&nbsp;&nbsp;&nbsp; 2025   
 
--- ## Accepted
-
-
 ## Published
 <a href="https://arc.aiaa.org/doi/10.2514/6.2026-2014" style="color:#000; font-weight:bold;">
   **Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach**
