@@ -40,7 +40,7 @@ Papers listed by type and year of publication or year of submission/expected sub
   **Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, A.R. AlMomani      
-&nbsp;&nbsp;&nbsp;&nbsp; *2026 AIAA Science and Technology Forum (Accepted)*      
+&nbsp;&nbsp;&nbsp;&nbsp; *2026 AIAA Science and Technology Forum*      
 &nbsp;&nbsp;&nbsp;&nbsp; 2026
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-032-07109-5_12" style="color:#000; font-weight:bold;">
