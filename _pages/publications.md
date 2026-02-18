@@ -22,7 +22,7 @@ Papers listed by type and year of publication or year of submission/expected sub
 
 ## Submitted
 <a href="https://bossiemanuele.github.io/portfolio/02_SURF/" style="color:#000; font-weight:bold;">
-  **Identifying Informative Psychophysiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach**
+  **Identifying Informative Physiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, S. Jeevanandam, N. Jain      
 &nbsp;&nbsp;&nbsp;&nbsp; *ASPIRE 2026—The HFES International Annual Meeting (Submitted)*     
