@@ -133,6 +133,11 @@ GPA: 4.0/4.0
     Advisor: Andri M. Gretarsson
   </span>
 
+- Uncovering Direct Influence Networks of Takeoff Weight  
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Abd AlRahman Rasheed AlMomani
+  </span>
+
 - Trust in AI in Safety-Critical Aviation Systems  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Timothy King
