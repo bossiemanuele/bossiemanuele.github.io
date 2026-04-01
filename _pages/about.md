@@ -169,7 +169,7 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
       <div class="news-date">April 2026</div>
       <img src="\images\erau_logo.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I am honored to have received the Chancellor’s Award at Embry-Riddle Aeronautical University! This award is the highest distinction bestowed upon a graduating senior which recognizes exceptional academic achievement alongside a strong record of leadership and campus involvement. Thank you Dr. Witcher for your selection!
+        I am honored to have received the <strong>Chancellor’s Award</strong> at Embry-Riddle Aeronautical University! This award is the highest distinction bestowed upon a graduating senior which recognizes exceptional academic achievement alongside a strong record of leadership and campus involvement. Thank you Dr. Witcher for your selection!
       </div>
     </div>
     
@@ -177,7 +177,7 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
       <div class="news-date">April 2026</div>
       <img src="\images\phi_kappa_phi.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I am honored to have received the Top Scholar Award from the Phi Kappa Phi Honor Society, recognizing the outstanding academic achievements of a graduating senior.
+        I am honored to have received the <strong>Top Scholar Award</strong> from the Phi Kappa Phi Honor Society, recognizing the outstanding academic achievements of a graduating senior.
       </div>
     </div>
     
@@ -185,7 +185,7 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
       <div class="news-date">March 2026</div>
       <img src="\images\italia_flag.webp" alt="News icon" class="news-image">
       <div class="news-text">
-        Proud to be Italian! I was honored to be invited to the Italian Embassy in Washington, D.C., where I had the privilege of meeting with the Science Attaché and the Space Attaché.
+        Proud to be Italian! I was honored to be invited to the <strong>Italian Embassy</strong> in Washington, D.C., where I had the privilege of meeting with the Science Attaché and the Space Attaché.
       </div>
     </div>
     
@@ -193,7 +193,7 @@ I was recently selected as a recipient of the [**Aviation Week Network's 20 Twen
       <div class="news-date">March 2026</div>
       <img src="\images\nasa.png" alt="News icon" class="news-image">
       <div class="news-text">
-        I was honored to be invited by NASA to visit its headquarters in Washington, D.C., where I had the privilege of meeting Administrator Jared Isaacman.
+        I was honored to be invited by <strong>NASA</strong> to visit its headquarters in Washington, D.C., where I had the privilege of meeting Administrator Jared Isaacman.
       </div>
     </div>
     
