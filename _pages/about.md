@@ -25,6 +25,14 @@ redirect_from:
 </div>
 {% endraw %}
 
+<div style="border: 2px solid red; padding: 16px; border-radius: 8px;">
+
+Starting in Fall 2026, I will join <strong>UniversityName</strong>, where I will pursue a <strong>Ph.D. in Machine Learning</strong>. I am excited to work with <strong>Dr. ProfessorName</strong> and be part of his research group.
+
+(DETAILS WILL BE ANNOUNCED SOON!)
+
+</div>
+
 <style>
 .hero-header {
   text-align: center;
@@ -141,14 +149,6 @@ redirect_from:
   }
 }
 </style>
-
-<div style="border: 2px solid red; padding: 16px; border-radius: 8px;">
-
-Starting in Fall 2026, I will join <strong>UniversityName</strong>, where I will pursue a <strong>Ph.D. in Machine Learning</strong>. I am excited to work with <strong>Dr. ProfessorName</strong> and be part of his research group.
-
-(DETAILS WILL BE ANNOUNCED SOON!)
-
-</div>
 
 I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am dual major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working in multiple [**Research Projects**](https://bossiemanuele.github.io/portfolio/) under the mentorship of *Dr. Abd AlRahman AlMomani*, Assistant Professor of Data Science and Mathematics and Data Science Program Coordinator, and *Dr. Andri M. Gretarrson*, Professor of Physics. Moreover, I am a [**Teaching Assistant**](https://bossiemanuele.github.io/teaching/) for Professor *Timothy King* and Professor *Christopher Warner*. During Summer 2025, I joined as *Visiting Research Fellow* the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/) at **Purdue University**, where I worked on the project *["Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"](https://bossiemanuele.github.io/portfolio/02_SURF/)*.
 
