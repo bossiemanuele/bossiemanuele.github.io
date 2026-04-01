@@ -4,7 +4,7 @@ excerpt: "A novel metric for evaluating clustering balance by jointly capturing 
 collection: portfolio
 ---
 
-👉 [**Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance**](https://arxiv.org/abs/2512.02397) 
+👉 *Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance*  
   <span style="font-size: 0.9em; color: #555;">Pre-Print</span>
 
 ---
