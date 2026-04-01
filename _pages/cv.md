@@ -65,7 +65,7 @@ GPA: 4.0/4.0
 - Chancellor’s Award, Embry-Riddle Aeronautical University — 2026
 - Top Scholar Award, Phi Kappa Phi — 2026
 - 20 Twenties Award, Aviation Week Network — 2026
-- Department of Computer Science Outstanding Student Award, West Virginia University Institute of Technology — 2023
+- Outstanding Student Award, West Virginia University Institute of Technology — 2023
 
 ---
 
