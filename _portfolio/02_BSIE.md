@@ -1,5 +1,5 @@
 ---
-title: "Boltzmann-Shannon Index"
+title: "A Geometric-Aware Measure of Clustering Balance"
 excerpt: "A novel metric for evaluating clustering balance by jointly capturing geometric and frequency-based probability distributions, enabling more reliable assessment of data partitioning and fairness."
 collection: portfolio
 ---
