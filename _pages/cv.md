@@ -74,22 +74,22 @@ GPA: 4.0/4.0
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
 **Undergraduate Research Assistant** *(Aug 2024 – May 2026)*  
 
-#### Entropic Framework for Complex Network Structure Recovery  
+- Entropic Framework for Complex Network Structure Recovery  
 Advisor: Abd AlRahman Rasheed AlMomani
 
-#### Passive Military Drone Detection Systems  
+- Passive Military Drone Detection Systems  
 Advisor: Ahmed I. Sulyman
 
-#### Meteorological Causality Analysis for Thunderstorm Prediction 
+- Meteorological Causality Analysis for Thunderstorm Prediction 
 Advisor: James Curtis
 
-#### Thin Optical Film Modeling for Mirror Systems 
+- Thin Optical Film Modeling for Mirror Systems 
 Advisor: Andri M. Gretarsson
 
-#### Trust in AI in Safety-Critical Aviation Systems 
+- Trust in AI in Safety-Critical Aviation Systems 
 Advisor: Timothy King
 
-#### AI-Based Phishing and Spam Detection
+- AI-Based Phishing and Spam Detection
 Advisor: Sameer Abufardeh
 
 ---
