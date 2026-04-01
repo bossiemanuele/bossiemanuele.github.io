@@ -77,7 +77,7 @@ redirect_from:
 
 ---
 
-## EDUCATION
+## 🎓 EDUCATION
 
 **Georgia Institute of Technology**, Atlanta, GA  
 **Ph.D., Machine Learning** — *Expected 2030*  
@@ -99,7 +99,7 @@ GPA: 4.0/4.0
 
 ---
 
-## HONORS & AWARDS
+## 🏆 HONORS & AWARDS
 
 - Chancellor’s Award, Embry-Riddle Aeronautical University — 2026
 - Top Scholar Award, Phi Kappa Phi — 2026
@@ -108,7 +108,7 @@ GPA: 4.0/4.0
 
 ---
 
-## RESEARCH EXPERIENCE
+## 🔬 RESEARCH EXPERIENCE
 
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
 **Undergraduate Research Assistant** *(Aug 2024 – May 2026)*  
@@ -155,7 +155,7 @@ GPA: 4.0/4.0
 
 ---
 
-## PUBLICATIONS
+## 📄 PUBLICATIONS
 
 ### **2026**
 
@@ -185,7 +185,7 @@ GPA: 4.0/4.0
 
 ---
 
-## PRESENTATIONS & INVITED TALKS
+## 🎤 PRESENTATIONS & INVITED TALKS
 
 - *Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach*, AIAA SciTech 2026 Forum. Oral Presentation. Orlando, FL, January 2026.
 - *The Future Is Now: How AI Is Reshaping Our World*, ERAU AI Summit. Invited Speaker, Panel Session. Prescott, AZ, November 2025.
@@ -199,7 +199,7 @@ GPA: 4.0/4.0
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## 💼 PROFESSIONAL EXPERIENCE
 
 ### True Course Simulations — Prescott, AZ
 <span style="margin-left: 12px; display: inline-block;">
@@ -215,7 +215,7 @@ GPA: 4.0/4.0
 
 ---
 
-## TEACHING
+## 👨‍🏫 TEACHING
 
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
 **Teaching Assistant** *(Aug 2024 – May 2026)*  
@@ -227,7 +227,7 @@ GPA: 4.0/4.0
 
 ---
 
-## GRANTS & FELLOWSHIPS
+## 💰 GRANTS & FELLOWSHIPS
 
 - Georgia Tech ECE Chaddick Fellowship ($7,500) — 2026–2027  
 - ERAU Ignite Prize ($1,000) — 2025–2026  
@@ -238,7 +238,7 @@ GPA: 4.0/4.0
 
 ---
 
-## LEADERSHIP & OUTREACH
+## 🌍 LEADERSHIP & OUTREACH
 
 - Founder & President, Data Science Club (2025–2026)  
 - Capstone Project Team Lead (2025–2026)  
@@ -246,7 +246,7 @@ GPA: 4.0/4.0
 
 ---
 
-## PROFESSIONAL AFFILIATIONS
+## 🤝 PROFESSIONAL AFFILIATIONS
 
 - The Order of the Engineer (2026–Present)
 - Italian Scientists and Scholars in North America Foundation (2026–Present)
