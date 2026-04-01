@@ -60,8 +60,6 @@ Key findings:
 
 Importantly, selectively using fewer self-reports maintained performance while improving user experience.
 
----
-
 ## Information-Theoretic Extension
 
 In a complementary study, we investigate which physiological signals are most informative for cognitive inference using **mutual information**.
