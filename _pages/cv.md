@@ -7,37 +7,64 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://bossiemanuele.github.io/files/BossiEmanuele_CV_FA25.pdf" style="color:#000; font-weight:bold;">
-  Download the pdf version.
-  </a>
-  
-<h1 align="center">EMANUELE BOSSI</h1>
+<hr>
 
-<p align="center">
-  📧 <a href="mailto:emab03@gmail.com">Email</a> &nbsp;&nbsp;&nbsp;
-  🌐 <a href="https://bossiemanuele.github.io/">Homepage</a> &nbsp;&nbsp;&nbsp;
+<div style="text-align: center; margin-top: 30px;">
+
+<h1 style="margin-bottom: 10px;">EMANUELE BOSSI</h1>
+
+<p style="font-size: 18px;">
+  📧 <a href="mailto:emab03@gmail.com">Email</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🌐 <a href="https://bossiemanuele.github.io/">Homepage</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   🔗 <a href="https://www.linkedin.com/in/emanuele-bossi">LinkedIn</a>
 </p>
 
-<hr>
+</div>
 
-<nav style="display: flex; gap: 25px; flex-wrap: wrap; font-weight: 500;">
-  <p align="center">📑 Table of Contents</p>
-  <p align="center">
-  <a href="#education">Education</a>
-  <a href="#honors--awards">Honors & Awards</a>
-  <a href="#research-experience">Research</a>
-  <a href="#publications">Publications</a>
-  <a href="#professional-experience">Experience</a>
-  <a href="#presentations--invited-talks">Talks</a>
-  <a href="#teaching-experience">Teaching</a>
-  <a href="#grants--fellowships">Grants</a>
-  <a href="#leadership--outreach">Leadership</a>
-  <a href="#professional-affiliations">Affiliations</a>
-  </p>
-</nav>
+---
 
-<hr>
+<div style="
+  text-align: center;
+  margin: 25px auto;
+  padding: 15px 20px;
+  max-width: 900px;
+  border-radius: 12px;
+  background: #f8f9fb;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+">
+
+<p style="margin-bottom: 10px; font-weight: 600;">📑 Navigate</p>
+
+<div style="
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 18px;
+  font-size: 16px;
+">
+
+<a href="#education">Education</a>
+<a href="#honors--awards">Honors</a>
+<a href="#research-experience">Research</a>
+<a href="#publications">Publications</a>
+<a href="#professional-experience">Experience</a>
+<a href="#presentations">Talks</a>
+<a href="#teaching-experience">Teaching</a>
+<a href="#grants--fellowships">Grants</a>
+<a href="#leadership--outreach">Leadership</a>
+<a href="#professional-affiliations">Affiliations</a>
+
+</div>
+
+</div>
+
+---
+
+<p style="text-align: left; margin-top: 10px;">
+  📄 <a href="https://bossiemanuele.github.io/files/BossiEmanuele_CV_FA25.pdf"><b>Download PDF version</b></a>
+</p>
 
 ## EDUCATION
 
