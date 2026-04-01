@@ -9,13 +9,11 @@ redirect_from:
 
 # Talks
 
-
-## Upcoming talks
+## Past talks
 **Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2026 AIAA Science & Technology (SciTech) Forum \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Orlando, FL*, 2026-01.
 
-## Past talks
 **The Future Is Now: How AI Is Reshaping Our World** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025 ERAU AI Summit 2025 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Prescott, AZ*, 2025-11.
