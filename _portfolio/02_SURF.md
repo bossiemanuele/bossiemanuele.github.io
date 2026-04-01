@@ -1,36 +1,91 @@
 ---
-title: "Don't Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"
-excerpt: "This research introduces a hybrid dynamic modeling framework that predicts driver reliance on automation using intermittent self-reports of cognitive states. Building on a hybrid model of trust, risk perception, and workload, we replace restrictive threshold rules with a decision-tree classifier and enable online parameter adaptation. We further introduce a reliance-accuracy-based sensor-scheduling scheme that selectively triggers self-reports. Human-subject experiments show that the approach improves mean prediction accuracy while using only one-third of available self-reports, demonstrating the value of lightweight, adaptive cognition modeling for automated driving."
+title: "Don’t Bother the Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"
+excerpt: "A hybrid dynamical systems and machine learning framework for predicting driver reliance on automation, combined with an adaptive sensor-scheduling strategy that reduces intrusive self-reports while improving prediction accuracy."
 collection: portfolio
 ---
 
-1. **Submitted**: A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving (venue: 2026 IFAC World Congress). *Abstract*: This paper introduces a hybrid dynamic modeling framework that predicts driver reliance on automation using intermittent self-reports of cognitive states. Building on a hybrid model of trust, risk perception, and workload, we replace restrictive threshold rules with a decision-tree classifier and enable online parameter adaptation. We further introduce a reliance-accuracy-based sensor-scheduling scheme that selectively triggers self-reports. Human-subject experiments show that the approach improves mean prediction accuracy while using only one-third of available self-reports, demonstrating the value of lightweight, adaptive cognition modeling for automated driving.
-2. **Submitted**: Identifying Informative Psychophysiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach (venue: ASPIRE 2026 — The HFES International Annual Meeting).
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGujyHH9tA/JSHWUrUArVrKniXcT9h-5Q/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGujyHH9tA&#x2F;JSHWUrUArVrKniXcT9h-5Q&#x2F;watch?utm_content=DAGujyHH9tA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+👉 *A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving*  
+  <span style="font-size: 0.9em; color: #555;">Submitted to IFAC World Congress 2026</span>
 
-This research project has been completed during Summer 2025 as Visiting Undergraduate Researcher in the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/), the research laboratory of Dr. Jain at **Purdue University**.
-The PI for this project is **Dr. Jain**, Associate Professor of Mechanical Engineering (by courtesy in Aeronautics & Astronautics). The Ph.D. Mentor for this project is
-**S. Jeevanandam**, Ph.D. candidate in Mechanical Engineering.
-This project have been funded by NSF Career Award (Dr. Jain) and through the **2025 Summer Undergraduate Research Fellowship (SURF)** program at Purdue University.
+👉 *Identifying Informative Psychophysiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach*  
+  <span style="font-size: 0.9em; color: #555;">Submitted to ASPIRE 2026 (HFES Annual Meeting)</span>
 
-As part of the program, I have been selected to give a talk about this research at the **Purdue University Summer Symposium** on July 30, 2025. At the top of this page you can find a 15-minutes overview of the research project, aimed at a *general, non-technical, audience*.
+## Main Work
 
-## Abstract
+Safe and effective automated driving requires continuous awareness of the driver’s cognitive state. However, key variables such as trust, workload, and perceived risk are not directly observable and must be inferred from indirect measurements. This work introduces a hybrid modeling framework that combines dynamical systems and machine learning to estimate driver reliance on automation in real time, while minimizing the need for intrusive self-reports.
 
-Estimating human cognitive states is increasingly important for enabling safe and efficient human–autonomy interaction, particularly in safety-critical settings such as automated driving. Cognitive states, such as trust, workload, and perceived risk, are known to influence driver behavior but are not directly observable; instead, they must be inferred from behavioral data, physiological data, and intermittent self-reports of these states. Prior work on cognitive state estimation in human–autonomy interaction—--particularly in automated driving--—has predominantly used static, categorical models based on unimodal inputs, with limited support for real-time updates, uncertainty quantification, or adaptive querying of human input.
+Human behavior in automated driving is dynamic, uncertain, and highly individual. Existing approaches typically fall into two categories:
 
-This paper introduces a novel modeling framework that treats cognitive states as continuous-valued, time-varying latent variables and automation reliance as a discrete, observable output. The framework facilitates combining self-reports and psychophysiological measurements in state estimation framework that utilizes a hybrid dynamical system model. Crucially, the framework also quantifies predictive uncertainty, enabling the system to identify when to actively solicit human input. This allows for adaptive self-report scheduling to improve sample efficiency while minimizing user burden. The central research question is: *How can online machine learning and dynamical systems theory be combined to enable real-time, participant-specific estimation of automation reliance—--while quantifying uncertainty to guide when adaptive systems should actively seek human input during automated driving?*
+- **Data-driven models**, which rely on physiological or behavioral signals but lack interpretability and temporal structure  
+- **Cognitive models**, which capture dynamics but are often static and difficult to adapt online  
 
-Our approach involves predicting a human's trust, workload, and perceived risk using a affine dynamical model. These latent states are then used to predict reliance through a tree-based classifier. Model uncertainty informs whether to incorporate new self-reports; when unavailable but needed, a particle filter fuses selected physiological and gaze features via an auxiliary tree-based ensemble model to refine predictions under non-stationary conditions.
+A major limitation across both is the reliance on **frequent self-reports**, which are:
+- intrusive  
+- impractical in real-time settings  
+- cognitively disruptive  
 
-Experimental results show improved prediction and estimation accuracy over static or purely data-driven baselines, underscoring the advantages of integrating dynamical systems with machine learning in an online framework to account for the time-varying nature of human behavior. This approach enables individualized, continuous cognitive state estimation and lays the groundwork for closed-loop decision-making. Future work will focus on incorporating these estimates into controllers that intelligently manage driver engagement in complex, dynamic environments.
+The key question becomes:
 
-<img src='/images/SURF - FigureDraft.png'>
+**How can we accurately estimate human cognitive states while minimizing the need to query the driver?**
+
+## Key Idea
+
+We model human cognition as a **time-varying dynamical system** coupled with a data-driven decision mechanism.
+
+**1. Hybrid Cognitive Model**
+
+- Cognitive states (trust, risk, workload) evolve as continuous dynamical variables  
+- Reliance on automation is modeled as a discrete decision  
+- A decision-tree classifier replaces rigid threshold rules, capturing individual behavior more flexibly  
+
+**2. Online Adaptation**
+
+- Model parameters are updated in real time as new data becomes available  
+- A lightweight structure enables fast re-identification (~260 ms per update) :contentReference[oaicite:2]{index=2}  
+
+**3. Sensor Scheduling**
+
+- Self-reports are treated as **costly sensors**  
+- A scheduling policy triggers them only when prediction accuracy degrades  
+- This creates a closed-loop estimation system balancing accuracy and intrusiveness  
+
+The framework was validated on a human-subject study with 16 participants in a driving simulator.
+
+Key findings:
+
+- **+10% accuracy improvement** using decision-tree models over threshold-based approaches  
+- **~76% average prediction accuracy** with online adaptation  
+- **Only ~27% of self-reports required**, significantly reducing driver burden  
+
+Importantly, selectively using fewer self-reports maintained performance while improving user experience.
+
+---
+
+## Information-Theoretic Extension
+
+In a complementary study, we investigate which physiological signals are most informative for cognitive inference using **mutual information**.
+
+Key insights:
+
+- No single physiological feature is universally optimal across individuals  
+- Informative signals emerge at **intermediate time scales (≈50–70 seconds)**  
+- Strong **inter-subject variability** suggests the need for personalized sensing strategies  
+
+This analysis provides a principled foundation for selecting sensors and time windows in real-world systems.
+
+## Impact & Applications
+
+This work enables a new class of **cognition-aware autonomous systems**:
+
+- **Adaptive human-autonomy interaction**  
+  → systems that respond to user state in real time  
+
+- **Reduced sensing burden**  
+  → fewer interruptions while maintaining performance  
+
+- **Personalized automation**  
+  → models tailored to individual behavior  
+
+- **Control integration**  
+  → foundation for closed-loop systems that manage driver engagement  
