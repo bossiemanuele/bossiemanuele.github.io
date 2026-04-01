@@ -7,6 +7,44 @@ redirect_from:
   - /about.html
 ---
 
+<div style="position: relative;">
+
+<div style="position: absolute; right: 0; top: 0;">
+  <a href="https://bossiemanuele.github.io/files/BossiEmanuele_CV_FA25.pdf" style="
+    text-decoration: none;
+    font-size: 14px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background: #f8f9fb;
+  ">
+    📄 PDF
+  </a>
+</div>
+
+<div style="text-align: center; margin-top: 30px;">
+
+<h1 style="margin-bottom: 10px;">EMANUELE BOSSI</h1>
+
+<p style="font-size: 18px;">
+  📧 <a href="mailto:emab03@gmail.com">Email</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🌐 <a href="https://bossiemanuele.github.io/">Homepage</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/emanuele-bossi">LinkedIn</a>
+</p>
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
 <hr>
 
 <div style="text-align: center; margin-top: 30px;">
