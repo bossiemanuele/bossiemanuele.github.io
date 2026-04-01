@@ -123,7 +123,7 @@ GPA: 4.0/4.0
     Advisor: Ahmed I. Sulyman
   </span>
 
-- Meteorological Causality Analysis for Thunderstorm Prediction  
+- North American Monsoon Prediction Using Causality Informed Machine Learning  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: James Curtis
   </span>
