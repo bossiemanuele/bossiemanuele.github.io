@@ -146,12 +146,31 @@ GPA: 4.0/4.0
 
 ## PUBLICATIONS
 
-- Bossi, E., Jeevanandam S., Jain, N. (2026). Identifying Informative Physiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach. (Submitted to ASPIRE 2026 - The HFES Annual Meeting and Exhibition)
-- Bossi, E., Diggans, C. Tyler, AlMomani, R. (2025). Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance. (arXiv Pre-Print)
-- Bossi, E., Jeevanandam S., Jain, N. (2025). A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving. (Submitted to 2026 IFAC World Congress)
-- Bossi, E., AlMomani, R. (2025). Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach. In 2026 AIAA Science & Technology Forum.
-- Bossi, E., Ahmed, F. (2025). Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models. In Intelligent Systems Conference (pp. 166-183). Cham: Springer Nature Switzerland.
+### **2026**
 
+- Bossi, E., Jeevanandam, S., Jain, N.  
+  *Identifying Informative Physiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach.*  
+  <span style="font-size: 0.9em; color: #555;">Submitted to ASPIRE 2026 (HFES Annual Meeting)</span>
+
+- Bossi, E., Jeevanandam, S., Jain, N.  
+  *A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving.*  
+  <span style="font-size: 0.9em; color: #555;">Submitted to IFAC World Congress 2026</span>
+
+---
+
+### **2025**
+
+- Bossi, E., Diggans, C. T., AlMomani, R.  
+  *Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance.*  
+  <span style="font-size: 0.9em; color: #555;">arXiv preprint</span>
+
+- Bossi, E., AlMomani, R.  
+  *Uncovering Direct Influence Networks of Takeoff Weight: A Network Science and Information-Theoretic Approach.*  
+  <span style="font-size: 0.9em; color: #555;">AIAA Science & Technology Forum 2026</span>
+
+- Bossi, E., Ahmed, F.  
+  *Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models.*  
+  <span style="font-size: 0.9em; color: #555;">Intelligent Systems Conference (Springer)</span>
 
 ---
 
