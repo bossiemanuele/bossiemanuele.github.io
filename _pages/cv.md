@@ -24,7 +24,7 @@ Please select the version most appropriate for your purpose.
 
 📧 [Email](emab03@gmail.com)
 🌐 [Homepage](https://bossiemanuele.github.io/)  
-🔗 [LinkedIn](www.linkedin.com/in/emanuele-bossi)
+🔗 [LinkedIn](https://www.linkedin.com/in/emanuele-bossi)
 
 ---
 
