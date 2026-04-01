@@ -156,6 +156,10 @@ GPA: 4.0/4.0
   *A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving.*  
   <span style="font-size: 0.9em; color: #555;">Submitted to IFAC World Congress 2026</span>
 
+- Bossi, E., AlMomani, R.  
+  *Uncovering Direct Influence Networks of Takeoff Weight: A Network Science and Information-Theoretic Approach.*  
+  <span style="font-size: 0.9em; color: #555;">AIAA Science & Technology Forum 2026</span>
+
 ---
 
 ### **2025**
@@ -163,10 +167,6 @@ GPA: 4.0/4.0
 - Bossi, E., Diggans, C. T., AlMomani, R.  
   *Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance.*  
   <span style="font-size: 0.9em; color: #555;">arXiv preprint</span>
-
-- Bossi, E., AlMomani, R.  
-  *Uncovering Direct Influence Networks of Takeoff Weight: A Network Science and Information-Theoretic Approach.*  
-  <span style="font-size: 0.9em; color: #555;">AIAA Science & Technology Forum 2026</span>
 
 - Bossi, E., Ahmed, F.  
   *Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models.*  
