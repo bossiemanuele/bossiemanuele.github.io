@@ -13,9 +13,11 @@ redirect_from:
 
 # EMANUELE BOSSI
 
-📧 [Email](emab03@gmail.com)
-🌐 [Homepage](https://bossiemanuele.github.io/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/emanuele-bossi)
+<p>
+  📧 <a href="mailto:emab03@gmail.com">Email</a> &nbsp;&nbsp;&nbsp;
+  🌐 <a href="https://bossiemanuele.github.io/">Homepage</a> &nbsp;&nbsp;&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/emanuele-bossi">LinkedIn</a>
+</p>
 
 ## 📑 Table of Contents
 
