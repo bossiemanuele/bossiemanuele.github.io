@@ -10,10 +10,10 @@ redirect_from:
 <a href="https://bossiemanuele.github.io/files/BossiEmanuele_CV_FA25.pdf" style="color:#000; font-weight:bold;">
   Download the pdf version.
   </a>
+  
+<h1 align="center">EMANUELE BOSSI</h1>
 
-# EMANUELE BOSSI
-
-<p>
+<p align="center">
   📧 <a href="mailto:emab03@gmail.com">Email</a> &nbsp;&nbsp;&nbsp;
   🌐 <a href="https://bossiemanuele.github.io/">Homepage</a> &nbsp;&nbsp;&nbsp;
   🔗 <a href="https://www.linkedin.com/in/emanuele-bossi">LinkedIn</a>
@@ -22,6 +22,8 @@ redirect_from:
 <hr>
 
 <nav style="display: flex; gap: 25px; flex-wrap: wrap; font-weight: 500;">
+  <p align="center">📑 Table of Contents</p>
+  
   <a href="#education">Education</a>
   <a href="#honors--awards">Honors & Awards</a>
   <a href="#research-experience">Research</a>
