@@ -9,6 +9,7 @@ collection: portfolio
 
 ---
 
+## Work Summary
 The **Boltzmann-Shannon Index (BSI)** is introduced as a normalized measure for evaluating the quality of clustering in continuous data. Unlike traditional metrics, BSI jointly captures both **frequency-based probabilities** (how many samples fall into each cluster) and **geometry-based probabilities** (how the state space is partitioned). By comparing these two perspectives, the index quantifies how evenly the data is distributed across clusters in a way that reflects both density and structure.
 
 Clustering is a fundamental task in data analysis, yet existing evaluation metrics often provide **incomplete or misleading signals**. Many approaches focus solely on frequency (e.g., cluster sizes) or geometry (e.g., distances and compactness), failing to capture the interplay between how data is distributed and how space is partitioned.
@@ -48,6 +49,7 @@ Across these experiments, BSI demonstrated:
 - Consistency across different data regimes  
 - Smooth numerical behavior  
 
+## Applications
 The Boltzmann-Shannon Index provides a **new lens for evaluating clustering and partitioning**, with several important implications:
 
 - **Fairness-aware resource allocation**  
