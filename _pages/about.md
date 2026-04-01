@@ -142,6 +142,14 @@ redirect_from:
 }
 </style>
 
+<div style="border: 2px solid red; padding: 16px; border-radius: 8px;">
+
+Starting in Fall 2026, I will join **UniversityName**, where I will pursue a **Ph.D. in Machine Learning**. I am excited to work with **Dr. ProfessorName** and be part of their research group.
+
+(DETAILS WILL BE ANNOUNCED SOON!)
+
+</div>
+
 I am an Undergraduate student at **Embry-Riddle Aeronautical University** in the *College of Engineering* and *College of Arts & Sciences*. I am dual major in **Data Science** and **Software Engineering**, with a minor in **Mathematics**. I am an **Undergraduate Researcher** in the *Undergraduate Research Institute*, working in multiple [**Research Projects**](https://bossiemanuele.github.io/portfolio/) under the mentorship of *Dr. Abd AlRahman AlMomani*, Assistant Professor of Data Science and Mathematics and Data Science Program Coordinator. Moreover, I am a [**Teaching Assistant**](https://bossiemanuele.github.io/teaching/) for Professor *Timothy King*, Professor *Christopher Warner*, and Professor *Andri M. Gretarsson*. During Summer 2025, I joined as *Visiting Research Fellow* the [**Jain Research Lab**](https://engineering.purdue.edu/JainResearchLab/) at **Purdue University**, where I worked on the project *["Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"](https://bossiemanuele.github.io/portfolio/00_SURF/)*.
 
 My **research interests** focus on *machine learning theory*, particularly inference and learning in high-dimensional systems with low-dimensional structure, including networked and dynamical settings.
