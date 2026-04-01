@@ -19,19 +19,21 @@ redirect_from:
   🔗 <a href="https://www.linkedin.com/in/emanuele-bossi">LinkedIn</a>
 </p>
 
-## 📑 Table of Contents
+<hr>
 
-- [Education](#education)
-- [Honors & Awards](#honors--awards)
-- [Research Experience](#research-experience)
-- [Publications](#publications)
-- [Professional Experience](#professional-experience)
-- [Teaching Experience](#teaching-experience)
-- [Grants & Fellowships](#grants--fellowships)
-- [Leadership & Outreach](#leadership--outreach)
-- [Professional Affiliations](#professional-affiliations)
+<nav style="display: flex; gap: 25px; flex-wrap: wrap; font-weight: 500;">
+  <a href="#education">Education</a>
+  <a href="#honors--awards">Honors & Awards</a>
+  <a href="#research-experience">Research</a>
+  <a href="#publications">Publications</a>
+  <a href="#professional-experience">Experience</a>
+  <a href="#teaching-experience">Teaching</a>
+  <a href="#grants--fellowships">Grants</a>
+  <a href="#leadership--outreach">Leadership</a>
+  <a href="#professional-affiliations">Affiliations</a>
+</nav>
 
----
+<hr>
 
 ## EDUCATION
 
