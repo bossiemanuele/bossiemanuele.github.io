@@ -75,30 +75,44 @@ GPA: 4.0/4.0
 **Undergraduate Research Assistant** *(Aug 2024 – May 2026)*  
 
 - Entropic Framework for Complex Network Structure Recovery  
-Advisor: Abd AlRahman Rasheed AlMomani
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Abd AlRahman Rasheed AlMomani
+  </span>
 
 - Passive Military Drone Detection Systems  
-Advisor: Ahmed I. Sulyman
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Ahmed I. Sulyman
+  </span>
 
-- Meteorological Causality Analysis for Thunderstorm Prediction 
-Advisor: James Curtis
+- Meteorological Causality Analysis for Thunderstorm Prediction  
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: James Curtis
+  </span>
 
-- Thin Optical Film Modeling for Mirror Systems 
-Advisor: Andri M. Gretarsson
+- Thin Optical Film Modeling for Mirror Systems  
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Andri M. Gretarsson
+  </span>
 
-- Trust in AI in Safety-Critical Aviation Systems 
-Advisor: Timothy King
+- Trust in AI in Safety-Critical Aviation Systems  
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Timothy King
+  </span>
 
-- AI-Based Phishing and Spam Detection
-Advisor: Sameer Abufardeh
+- AI-Based Phishing and Spam Detection  
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Sameer Abufardeh
+  </span>
 
 ---
 
 ### Purdue University — West Lafayette, IN  
 **Undergraduate Research Fellow** *(May 2025 – August 2025)*  
 
-#### Sensor-Scheduling for Cognitive State Estimation During Automated Driving
-Advisor: Neera Jain
+- Sensor-Scheduling for Cognitive State Estimation During Automated Driving
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Neera Jain
+  </span>
 
 ---
 
