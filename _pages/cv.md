@@ -154,7 +154,7 @@ GPA: 4.0/4.0
 
 ---
 
-## TEACHING EXPERIENCE
+## TEACHING
 
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
 **Teaching Assistant** *(Aug 2024 – May 2026)*  
