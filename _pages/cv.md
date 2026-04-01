@@ -29,6 +29,7 @@ redirect_from:
   <a href="#research-experience">Research</a>
   <a href="#publications">Publications</a>
   <a href="#professional-experience">Experience</a>
+  <a href="#presentations--invited-talks">Talks</a>
   <a href="#teaching-experience">Teaching</a>
   <a href="#grants--fellowships">Grants</a>
   <a href="#leadership--outreach">Leadership</a>
@@ -127,16 +128,17 @@ GPA: 4.0/4.0
 
 ---
 
-## PRESENTATIONS
+## PRESENTATIONS & INVITED TALKS
 
-- AIAA SciTech 2026 — Oral Presentation  
-- ERAU AI Summit — Panel Speaker  
-- IntelliSys 2025 — Oral Presentation (Amsterdam)  
-- Purdue Research Symposium — Oral Presentation  
-- Arizona Space Grant Symposium — Oral Presentation  
-- Invent for the Planet Global Stage — Poster + Oral  
-- NCUR 2025 — Oral Presentation  
-- Prescott SciTech Fest — Poster  
+- *Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach*, AIAA SciTech 2026 Forum. Oral Presentation. Orlando, FL, January 2026.
+- *The Future Is Now: How AI Is Reshaping Our World*, ERAU AI Summit. Invited Speaker, Panel Session. Prescott, AZ, November 2025.
+- *Dimensionality Reduction: A Key to Optimizing Sentiment Analysis Models*, Intelligent Systems Conference (IntelliSys). Oral Presentation. Amsterdam, NL, August 2025.
+- *Don’t Bother the Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving*, Purdue University Summer Research Symposium. Oral Presentation. West Lafayette, IN, July 2025.
+- *Measuring Human Trust in Artificial Intelligence in Safety-Critical Systems*, Arizona Space Grant Symposium. Oral Presentation. Scottsdale, AZ, April 2025.
+- *AI-Driven Smart Agriculture for Climate Resilience*, Global Stage of Invent For The Planet 2025. Poster and Oral Presentation. College Station, TX, April 2025.
+- *Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense*, National Conference on Undergraduate Research (NCUR). Oral Presentation. Pittsburgh, PA, April 2025.
+- *AI-Driven Optimization of the Actual Takeoff Weight (ATOW)*, Prescott Regional SciTech Fest. Poster Presentation. Prescott, AZ, March 2024.
+
 
 ---
 
@@ -185,8 +187,9 @@ GPA: 4.0/4.0
 
 ## PROFESSIONAL AFFILIATIONS
 
-- The Order of the Engineer (2026–Present)  
+- The Order of the Engineer (2026–Present)
+- Italian Scientists and Scholars in North America Foundation (2026–Present)
 - IEEE Eta Kappa Nu (2025–Present)  
 - Tau Beta Pi (2024–Present)  
 - Phi Kappa Phi (2024–Present)  
-- National Society of Leadership and Success (2024–Present)  
+- The National Society of Leadership and Success (2024–Present)  
