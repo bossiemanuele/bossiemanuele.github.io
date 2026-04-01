@@ -3,16 +3,13 @@ title: "Boltzmann-Shannon Index"
 excerpt: "A novel metric for evaluating clustering balance by jointly capturing geometric and frequency-based probability distributions, enabling more reliable assessment of data partitioning and fairness."
 collection: portfolio
 ---
+
 *Pre-Print:*  
 👉 [**Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance**](https://arxiv.org/abs/2512.02397)
 
-## Abstract
-
-The **Boltzmann-Shannon Index (BSI)** is introduced as a normalized measure for evaluating the quality of clustering in continuous data. Unlike traditional metrics, BSI jointly captures both **frequency-based probabilities** (how many samples fall into each cluster) and **geometry-based probabilities** (how the state space is partitioned). By comparing these two perspectives, the index quantifies how evenly the data is distributed across clusters in a way that reflects both density and structure.
-
 ---
 
-## Motivation
+The **Boltzmann-Shannon Index (BSI)** is introduced as a normalized measure for evaluating the quality of clustering in continuous data. Unlike traditional metrics, BSI jointly captures both **frequency-based probabilities** (how many samples fall into each cluster) and **geometry-based probabilities** (how the state space is partitioned). By comparing these two perspectives, the index quantifies how evenly the data is distributed across clusters in a way that reflects both density and structure.
 
 Clustering is a fundamental task in data analysis, yet existing evaluation metrics often provide **incomplete or misleading signals**. Many approaches focus solely on frequency (e.g., cluster sizes) or geometry (e.g., distances and compactness), failing to capture the interplay between how data is distributed and how space is partitioned.
 
@@ -22,10 +19,6 @@ This limitation becomes particularly critical in:
 - **Resource allocation problems**, where fairness depends on density rather than count  
 
 A more principled metric is needed, one that integrates both perspectives into a single, interpretable quantity.
-
----
-
-## Key Idea
 
 The Boltzmann-Shannon Index measures the **agreement between two probability distributions** defined over clusters:
 
@@ -39,11 +32,7 @@ Importantly, the clustering labels:
 - But are not restricted to it  
 - Making the index broadly applicable across different settings  
 
----
-
-## Results
-
-We evaluate the Boltzmann-Shannon Index across multiple scenarios:
+We evaluated the Boltzmann-Shannon Index across multiple scenarios:
 
 - **Synthetic Gaussian mixtures**  
   → BSI correctly identifies balanced vs. imbalanced clusterings  
@@ -54,14 +43,10 @@ We evaluate the Boltzmann-Shannon Index across multiple scenarios:
 - **High-imbalance resource allocation scenario**  
   → Detects inequality with high sensitivity where traditional metrics fail  
 
-Across these experiments, BSI demonstrates:
+Across these experiments, BSI demonstrated:
 - Robustness to imbalance  
 - Consistency across different data regimes  
 - Smooth numerical behavior  
-
----
-
-## Impact & Applications
 
 The Boltzmann-Shannon Index provides a **new lens for evaluating clustering and partitioning**, with several important implications:
 
@@ -75,6 +60,4 @@ The Boltzmann-Shannon Index provides a **new lens for evaluating clustering and 
   → Evaluates the effectiveness of symbolic representations (coarse-graining)  
 
 - **General clustering evaluation**  
-  → Offers a more complete alternative to traditional metrics  
-
----
+  → Offers a more complete alternative to traditional metrics
