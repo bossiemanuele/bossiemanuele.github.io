@@ -190,13 +190,17 @@ GPA: 4.0/4.0
 
 ## PROFESSIONAL EXPERIENCE
 
-### True Course Simulations — Prescott, AZ  
-**Data Scientist Intern** *(May 2024 – Aug 2024)*
+### True Course Simulations — Prescott, AZ
+<span style="margin-left: 12px; display: inline-block;">
+    Data Scientist Intern (May 2024 – Aug 2024)
+  </span>
 
 ---
 
 ### Jointek Srl — Somma Lombardo, Italy  
-**Data Scientist Intern** *(May 2023 – Aug 2023)*
+<span style="margin-left: 12px; display: inline-block;">
+    Data Scientist Intern (May 2023 – Aug 2023)
+  </span>
 
 ---
 
