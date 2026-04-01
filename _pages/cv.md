@@ -23,7 +23,7 @@ redirect_from:
 
 <nav style="display: flex; gap: 25px; flex-wrap: wrap; font-weight: 500;">
   <p align="center">📑 Table of Contents</p>
-  
+  <p align="center">
   <a href="#education">Education</a>
   <a href="#honors--awards">Honors & Awards</a>
   <a href="#research-experience">Research</a>
@@ -33,6 +33,7 @@ redirect_from:
   <a href="#grants--fellowships">Grants</a>
   <a href="#leadership--outreach">Leadership</a>
   <a href="#professional-affiliations">Affiliations</a>
+  </p>
 </nav>
 
 <hr>
