@@ -123,7 +123,7 @@ GPA: 4.0/4.0
     Advisor: Ahmed I. Sulyman
   </span>
 
-  - A Geometric-Aware Measure of Clustering Balance  
+- A Geometric-Aware Measure of Clustering Balance  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Abd AlRahman Rasheed AlMomani
   </span>
