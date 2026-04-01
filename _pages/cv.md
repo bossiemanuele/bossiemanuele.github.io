@@ -50,7 +50,7 @@ redirect_from:
 <a href="#research-experience">Research</a>
 <a href="#publications">Publications</a>
 <a href="#professional-experience">Experience</a>
-<a href="#presentations">Talks</a>
+<a href="#presentations--invited-talks">Talks</a>
 <a href="#teaching-experience">Teaching</a>
 <a href="#grants--fellowships">Grants</a>
 <a href="#leadership--outreach">Leadership</a>
