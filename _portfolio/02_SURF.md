@@ -42,7 +42,7 @@ We model human cognition as a **time-varying dynamical system** coupled with a d
 **2. Online Adaptation**
 
 - Model parameters are updated in real time as new data becomes available  
-- A lightweight structure enables fast re-identification (~260 ms per update) :contentReference[oaicite:2]{index=2}  
+- A lightweight structure enables fast re-identification (~260 ms per update)
 
 **3. Sensor Scheduling**
 
