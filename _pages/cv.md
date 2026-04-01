@@ -26,6 +26,18 @@ Please select the version most appropriate for your purpose.
 🌐 [Homepage](https://bossiemanuele.github.io/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/emanuele-bossi)
 
+## 📑 Table of Contents
+
+- [Education](#education)
+- [Honors & Awards](#honors--awards)
+- [Research Experience](#research-experience)
+- [Publications](#publications)
+- [Professional Experience](#professional-experience)
+- [Teaching Experience](#teaching-experience)
+- [Grants & Fellowships](#grants--fellowships)
+- [Leadership & Outreach](#leadership--outreach)
+- [Professional Affiliations](#professional-affiliations)
+
 ---
 
 ## EDUCATION
