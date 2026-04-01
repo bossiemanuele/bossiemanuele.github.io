@@ -38,29 +38,6 @@ redirect_from:
 
 </div>
 
-
-
-
-
-
-
-
-<hr>
-
-<div style="text-align: center; margin-top: 30px;">
-
-<h1 style="margin-bottom: 10px;">EMANUELE BOSSI</h1>
-
-<p style="font-size: 18px;">
-  📧 <a href="mailto:emab03@gmail.com">Email</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  🌐 <a href="https://bossiemanuele.github.io/">Homepage</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/emanuele-bossi">LinkedIn</a>
-</p>
-
-</div>
-
 ---
 
 <div style="
@@ -99,10 +76,6 @@ redirect_from:
 </div>
 
 ---
-
-<p style="text-align: left; margin-top: 10px;">
-  📄 <a href="https://bossiemanuele.github.io/files/BossiEmanuele_CV_FA25.pdf"><b>Download PDF version</b></a>
-</p>
 
 ## EDUCATION
 
