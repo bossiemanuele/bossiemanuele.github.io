@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <p style="font-size: 1.05em;">
-  I have been featured on the following media outlets and institutional platforms.
+  My work and academic journey have been featured by the following media outlets and institutions.
 </p>
 
 <div style="
