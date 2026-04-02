@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Purdue Undergraduate Research"
+permalink: /portfolio/purdue/
+author_profile: false
+---
+
+<p>
+  Undergraduate research conducted at Purdue University, West Lafayette (IN). During Summer 2025, I was awarded the Summer Undergraduate Research Fellowship (SURF) and joined the Jain Research Lab, where I worked on cognitive state estimation in automated driving. This experience deepened my interest in the intersection of machine learning, dynamical systems, and human-autonomy interaction.
+</p>
+
+{% include base_path %}
+
+{% assign ug_projects = site.portfolio | where: "level", "undergraduate" %}
+{% assign purdue_projects = ug_projects | where: "institution", "purdue" %}
+
+{% for post in purdue_projects %}
+  {% include archive-single.html %}
+{% endfor %}
