@@ -31,7 +31,7 @@ author_profile: false
       align-items: center;
       justify-content: center;
     ">
-      <img src="{{ site.baseurl }}/images/erau_logo.png"
+      <img src="{{ site.baseurl }}/images/erau_logo2.svg"
            style="height: 70px; object-fit: contain; margin-bottom: 15px;">
       <div style="font-size: 1.05em; font-weight: 600; text-align: center;">
         Embry-Riddle Aeronautical University
@@ -53,7 +53,7 @@ author_profile: false
       align-items: center;
       justify-content: center;
     ">
-      <img src="{{ site.baseurl }}/images/purdue_logo.png"
+      <img src="{{ site.baseurl }}/images/purdue_logo2.png"
            style="height: 70px; object-fit: contain; margin-bottom: 15px;">
       <div style="font-size: 1.05em; font-weight: 600; text-align: center;">
         Purdue University
