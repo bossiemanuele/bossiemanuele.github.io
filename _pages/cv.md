@@ -113,56 +113,56 @@ GPA: 4.0/4.0
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
 **Undergraduate Research Assistant** *(Aug 2024 – May 2026)*  
 
-- <a href="{{ site.baseurl }}/portfolio/00_ER/" style="color: inherit; text-decoration: none;">
+- <a href="{{ site.baseurl }}/portfolio/00_ER/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Entropic Framework for Complex Network Structure Recovery
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Abd AlRahman Rasheed AlMomani
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/01_PDD/" style="color: inherit; text-decoration: none;">
+- <a href="{{ site.baseurl }}/portfolio/01_PDD/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Passive Military Drone Detection Systems
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Ahmed I. Sulyman
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/02_BSI/" style="color: inherit; text-decoration: none;">
+- <a href="{{ site.baseurl }}/portfolio/02_BSI/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   A Geometric-Aware Measure of Clustering Balance
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Abd AlRahman Rasheed AlMomani
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/03_Meteorology/" style="color: inherit; text-decoration: none;">
+- <a href="{{ site.baseurl }}/portfolio/03_Meteorology/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   North American Monsoon Prediction Using Causality Informed Machine Learning
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: James Curtis
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/04_Optics/" style="color: inherit; text-decoration: none;">
+- <a href="{{ site.baseurl }}/portfolio/04_Optics/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Thin Optical Film Modeling for Mirror Systems
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Andri M. Gretarsson
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/05_ATOW/" style="color: inherit; text-decoration: none;">
+- <a href="{{ site.baseurl }}/portfolio/05_ATOW/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Uncovering Direct Influence Networks of Takeoff Weight
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Abd AlRahman Rasheed AlMomani
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/06_AITrust/" style="color: inherit; text-decoration: none;">
+- <a href="{{ site.baseurl }}/portfolio/06_AITrust/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Trust in AI in Safety-Critical Aviation Systems
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Timothy King
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/07_Phishing/" style="color: inherit; text-decoration: none;">
+- <a href="{{ site.baseurl }}/portfolio/07_Phishing/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   AI-Based Phishing and Spam Detection
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
@@ -174,7 +174,7 @@ GPA: 4.0/4.0
 ### Purdue University — West Lafayette, IN  
 **Undergraduate Research Fellow** *(May 2025 – August 2025)*  
 
-- <a href="{{ site.baseurl }}/portfolio/000_SURF/" style="color: inherit; text-decoration: none;">
+- <a href="{{ site.baseurl }}/portfolio/000_SURF/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Sensor-Scheduling for Cognitive State Estimation During Automated Driving
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
