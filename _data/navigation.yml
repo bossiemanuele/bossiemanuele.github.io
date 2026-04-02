@@ -16,9 +16,6 @@ main:
 
   - title: "News"
     url: /news/  
-
-  - title: "Bio"
-    url: /bio/
     
   - title: "CV"
     url: /cv/
