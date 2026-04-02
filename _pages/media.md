@@ -27,6 +27,7 @@ author_profile: false
 
 <hr>
 
+<h2>2026</h2>
 <div class="media-grid">
 
   <div class="media-card">
@@ -64,6 +65,10 @@ author_profile: false
     </a>
   </div>
 
+</div>
+
+<h2>2025</h2>
+<div class="media-grid">
   <div class="media-card">
     <a href="https://news.erau.edu/headlines/embry-riddle-students-shine-on-national-stage-at-undergraduate-research-conference" target="_blank" style="color: inherit; text-decoration: none;">
       <img src="/images/erau-team-ncur.jpg" alt="ERAU NCUR article">
@@ -84,6 +89,10 @@ author_profile: false
       <h3>A Record Year for Student Research Projects Showcased at Annual Embry-Riddle Symposiums</h3>
     </a>
   </div>
+</div>
+
+<h2>2024</h2>
+<div class="media-grid">
 
   <div class="media-card">
     <a href="https://erau.edu/hub-spoke/stories/blending-athletics-and-academia-a-journey-of-dedication-and-passion" target="_blank" style="color: inherit; text-decoration: none;">
