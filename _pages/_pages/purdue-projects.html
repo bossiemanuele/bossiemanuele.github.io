@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Purdue Undergraduate Research"
+permalink: /portfolio/purdue/
+author_profile: false
+---
+
+<p>
+  Undergraduate research projects completed at Purdue University.
+</p>
+
+{% include base_path %}
+
+{% assign ug_projects = site.portfolio | where: "level", "undergraduate" %}
+{% assign purdue_projects = ug_projects | where: "institution", "purdue" %}
+
+{% for post in purdue_projects %}
+  {% include archive-single.html %}
+{% endfor %}
