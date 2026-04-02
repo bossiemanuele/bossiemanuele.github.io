@@ -32,6 +32,27 @@ author_profile: false
 <div class="media-grid">
 
   <div class="media-card">
+    <a href="https://www.prealpina.it/pages/da-gallarate-alla-nasa-emanuele-premiato-a-washington-dc-409419.html" target="_blank" style="color: inherit; text-decoration: none;">
+      <img src="/images/20Twenties_ceremony2.jpg" alt="Da Gallarate alla Nasa, Emanuele Bossi premiato a Washington Dc">
+      <h3>"Da Gallarate alla Nasa, Emanuele Bossi premiato a Washington Dc”</h3>
+    </a>
+  </div>
+
+  <div class="media-card">
+    <a href="https://eraueagles.com/news/2026/3/25/general-bossi-chosen-as-aviation-week-20-in-twenty-member.aspx" target="_blank" style="color: inherit; text-decoration: none;">
+      <img src="/images/20Twenties_ceremony.jpg" alt="Bossi Chosen as Aviation Week 20 in Twenty Member">
+      <h3>"Bossi Chosen as Aviation Week 20 in Twenty Member”</h3>
+    </a>
+  </div>
+
+  <div class="media-card">
+    <a href="https://news.erau.edu/headlines/six-embry-riddle-students-honored-aviation-week-laureates-visit-nasa-headquarters" target="_blank" style="color: inherit; text-decoration: none;">
+      <img src="/images/NASA_visit.jpg" alt="Six Embry‑Riddle Students Honored at Aviation Week Laureates, Visit NASA Headquarters">
+      <h3>"Six Embry‑Riddle Students Honored at Aviation Week Laureates, Visit NASA Headquarters”</h3>
+    </a>
+  </div>
+
+  <div class="media-card">
     <a href="https://bossiemanuele.github.io/files/Intervista Emanuele Bossi.pdf" target="_blank" style="color: inherit; text-decoration: none;">
       <img src="/images/LaPrealpNews.png" alt="Guardavo gli aerei in volo e ora li rendo intelligenti">
       <h3>"Guardavo gli aerei in volo e ora li rendo intelligenti”</h3>
