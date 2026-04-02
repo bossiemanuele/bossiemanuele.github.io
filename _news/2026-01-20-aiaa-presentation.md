@@ -10,3 +10,5 @@ author_profile: false
 I presented our paper  
 **Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information-Theoretic Approach**  
 at the **AIAA SciTech 2026 Forum** in Orlando, FL.
+
+I presented our newly published paper [**Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach**]("https://arc.aiaa.org/doi/10.2514/6.2026-2014") at the **AIAA 2026 SciTech Forum** in Orlando, FL!
