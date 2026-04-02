@@ -2,6 +2,8 @@
 title: "Uncovering Direct Influence Networks of Takeoff Weight"
 excerpt: "This research develops an interpretable machine learning framework to estimate aircraft Actual Takeoff Weight (ATOW) using flight metadata and ADS-B data, supported by feature analysis and error correction. The approach improves accuracy, robustness, and transparency over existing methods, enabling safer and more efficient aviation operations."
 collection: portfolio
+level: undergraduate
+institution: erau
 ---
 
 *"Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach." In AIAA SciTech 2026 Forum. (Accepted)*
