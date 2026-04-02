@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Embry-Riddle Undergraduate Research"
+permalink: /portfolio/erau/
+author_profile: false
+---
+
+<p>
+  Undergraduate research projects completed at Embry-Riddle Aeronautical University, Prescott (AZ).
+</p>
+
+{% include base_path %}
+
+{% assign ug_projects = site.portfolio | where: "level", "undergraduate" %}
+{% assign erau_projects = ug_projects | where: "institution", "erau" %}
+
+{% for post in erau_projects %}
+  {% include archive-single.html %}
+{% endfor %}
