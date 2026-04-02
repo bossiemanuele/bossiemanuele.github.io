@@ -158,9 +158,15 @@ My **research interests** focus on *machine learning theory*, particularly infer
 
 I had the pleasure of being recognized with several awards. I was selected as a recipient of the [**Aviation Week Network's 20 Twenties Award**](https://www.einpresswire.com/article/880869714/aviation-week-network-announces-class-of-2026-20-twenties-winners), [Class of 2026](https://20twenties.aviationweek.com/winners/winners1/) which recognizes "talented individuals on course to change the face of the aviation, aerospace and defense industry." At Embry-Riddle Aeronautical University, I was awarded the **Chancellor’s Award**, the highest distinction bestowed upon a graduating senior, honoring exceptional academic achievement alongside a strong record of leadership and campus involvement. I was also recognized by the Phi Kappa Phi Honor Society with the **Top Scholar Award**, celebrating outstanding academic excellence among graduating seniors.
 
-## Recent News
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+">
 
-<div style="text-align: right; margin-top: 18px;">
+  <h2 style="margin: 0;">Recent News</h2>
+
   <a href="{{ '/news/' | relative_url }}" style="
     text-decoration: none;
     font-size: 14px;
@@ -173,7 +179,10 @@ I had the pleasure of being recognized with several awards. I was selected as a 
   ">
     📰 View full news archive
   </a>
+
 </div>
+
+<hr>
 
 {% assign recent_news = site.news | sort: "date" | reverse | slice: 0, 3 %}
 
