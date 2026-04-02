@@ -94,7 +94,7 @@ Summa Cum Laude
 GPA: 4.0/4.0  
 
 **Embry-Riddle Aeronautical University**, Prescott, AZ  
-**B.S., Software Engineering** — *2026*
+**B.S., Software Engineering** — *2026*  
 Summa Cum Laude  
 GPA: 4.0/4.0  
 
