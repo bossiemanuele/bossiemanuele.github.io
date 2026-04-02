@@ -158,273 +158,78 @@ My **research interests** focus on *machine learning theory*, particularly infer
 
 I had the pleasure of being recognized with several awards. I was selected as a recipient of the [**Aviation Week Network's 20 Twenties Award**](https://www.einpresswire.com/article/880869714/aviation-week-network-announces-class-of-2026-20-twenties-winners), [Class of 2026](https://20twenties.aviationweek.com/winners/winners1/) which recognizes "talented individuals on course to change the face of the aviation, aerospace and defense industry." At Embry-Riddle Aeronautical University, I was awarded the **Chancellor’s Award**, the highest distinction bestowed upon a graduating senior, honoring exceptional academic achievement alongside a strong record of leadership and campus involvement. I was also recognized by the Phi Kappa Phi Honor Society with the **Top Scholar Award**, celebrating outstanding academic excellence among graduating seniors.
 
+## Recent News
+
 ## News
 
-<!-- SCROLLABLE CONTAINER -->
-<div class="news-scroll-container">
-  <!-- NEWS LIST -->
-  <div class="news-list">
+{% assign recent_news = site.news | sort: "date" | reverse | slice: 0, 3 %}
 
-    <!-- SINGLE NEWS ITEM -->
+<div class="news-home">
 
-    <div class="news-item">
-      <div class="news-date">April 2026</div>
-      <img src="\images\erau_logo.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I am honored to have received the <strong>Chancellor’s Award</strong> at Embry-Riddle Aeronautical University! This award is the highest distinction bestowed upon a graduating senior which recognizes exceptional academic achievement alongside a strong record of leadership and campus involvement. Thank you Dr. Witcher for your selection!
-      </div>
-    </div>
+  {% for post in recent_news %}
+  <div class="news-item">
     
-    <div class="news-item">
-      <div class="news-date">April 2026</div>
-      <img src="\images\phi_kappa_phi.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I am honored to have received the <strong>Top Scholar Award</strong> from the Phi Kappa Phi Honor Society, recognizing the outstanding academic achievements of a graduating senior.
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <div class="news-date">March 2026</div>
-      <img src="\images\italia_flag.webp" alt="News icon" class="news-image">
-      <div class="news-text">
-        Proud to be Italian! I was honored to be invited to the <strong>Italian Embassy</strong> in Washington, D.C., where I had the privilege of meeting with the Science Attaché and the Space Attaché.
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <div class="news-date">March 2026</div>
-      <img src="\images\nasa.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I was honored to be invited by <strong>NASA</strong> to visit its headquarters in Washington, D.C., where I had the privilege of meeting Administrator Jared Isaacman.
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <div class="news-date">January 2026</div>
-      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
-      <div class="news-text">
-        I presented our newly published paper <a href="https://arc.aiaa.org/doi/10.2514/6.2026-2014"> <strong>Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach</strong></a> at the AIAA 2026 SciTech Forum in Orlando, FL!
-      </div>
+    <div class="news-date">
+      {{ post.date | date: "%B %Y" }}
     </div>
 
-    <div class="news-item">
-      <div class="news-date">January 2026</div>
-      <img src="\images\20TWENTIES_winner_badge.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I am deeply honored to share that I have been selected as a recipient of the <a href="https://www.einpresswire.com/article/880869714/aviation-week-network-announces-class-of-2026-20-twenties-winners" target="_blank">
-    <strong>Aviation Week Network's 20 Twenties Award</strong></a>! As such, I have been invited to attend the <b>Aviation Week Network's 68th Annual Laureate Awards</b> in Washington, D.C. (19th March 2026).
-      </div>
-    </div>
+    {% if post.image %}
+    <img src="{{ post.image }}" alt="{{ post.title }}" class="news-image">
+    {% endif %}
 
-    <div class="news-item">
-      <div class="news-date">December 2025</div>
-      <img src="\images\arxiv.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        A new Pre-Print is available on arXiv: <a href="https://arxiv.org/abs/2512.02397" target="_blank">
-    <strong>Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance</strong></a>.
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">November 2025</div>
-      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
-      <div class="news-text">
-        I gave a talk as Guest Speaker at Embry-Riddle AI Summit 2025 during the Panel Session.
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">November 2025</div>
-      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
-      <div class="news-text">
-        I gave a talk as Invited Speaker at UATE, Somma Lombardo. It's always great to give back to the community where I grew up!
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">October 2025</div>
-      <img src="\images\award_emoji.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I received the 2025-26 Ignite Award for the project <b>Beyond Sparse Discovery: Information-Theoretic Identification of High-Dimensional Coupled Dynamical Networks</b>.
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <div class="news-date">August 2025</div>
-      <img src="\images\aiaa_scitech.jpg" alt="News icon" class="news-image">
-      <div class="news-text">
-        Orlando, here we go! The paper <b>Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach</b> has been accepted for publication at the <b>AIAA SciTech Forum 2026</b>. I will present at AIAA SciTech 2026 in Orlando!
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">August 2025</div>
-      <img src="\images\teaching_emoji.jpg" alt="News icon" class="news-image">
-      <div class="news-text">
-        I started the role of <b>Teaching Assistant</b> for the course <b>Physics III for Engineers Lab</b> in support of Professor Gretarsson. This Fall I will also continue to serve as a TA to Professors Warner and King.
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <div class="news-date">August 2025</div>
-      <img src="\images\princeton_logo.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I have been admitted to the 2025 <b>Pathways to Graduate School for Rising College Seniors</b> program, hosted by <b>Princeton Engineering</b>!
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <div class="news-date">July 2025</div>
-      <img src="\images\purdue_logo.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I gave a research talk at <b>Purdue University's Summer Symposium</b>. I presented the recent work I've conducted in the Jain Research Lab titled "<b>Don't Bother the Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving</b>"!
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <div class="news-date">June 2025</div>
-      <img src="\images\issnaf-logo.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I’ve been selected to join the <b>ISSNAF</b> Mentoring Program for Students! I’ve been paired with <b>Dr. Luca Luceri</b>, Research Assistant Professor at the University of Southern California.
-      </div>
-    </div>
-    
-    <div class="news-item">
-      <div class="news-date">May 2025</div>
-      <img src="\images\herrick_logo.jpeg" alt="News icon" class="news-image">
-      <div class="news-text">
-        I joined the <b>Jain Research Lab</b> at Purdue University!
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">April 2025</div>
-      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
-      <div class="news-text">
-        I gave a talk on <b>Modeling Human Behavior in Safety-Critical Aviation Systems</b> at <b>NASA Space Grant Symposium 2025</b> in Scottsdale. Thanks to Embry-Riddle URI!
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">April 2025</div>
-      <img src="\images\earth_emoji.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I participated in <b>Invent for the Planet Global Finals</b>! It has been a great experience. Thanks to Embry-Riddle's College of Engineering to support us.
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">April 2025</div>
-      <img src="\images\talk_emoji.jpg" alt="News icon" class="news-image">
-      <div class="news-text">
-        I gave a talk at <b>NCUR 2025</b>. It has been an amazing opportunity to network with some of the brightest minds around the country. Thanks to Embry-Riddle URI!
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">February 2025</div>
-      <img src="\images\purdue_logo.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I've been selected to join the <b>Jain Research Laboratory</b> at <b>Purdue University</b> this Summer as part of <b>SURF 2025</b>. I'll be working on the project <b>Don’t Bother The Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving</b>.
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">February 2025</div>
-      <img src="\images\award_emoji.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I won the <b>Invent for the Planet 2025 - Engineering Challenge</b> at the university level with the project <b>AI-Driven Smart Agriculture for Climate Resilience</b>. Our solution has been selected as one of the top 7 worldwide and we will present it at Texas A&M University!
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">January 2025</div>
-      <img src="\images\intellisys_logo.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        The paper <b>Enhancing Sentiment Analysis with Feature Extraction and Dimensionality Reduction in Traditional Machine Learning Models</b> has been accepted for publication at the <b>Intelligent Systems Conference (IntelliSys) 2025</b>. I will present at IntelliSys 2025 in Amsterdam!
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">January 2025</div>
-      <img src="\images\ncur_logo.webp" alt="News icon" class="news-image">
-      <div class="news-text">
-        The abstract <b>Phishing in the Digital Age: Surveying Public Awareness and Leveraging AI for Defense</b> has been accepted for presentation at the <b>National Conference on Undergraduate Research (NCUR) 2025</b>. I will present at NCUR 2025 in Pittsburgh!
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">January 2025</div>
-      <img src="\images\teaching_emoji.jpg" alt="News icon" class="news-image">
-      <div class="news-text">
-        I started the role of <b>Teaching Assistant</b> for the course <b>Software Engineering Practices</b>. Thanks to Professor King for the opportunity!
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">October 2024</div>
-      <img src="\images\award_emoji.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I received the 2024-25 CBSI Philanthropy Council Award for the project <b>Modeling Human Behavior in Safety-Critical Aviation Systems</b>.
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">October 2024</div>
-      <img src="\images\award_emoji.png" alt="News icon" class="news-image">
-      <div class="news-text">
-        I received the 2024-25 E-Prize Award for the project <b>AI-Driven Optimization of the Actual Takeoff Weight</b>.
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">August 2024</div>
-      <img src="\images\teaching_emoji.jpg" alt="News icon" class="news-image">
-      <div class="news-text">
-        I started the role of <b>Teaching Assistant</b> for the course <b>Machine Learning and Big Data Analytics</b>. Thanks to Professor Warner for the opportunity!
-      </div>
+    <div class="news-text">
+      <a href="{{ post.url | relative_url }}" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+        <strong>{{ post.title }}</strong>
+      </a><br>
+      {{ post.excerpt }}
     </div>
 
   </div>
+  {% endfor %}
+
 </div>
 
-<!-- CSS STYLING -->
-<style>
-.news-scroll-container {
-  max-height: 300px; /* adjust height as needed */
-  overflow-y: auto;
-  border: 1px solid #ddd;
-  padding: 10px 0;
-  background-color: #fefefe;
-}
+<div style="text-align: right; margin-top: 18px;">
+  <a href="{{ '/news/' | relative_url }}" style="
+    text-decoration: none;
+    font-size: 14px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background: #f8f9fb;
+    color: inherit;
+    display: inline-block;
+  ">
+    📰 View full news archive
+  </a>
+</div>
 
-.news-list {
+<style>
+.news-home {
   display: flex;
   flex-direction: column;
   gap: 20px;
-  max-width: 900px;
-  padding: 0 15px;
 }
 
 .news-item {
   display: flex;
   align-items: flex-start;
   gap: 15px;
-  padding-bottom: 10px;
+  padding-bottom: 12px;
   border-bottom: 1px solid #e0e0e0;
 }
 
 .news-date {
   font-size: 0.85em;
   color: #555;
-  min-width: 80px;
+  min-width: 100px;
   flex-shrink: 0;
 }
 
 .news-image {
   width: 60px;
   height: 60px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 8px;
   flex-shrink: 0;
 }
