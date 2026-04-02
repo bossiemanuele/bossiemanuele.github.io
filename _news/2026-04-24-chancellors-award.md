@@ -7,4 +7,4 @@ layout: single
 author_profile: false
 ---
 
-I am honored to have received the **Chancellor’s Award** at Embry-Riddle Aeronautical University, the highest distinction bestowed upon a graduating senior, recognizing exceptional academic achievement and leadership. Thank you Dr. Witcher for your selection!
+I am honored to have received the **Chancellor’s Award** at Embry-Riddle Aeronautical University, the **highest distinction bestowed upon a graduating senior**, recognizing exceptional academic achievement alongside a strong record of leadership and campus involvement. Thank you Dr. Witcher for your selection!
