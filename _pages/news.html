@@ -1,0 +1,57 @@
+---
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: false
+---
+
+<p>
+  A selection of recent updates, recognitions, talks, and milestones.
+</p>
+
+{% assign sorted_news = site.news | sort: "date" | reverse %}
+
+{% for post in sorted_news %}
+  <div class="news-item">
+    <div class="news-date">{{ post.date | date: "%B %Y" }}</div>
+    {% if post.image %}
+      <img src="{{ post.image }}" alt="{{ post.title }}" class="news-image">
+    {% endif %}
+    <div class="news-text">
+      <a href="{{ post.url | relative_url }}" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+        <strong>{{ post.title }}</strong>
+      </a><br>
+      {{ post.excerpt }}
+    </div>
+  </div>
+{% endfor %}
+
+<style>
+.news-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  padding: 18px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.news-date {
+  font-size: 0.9em;
+  color: #555;
+  min-width: 110px;
+  flex-shrink: 0;
+}
+
+.news-image {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.news-text {
+  font-size: 0.97em;
+  line-height: 1.5;
+}
+</style>
