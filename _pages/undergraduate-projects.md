@@ -5,7 +5,7 @@ permalink: /portfolio/undergraduate/
 author_profile: false
 ---
 
-<p style="text-align: center; font-size: 1.1em;">
+<p style="text-align: left; font-size: 1.1em;">
   Select an institution to explore my undergraduate research projects.
 </p>
 
@@ -17,29 +17,47 @@ author_profile: false
   margin-top: 40px;
 ">
 
-  <a href="{{ site.baseurl }}/portfolio/erau/" style="text-decoration: none; text-align: center; color: inherit;">
+  <!-- ERAU -->
+  <a href="{{ site.baseurl }}/portfolio/erau/" style="text-decoration: none; color: inherit;">
     <div style="
       width: 260px;
+      height: 240px;
       padding: 25px;
       border-radius: 16px;
       background: #f8f9fb;
       box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
     ">
-      <img src="{{ site.baseurl }}/images/erau_logo.png" alt="Embry-Riddle Aeronautical University logo" style="max-width: 140px; margin-bottom: 16px;">
-      <div style="font-size: 1.1em; font-weight: 600;">Embry-Riddle Aeronautical University</div>
+      <img src="{{ site.baseurl }}/images/erau_logo.png"
+           style="height: 70px; object-fit: contain; margin-bottom: 15px;">
+      <div style="font-size: 1.05em; font-weight: 600; text-align: center;">
+        Embry-Riddle Aeronautical University
+      </div>
     </div>
   </a>
 
-  <a href="{{ site.baseurl }}/portfolio/purdue/" style="text-decoration: none; text-align: center; color: inherit;">
+  <!-- Purdue -->
+  <a href="{{ site.baseurl }}/portfolio/purdue/" style="text-decoration: none; color: inherit;">
     <div style="
       width: 260px;
+      height: 240px;
       padding: 25px;
       border-radius: 16px;
       background: #f8f9fb;
       box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
     ">
-      <img src="{{ site.baseurl }}/images/purdue_logo.png" alt="Purdue University logo" style="max-width: 140px; margin-bottom: 16px;">
-      <div style="font-size: 1.1em; font-weight: 600;">Purdue University</div>
+      <img src="{{ site.baseurl }}/images/purdue_logo.png"
+           style="height: 70px; object-fit: contain; margin-bottom: 15px;">
+      <div style="font-size: 1.05em; font-weight: 600; text-align: center;">
+        Purdue University
+      </div>
     </div>
   </a>
 
