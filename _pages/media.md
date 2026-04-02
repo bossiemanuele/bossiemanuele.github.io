@@ -21,6 +21,7 @@ author_profile: false
   <img src="/images/LaPrealp_logo.jpeg" alt="La Prealpina" style="height: 55px; object-fit: contain;">
   <img src="/images/varesenews_logo.png" alt="VareseNews" style="height: 55px; object-fit: contain;">
   <img src="/images/malpensa24_logo.webp" alt="Malpensa24" style="height: 55px; object-fit: contain;">
+  <img src="/images/AviationWeek_logo.png" alt="AviationWeek" style="height: 55px; object-fit: contain;">
   <img src="/images/erau_logo.png" alt="Embry-Riddle Aeronautical University" style="height: 55px; object-fit: contain;">
 
 </div>
