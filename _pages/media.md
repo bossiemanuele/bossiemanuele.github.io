@@ -18,16 +18,14 @@ author_profile: false
   margin: 30px 0 40px 0;
 ">
 
-  <img src="/images/LaPrealpNews.png" alt="La Prealpina" style="height: 55px; object-fit: contain;">
+  <img src="/images/LaPrealp_logo.jpeg" alt="La Prealpina" style="height: 55px; object-fit: contain;">
   <img src="/images/varesenews_logo.png" alt="VareseNews" style="height: 55px; object-fit: contain;">
-  <img src="/images/malpensa24_logo.png" alt="Malpensa24" style="height: 55px; object-fit: contain;">
+  <img src="/images/malpensa24_logo.webp" alt="Malpensa24" style="height: 55px; object-fit: contain;">
   <img src="/images/erau_logo.png" alt="Embry-Riddle Aeronautical University" style="height: 55px; object-fit: contain;">
 
 </div>
 
 <hr>
-
-## Selected Media Coverage
 
 <div class="media-grid">
 
