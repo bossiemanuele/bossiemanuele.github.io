@@ -7,4 +7,4 @@ layout: single
 author_profile: false
 ---
 
-Proud to be Italian, I was honored to be invited to the **Italian Embassy** in Washington, D.C., where I had the privilege of meeting the Science Attaché and the Space Attaché.
+Proud to be Italian! I was honored to be invited to the **Italian Embassy** in Washington, D.C., where I had the privilege of meeting the **Science Attaché** and the **Space Attaché**.
