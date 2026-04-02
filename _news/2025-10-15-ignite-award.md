@@ -7,5 +7,4 @@ layout: single
 author_profile: false
 ---
 
-Received the Ignite Award for the project  
-**Beyond Sparse Discovery: Information-Theoretic Identification of High-Dimensional Coupled Dynamical Networks**.
+I received the 2025-26 *Ignite Award* for the project **Beyond Sparse Discovery: Information-Theoretic Identification of High-Dimensional Coupled Dynamical Networks**.
