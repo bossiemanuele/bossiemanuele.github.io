@@ -2,6 +2,8 @@
 title: "Don’t Bother the Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving"
 excerpt: "A hybrid dynamical systems and machine learning framework for predicting driver reliance on automation, combined with an adaptive sensor-scheduling strategy that reduces intrusive self-reports while improving prediction accuracy."
 collection: portfolio
+level: undergraduate
+institution: purdue
 ---
 
 
