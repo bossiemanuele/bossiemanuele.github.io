@@ -90,12 +90,12 @@ GPA: TBD/4.0
 **Embry-Riddle Aeronautical University**, Prescott, AZ  
 **B.S., Data Science** — *2026*  
 Minor: Mathematics  
-Summa Cum Laude
+Summa Cum Laude  
 GPA: 4.0/4.0  
 
 **Embry-Riddle Aeronautical University**, Prescott, AZ  
 **B.S., Software Engineering** — *2026*
-Summa Cum Laude
+Summa Cum Laude  
 GPA: 4.0/4.0  
 
 ---
