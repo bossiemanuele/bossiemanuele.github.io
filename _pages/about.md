@@ -33,6 +33,8 @@ Starting in Fall 2026, I will join <strong>UniversityName</strong>, where I will
 
 </div>
 
+---
+
 <style>
 .hero-header {
   text-align: center;
