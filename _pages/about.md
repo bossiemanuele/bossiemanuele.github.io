@@ -160,7 +160,20 @@ I had the pleasure of being recognized with several awards. I was selected as a 
 
 ## Recent News
 
-## News
+<div style="text-align: right; margin-top: 18px;">
+  <a href="{{ '/news/' | relative_url }}" style="
+    text-decoration: none;
+    font-size: 14px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background: #f8f9fb;
+    color: inherit;
+    display: inline-block;
+  ">
+    📰 View full news archive
+  </a>
+</div>
 
 {% assign recent_news = site.news | sort: "date" | reverse | slice: 0, 3 %}
 
@@ -187,21 +200,6 @@ I had the pleasure of being recognized with several awards. I was selected as a 
   </div>
   {% endfor %}
 
-</div>
-
-<div style="text-align: right; margin-top: 18px;">
-  <a href="{{ '/news/' | relative_url }}" style="
-    text-decoration: none;
-    font-size: 14px;
-    padding: 6px 12px;
-    border-radius: 6px;
-    border: 1px solid #ccc;
-    background: #f8f9fb;
-    color: inherit;
-    display: inline-block;
-  ">
-    📰 View full news archive
-  </a>
 </div>
 
 <style>
