@@ -7,5 +7,4 @@ layout: single
 author_profile: false
 ---
 
-Presented research at Purdue’s Summer Symposium on  
-**Sensor-Scheduling for Cognitive State Estimation During Automated Driving**.
+I gave a research talk at **Purdue University's Summer Symposium**. I presented the recent work I've conducted in the Jain Research Lab titled "**Don't Bother the Driver: Sensor-Scheduling for Cognitive State Estimation During Automated Driving**"!
