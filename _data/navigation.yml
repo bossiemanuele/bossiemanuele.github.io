@@ -15,7 +15,7 @@ main:
     url: /talks/    
 
   - title: "News"
-  url: /news/  
+    url: /news/  
 
   - title: "Bio"
     url: /bio/
