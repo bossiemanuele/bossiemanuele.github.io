@@ -90,11 +90,12 @@ GPA: TBD/4.0
 **Embry-Riddle Aeronautical University**, Prescott, AZ  
 **B.S., Data Science** — *2026*  
 Minor: Mathematics  
-Undergraduate Research Scholar (Official Recognition)  
+Summa Cum Laude
 GPA: 4.0/4.0  
 
 **Embry-Riddle Aeronautical University**, Prescott, AZ  
-**B.S., Software Engineering** — *2026*  
+**B.S., Software Engineering** — *2026*
+Summa Cum Laude
 GPA: 4.0/4.0  
 
 ---
@@ -120,14 +121,14 @@ GPA: 4.0/4.0
     Advisor: Abd AlRahman Rasheed AlMomani
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/01_PDD/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+- <a href="{{ site.baseurl }}/portfolio/01_Capstone/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Passive Military Drone Detection Systems
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Ahmed I. Sulyman
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/02_BSI/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+- <a href="{{ site.baseurl }}/portfolio/02_BSIE/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   A Geometric-Aware Measure of Clustering Balance
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
