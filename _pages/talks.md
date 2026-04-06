@@ -11,7 +11,7 @@ redirect_from:
 
 **An Entropic Framework For Sparse Network Reconstruction In Nonlinear Dynamical Systems** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2026 ERAU URI Discovery Day \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Prescott, AZ*, 2026-03.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Prescott, AZ*, 2026-03. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winner of Third Place "*Best Poster Award* Award.
 
 **Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach** \
