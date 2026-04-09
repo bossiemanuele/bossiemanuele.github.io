@@ -14,7 +14,6 @@ I am honored to have received the **Top Scholar Award** from the Phi Kappa Phi H
     <img src="/images/phi1.jpg" alt="Phi Kappa Phi photo 1">
     <img src="/images/phi2.jpg" alt="Phi Kappa Phi photo 2">
     <img src="/images/phi3.jpg" alt="Phi Kappa Phi photo 3">
-    <img src="/images/phi4.jpg" alt="Phi Kappa Phi photo 4">
   </div>
 </div>
 
