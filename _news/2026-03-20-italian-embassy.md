@@ -11,8 +11,8 @@ Proud to be Italian! I was honored to be invited to the **Italian Embassy** in W
 
 <div class="auto-carousel">
   <div class="auto-carousel-track">
-    <img src="/images/ItalianEmbassy1.jpg" alt="Phi Kappa Phi photo 1">
-    <img src="/images/ItalianEmbassy2.jpg" alt="Phi Kappa Phi photo 2">
+    <img src="/images/ItalianEmbassy1.jpg" alt="Italian Embassy photo 1">
+    <img src="/images/ItalianEmbassy2.jpg" alt="Italian Embassy photo 2">
   </div>
 </div>
 
