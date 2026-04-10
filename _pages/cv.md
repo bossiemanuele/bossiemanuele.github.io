@@ -216,7 +216,7 @@ GPA: 4.0/4.0
 
 ## 🎤 PRESENTATIONS & INVITED TALKS
 
-- *An Entropic Framework For Sparse Network Reconstruction In Nonlinear Dynamical Systems*, ERAU URI Discovery Day. Poster Presentation. Prescott, AZ, March 2026. Winner of Third Place *Best Poster* Award.
+- *An Entropic Framework For Sparse Network Reconstruction In Nonlinear Dynamical Systems*, ERAU URI Discovery Day. Poster Presentation. Prescott, AZ, March 2026. Winner of Second Place *Best Poster* Award.
 - *Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach*, AIAA SciTech 2026 Forum. Oral Presentation. Orlando, FL, January 2026.
 - *The Future Is Now: How AI Is Reshaping Our World*, ERAU AI Summit. Invited Speaker, Panel Session. Prescott, AZ, November 2025.
 - *Dimensionality Reduction: A Key to Optimizing Sentiment Analysis Models*, Intelligent Systems Conference (IntelliSys). Oral Presentation. Amsterdam, NL, August 2025.
