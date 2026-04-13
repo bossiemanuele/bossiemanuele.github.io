@@ -26,11 +26,7 @@ redirect_from:
 {% endraw %}
 
 <div style="border: 2px solid red; padding: 16px; border-radius: 8px;">
-
-Starting in Fall 2026, I will join <strong>UniversityName</strong>, where I will pursue a <strong>Ph.D. in Machine Learning</strong>. I am excited to work with <strong>Dr. ProfessorName</strong> and be part of his research group.
-
-(DETAILS WILL BE ANNOUNCED SOON!)
-
+Starting in Fall 2026, I will join the <strong>Georgia Institute of Technology</strong>, where I will pursue a <strong>Ph.D. in Machine Learning</strong>!
 </div>
 
 ---
