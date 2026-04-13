@@ -89,6 +89,7 @@ Starting in Fall 2026, I will join the <strong>Georgia Institute of Technology</
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
+    <img src="/images/georgia_tech_logo.png" alt="Georgia Tech" />
     <img src="/images/20TWENTIES_winner_badge.png" alt="20Twenties" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
@@ -97,6 +98,7 @@ Starting in Fall 2026, I will join the <strong>Georgia Institute of Technology</
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
+    <img src="/images/georgia_tech_logo.png" alt="Georgia Tech" />
     <img src="/images/20TWENTIES_winner_badge.png" alt="20Twenties" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
@@ -105,6 +107,7 @@ Starting in Fall 2026, I will join the <strong>Georgia Institute of Technology</
     <img src="/images/wvu_logo.webp" alt="WVU" />
     <img src="/images/erau_logo.png" alt="ERAU" />
     <img src="/images/purdue_logo.png" alt="Purdue" />
+    <img src="/images/georgia_tech_logo.png" alt="Georgia Tech" />
     <img src="/images/20TWENTIES_winner_badge.png" alt="20Twenties" />
     <img src="/images/issnaf_logo_2.png" alt="ISSNAF" />
     <img src="/images/italia_flag.webp" alt="Italy" />
