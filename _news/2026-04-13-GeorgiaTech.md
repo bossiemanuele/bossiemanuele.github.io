@@ -1,6 +1,6 @@
 ---
 title: "Ph.D. in Machine Learning – Georgia Tech"
-date: 2026-04-24
+date: 2026-04-13
 image: /images/georgia_tech_logo.png
 excerpt: "Accepted Ph.D. offer in Machine Learning at Georgia Tech with the ECE Chaddick Fellowship."
 layout: single
