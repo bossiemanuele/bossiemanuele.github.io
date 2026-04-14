@@ -78,6 +78,7 @@ redirect_from:
 ---
 
 <div id="education"></div>
+
 ## 🎓 EDUCATION
 
 **Georgia Institute of Technology**, Atlanta, GA  
