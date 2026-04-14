@@ -61,14 +61,14 @@ redirect_from:
 ">
 
 <a href="#education">Education</a>
-<a href="#honors--awards">Honors</a>
+<a href="#honors-awards">Honors</a>
 <a href="#research-experience">Research</a>
 <a href="#publications">Publications</a>
 <a href="#professional-experience">Experience</a>
-<a href="#presentations--invited-talks">Talks</a>
-<a href="#teaching-experience">Teaching</a>
-<a href="#grants--fellowships">Grants</a>
-<a href="#leadership--outreach">Leadership</a>
+<a href="#presentations-invited-talks">Talks</a>
+<a href="#teaching">Teaching</a>
+<a href="#grants-fellowships">Grants</a>
+<a href="#leadership-outreach">Leadership</a>
 <a href="#professional-affiliations">Affiliations</a>
 
 </div>
@@ -77,6 +77,7 @@ redirect_from:
 
 ---
 
+<div id="education"></div>
 ## 🎓 EDUCATION
 
 **Georgia Institute of Technology**, Atlanta, GA  
