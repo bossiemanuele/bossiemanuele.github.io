@@ -102,6 +102,8 @@ GPA: 4.0/4.0
 
 ---
 
+<div id="honors-awards"></div>
+
 ## 🏆 HONORS & AWARDS
 
 - Chancellor’s Award, Embry-Riddle Aeronautical University — 2026
@@ -111,6 +113,8 @@ GPA: 4.0/4.0
 - Outstanding Student Award, West Virginia University Institute of Technology — 2023
 
 ---
+
+<div id="research-experience"></div>
 
 ## 🔬 RESEARCH EXPERIENCE
 
@@ -187,6 +191,8 @@ GPA: 4.0/4.0
 
 ---
 
+<div id="publications"></div>
+
 ## 📄 PUBLICATIONS
 
 ### **2026**
@@ -217,6 +223,8 @@ GPA: 4.0/4.0
 
 ---
 
+<div id="presentations-invited-talks"></div>
+
 ## 🎤 PRESENTATIONS & INVITED TALKS
 
 - *An Entropic Framework For Sparse Network Reconstruction In Nonlinear Dynamical Systems*, ERAU URI Discovery Day. Poster Presentation. Prescott, AZ, March 2026. Winner of Second Place *Best Poster* Award.
@@ -231,6 +239,8 @@ GPA: 4.0/4.0
 
 
 ---
+
+<div id="professional-experience"></div>
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
@@ -248,6 +258,8 @@ GPA: 4.0/4.0
 
 ---
 
+<div id="teaching"></div>
+
 ## 👨‍🏫 TEACHING
 
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
@@ -260,6 +272,8 @@ GPA: 4.0/4.0
 
 ---
 
+<div id="grants-fellowships"></div>
+
 ## 💰 GRANTS & FELLOWSHIPS
 
 - Georgia Tech ECE Chaddick Fellowship ($7,500) — 2026–2027  
@@ -271,6 +285,8 @@ GPA: 4.0/4.0
 
 ---
 
+<div id="leadership-outreach"></div>
+
 ## 🌍 LEADERSHIP & OUTREACH
 
 - Founder & President, Data Science Club (2025–2026)  
@@ -278,6 +294,8 @@ GPA: 4.0/4.0
 - Varsity Soccer Vice-Captain (2025–2026)
 
 ---
+
+<div id="professional-affiliations"></div>
 
 ## 🤝 PROFESSIONAL AFFILIATIONS
 
