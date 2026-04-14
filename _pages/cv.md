@@ -10,7 +10,7 @@ redirect_from:
 <div style="position: relative;">
 
 <div style="position: absolute; right: 0; top: 0;">
-  <a href="https://bossiemanuele.github.io/files/BossiEmanuele_CV_FA25.pdf" style="
+  <a href="https://bossiemanuele.github.io/files/EmanueleBossi_CV.pdf" style="
     text-decoration: none;
     font-size: 14px;
     padding: 6px 12px;
@@ -103,6 +103,7 @@ GPA: 4.0/4.0
 ## 🏆 HONORS & AWARDS
 
 - Chancellor’s Award, Embry-Riddle Aeronautical University — 2026
+- Ten Outstanding Young Persons, Junior Chamber International (Varese Chapter) — 2026
 - Top Scholar Award, Phi Kappa Phi — 2026
 - 20 Twenties Award, Aviation Week Network — 2026
 - Outstanding Student Award, West Virginia University Institute of Technology — 2023
