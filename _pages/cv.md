@@ -121,56 +121,56 @@ GPA: 4.0/4.0
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
 **Undergraduate Research Assistant** *(Aug 2024 – May 2026)*  
 
-- <a href="{{ site.baseurl }}/portfolio/00_ER/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+- <a href="{{ site.baseurl }}/portfolio/01_Optics/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+  Modeling the Bonding Dynamics of Substrate Transferred Epitaxial Coating Films
+  </a>  
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Andri M. Gretarsson
+  </span>
+
+- <a href="{{ site.baseurl }}/portfolio/02_ER/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Entropic Framework for Complex Network Structure Recovery
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Abd AlRahman Rasheed AlMomani
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/01_Capstone/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+- <a href="{{ site.baseurl }}/portfolio/03_Capstone/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Passive Military Drone Detection Systems
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Ahmed I. Sulyman
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/02_BSIE/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
-  A Geometric-Aware Measure of Clustering Balance
-  </a>  
-  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
-    Advisor: Abd AlRahman Rasheed AlMomani
-  </span>
-
-- <a href="{{ site.baseurl }}/portfolio/03_Meteorology/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+- <a href="{{ site.baseurl }}/portfolio/04_Meteorology/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   North American Monsoon Prediction Using Causality Informed Machine Learning
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: James Curtis
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/04_Optics/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
-  Thin Optical Film Modeling for Mirror Systems
+- <a href="{{ site.baseurl }}/portfolio/05_BSIE/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+  A Geometric-Aware Measure of Clustering Balance
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
-    Advisor: Andri M. Gretarsson
+    Advisor: Abd AlRahman Rasheed AlMomani
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/05_ATOW/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+- <a href="{{ site.baseurl }}/portfolio/06_ATOW/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   Uncovering Direct Influence Networks of Takeoff Weight
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Abd AlRahman Rasheed AlMomani
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/06_AITrust/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
-  Trust in AI in Safety-Critical Aviation Systems
+- <a href="{{ site.baseurl }}/portfolio/08_AITrust/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+  Human-AI Teaming: Measuring Human Trust in AI in Safety-Critical Systems   
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Timothy King
   </span>
 
-- <a href="{{ site.baseurl }}/portfolio/07_Phishing/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+- <a href="{{ site.baseurl }}/portfolio/09_Phishing/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
   AI-Based Phishing and Spam Detection
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
