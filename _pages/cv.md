@@ -164,7 +164,7 @@ GPA: 4.0/4.0
   </span>
 
 - <a href="{{ site.baseurl }}/portfolio/08_AITrust/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
-  Human-AI Teaming: Measuring Human Trust in AI in Safety-Critical Systems   
+  Human-AI Teaming: Measuring Human Trust in AI in Safety-Critical Systems
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Timothy King
