@@ -13,21 +13,14 @@ Papers listed by type and year of publication or year of submission/expected sub
 
 
 ## In Preparation
-<a href="https://bossiemanuele.github.io/portfolio/00_ER/" style="color:#000; font-weight:bold;">
-  **Entropic Framework for Complex Network Structure Recovery**
+<a href="https://bossiemanuele.github.io/portfolio/01_Optics/" style="color:#000; font-weight:bold;">
+  **Modeling the Bonding Dynamics of Substrate Transferred Epitaxial Coating Films**
 </a>   
-&nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, A.R. AlMomani      
+&nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, A.M. Gretarsson      
 &nbsp;&nbsp;&nbsp;&nbsp; *Journal: TBD*     
 &nbsp;&nbsp;&nbsp;&nbsp; 2026
 
 ## Submitted
-<a href="https://bossiemanuele.github.io/portfolio/02_SURF/" style="color:#000; font-weight:bold;">
-  **Identifying Informative Physiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach**
-</a>   
-&nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, S. Jeevanandam, N. Jain      
-&nbsp;&nbsp;&nbsp;&nbsp; *ASPIRE 2026—The HFES International Annual Meeting (Submitted)*     
-&nbsp;&nbsp;&nbsp;&nbsp; 2026   
-
 <a href="https://arxiv.org/abs/2512.02397" style="color:#000; font-weight:bold;">
   **Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance**
 </a>   
@@ -36,12 +29,19 @@ Papers listed by type and year of publication or year of submission/expected sub
 &nbsp;&nbsp;&nbsp;&nbsp; 2025    
 
 ## Accepted
-<a href="https://bossiemanuele.github.io/portfolio/02_SURF/" style="color:#000; font-weight:bold;">
+<a href="https://bossiemanuele.github.io/portfolio/000_SURF/" style="color:#000; font-weight:bold;">
+  **Identifying Informative Physiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach**
+</a>   
+&nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, S. Jeevanandam, N. Jain      
+&nbsp;&nbsp;&nbsp;&nbsp; *ASPIRE 2026—The HFES International Annual Meeting*     
+&nbsp;&nbsp;&nbsp;&nbsp; 2026   
+
+<a href="https://bossiemanuele.github.io/portfolio/000_SURF/" style="color:#000; font-weight:bold;">
   **A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, S. Jeevanandam, N. Jain      
-&nbsp;&nbsp;&nbsp;&nbsp; *2026 IFAC World Congress (Submitted)*     
-&nbsp;&nbsp;&nbsp;&nbsp; 2025  
+&nbsp;&nbsp;&nbsp;&nbsp; *2026 IFAC World Congress*     
+&nbsp;&nbsp;&nbsp;&nbsp; 2026  
 
 ## Published
 <a href="https://arc.aiaa.org/doi/10.2514/6.2026-2014" style="color:#000; font-weight:bold;">
