@@ -38,8 +38,6 @@ institution: erau
 👉 [*Uncovering Direct Influence Networks of Takeoff Weight: Network Science and Information Theoretic Approach*](https://arc.aiaa.org/doi/10.2514/6.2026-2014)  
 <span style="font-size: 0.9em; color: #555;">2026 AIAA Science and Technology Forum</span>
 
----
-
 ## Motivation
 
 Aircraft **Actual Takeoff Weight (ATOW)** is a fundamental quantity in aviation operations, directly influencing:
@@ -53,8 +51,6 @@ While prior work has focused on improving **prediction accuracy** using physics-
 
 > **Which variables truly carry information about takeoff weight, and which relationships are merely indirect or redundant?**
 
----
-
 ## Key Contribution
 
 This work introduces an **information-theoretic network framework** that shifts the focus from prediction accuracy to **interpretability and informational relevance**.
@@ -67,8 +63,6 @@ This perspective provides:
 - Interpretability beyond black-box models  
 - Insight into dependency structure  
 - Guidance for principled feature selection  
-
----
 
 ## Methodology
 
@@ -98,8 +92,6 @@ This step:
 - Reduces redundancy  
 - Produces a **sparse network of direct dependencies**
 
----
-
 ## Key Findings
 
 The resulting **direct influence network** reveals several important insights:
@@ -118,8 +110,6 @@ This result highlights a critical limitation:
 
 > **High predictive performance does not imply true informational relevance**
 
----
-
 ## Implications
 
 This work provides a **diagnostic lens** for takeoff weight estimation:
@@ -132,8 +122,6 @@ This work provides a **diagnostic lens** for takeoff weight estimation:
   - Hybrid physics–ML approaches  
 
 Importantly, the framework does not replace predictive models, but **complements them** by improving their transparency and robustness.
-
----
 
 ## Future Work
 
