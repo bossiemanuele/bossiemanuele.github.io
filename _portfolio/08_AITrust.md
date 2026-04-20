@@ -89,21 +89,11 @@ The framework was designed to measure both **behavioral** and **subjective** asp
 - **Rate of AI reliance / override behavior**  
 - **Self-reported trust levels** (via post-task surveys)  
 
-## My Contributions
-
-As **Research Team Lead**, I was responsible for:
-
-- Designing the **overall experimental framework and study structure**  
-- Defining **research hypotheses and evaluation metrics**  
-- Structuring the **human-AI interaction scenarios**  
-- Identifying key variables for **trust calibration analysis**  
-- Coordinating the project direction and research planning  
-
 ## Status
 
 While the experimental framework and study design were fully developed, **data collection and experimental validation were not completed** within the project timeline.
 
-Nevertheless, the project established a **rigorous foundation for future human-subject experimentation**, including:
+Nevertheless, the project established a **foundation for future human-subject experimentation**, including:
 - Clearly defined hypotheses  
 - Reproducible experimental structure  
 - Measurable trust and performance metrics  
