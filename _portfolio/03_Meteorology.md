@@ -76,7 +76,3 @@ This work contributes to the development of **causality-informed predictive mode
 - Enhing understanding of delayed interactions in atmospheric dynamics  
 
 The methodology is broadly applicable to other geophysical and environmental systems where **lagged, nonlinear relationships** are central to system behavior.
-
-## Keywords
-
-Mutual Information · Time Series Analysis · Climate Modeling · Causality · Monsoon Prediction · Information Theory
