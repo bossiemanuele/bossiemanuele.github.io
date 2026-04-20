@@ -6,12 +6,38 @@ level: undergraduate
 institution: erau
 ---
 
-👉 *Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance*  
-  <span style="font-size: 0.9em; color: #555;">Pre-Print</span>
+## Project Overview
+
+<table>
+  <tr>
+    <td><strong>Project</strong></td>
+    <td>A Geometric-Aware Measure of Clustering Balance</td>
+  </tr>
+  <tr>
+    <td><strong>Institution</strong></td>
+    <td>Embry-Riddle Aeronautical University</td>
+  </tr>
+  <tr>
+    <td><strong>Advisors</strong></td>
+    <td>C. Tyler Diggans, Abd AlRahman Rasheed AlMomani</td>
+  </tr>
+  <tr>
+    <td><strong>Role</strong></td>
+    <td>First Author</td>
+  </tr>
+  <tr>
+    <td><strong>Project Dates</strong></td>
+    <td>October 2025 – December 2025</td>
+  </tr>
+</table>
+
+👉 [*Boltzmann-Shannon Index: A Geometric-Aware Measure of Clustering Balance*](https://arxiv.org/abs/2512.02397)  
+<span style="font-size: 0.9em; color: #555;">Pre-Print</span>
 
 ---
 
 ## Work Summary
+
 The **Boltzmann-Shannon Index (BSI)** is introduced as a normalized measure for evaluating the quality of clustering in continuous data. Unlike traditional metrics, BSI jointly captures both **frequency-based probabilities** (how many samples fall into each cluster) and **geometry-based probabilities** (how the state space is partitioned). By comparing these two perspectives, the index quantifies how evenly the data is distributed across clusters in a way that reflects both density and structure.
 
 Clustering is a fundamental task in data analysis, yet existing evaluation metrics often provide **incomplete or misleading signals**. Many approaches focus solely on frequency (e.g., cluster sizes) or geometry (e.g., distances and compactness), failing to capture the interplay between how data is distributed and how space is partitioned.
@@ -52,6 +78,7 @@ Across these experiments, BSI demonstrated:
 - Smooth numerical behavior  
 
 ## Applications
+
 The Boltzmann-Shannon Index provides a **new lens for evaluating clustering and partitioning**, with several important implications:
 
 - **Fairness-aware resource allocation**  
@@ -64,4 +91,4 @@ The Boltzmann-Shannon Index provides a **new lens for evaluating clustering and 
   → Evaluates the effectiveness of symbolic representations (coarse-graining)  
 
 - **General clustering evaluation**  
-  → Offers a more complete alternative to traditional metrics
+  → Offers a more complete alternative to traditional metrics  
