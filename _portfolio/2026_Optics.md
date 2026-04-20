@@ -43,7 +43,7 @@ This project aims to develop a **predictive modeling framework** for the bonding
 
 ## Application: Gravitational Wave Detectors
 
-While the modeling framework has broad applicability across advanced manufacturing and optical systems, it is particularly relevant for mirrors used in the :contentReference[oaicite:0]{index=0}.
+While the modeling framework has broad applicability across advanced manufacturing and optical systems, it is particularly relevant for mirrors used in the gravitational wave detectors.
 
 In gravitational wave detectors, mirror coatings must exhibit:
 - **Extremely low mechanical dissipation** (to reduce thermal noise)
@@ -66,13 +66,6 @@ Key aspects include:
 
 A computational framework is being developed to simulate these dynamics and explore the parameter space relevant to manufacturing.
 
-## My Contributions
-
-- Contributed to the development of a **computational model** for thin-film adhesion dynamics
-- Implemented and tested simulation components to analyze bonding behavior
-- Explored how variations in physical parameters affect adhesion outcomes
-- Supported the interpretation of results to inform practical manufacturing insights
-
 ## Impact
 
 The ultimate goal of this work is to provide **actionable guidance to manufacturers**, enabling:
@@ -81,7 +74,3 @@ The ultimate goal of this work is to provide **actionable guidance to manufactur
 - Enhanced performance of precision optical systems
 
 Beyond gravitational wave detectors, the modeling approach can be applied to **advanced coatings, semiconductor fabrication, and high-performance optical components**.
-
-## Keywords
-
-Thin-Film Mechanics · Adhesion Modeling · Epitaxial Coatings · Computational Modeling · Precision Optics · Gravitational Wave Detection
