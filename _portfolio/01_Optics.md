@@ -35,6 +35,9 @@ institution: erau
   </tr>
 </table>
 
+👉 *Modeling the Bonding Dynamics of Substrate Transferred Epitaxial Coating Films* 
+<span style="font-size: 0.9em; color: #555;">In Preparation</span>
+
 ## Motivation
 
 Substrate-transferred epitaxial coating films are critical in applications where **extreme optical precision and minimal mechanical loss** are required. However, the transfer and bonding process introduces complex mechanical interactions that can lead to defects, stress concentrations, or incomplete adhesion.
