@@ -35,7 +35,7 @@ institution: erau
   </tr>
 </table>
 
-👉 *Modeling the Bonding Dynamics of Substrate Transferred Epitaxial Coating Films* 
+👉 *Modeling the Bonding Dynamics of Substrate Transferred Epitaxial Coating Films*   
 <span style="font-size: 0.9em; color: #555;">In Preparation</span>
 
 ## Motivation
