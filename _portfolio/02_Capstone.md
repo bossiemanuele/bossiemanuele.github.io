@@ -78,7 +78,7 @@ As **Team Lead**, I played a central role in both the technical development and 
 
 ## Performance
 
-The system was evaluated across multiple scenarios, including varying distances and environmental conditions. Results demonstrate the feasibility of **passive acoustic detection** with competitive accuracy and robustness.
+The system was evaluated across multiple scenarios, including varying distances and environmental conditions. The following plot displays the accuracy as a function of the distance, and was used to test some Functional Requirements (FR) of the system.
 
 <img src='/images/DroneAccuracy.png'>
 
