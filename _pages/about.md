@@ -26,7 +26,13 @@ redirect_from:
 {% endraw %}
 
 <div style="border: 2px solid red; padding: 16px; border-radius: 8px;">
-Starting in Fall 2026, I will join the <strong>Georgia Institute of Technology</strong>, where I will pursue a <strong>Ph.D. in Machine Learning</strong>!
+  Starting in Fall 2026, I will join the 
+  <strong>Georgia Institute of Technology</strong>, where I will pursue a 
+  <strong>Ph.D. in Machine Learning</strong>. 
+  At Georgia Tech, I will work with 
+  <a href="https://research.gatech.edu/people/matthew-hale">Dr. Matthew Hale</a> 
+  in the 
+  <a href="https://corelab.ece.gatech.edu/"><strong>Control, Optimization, and Robotics Engineering (CORE) Lab</strong></a>.
 </div>
 
 ---
