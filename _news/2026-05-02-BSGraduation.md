@@ -15,11 +15,11 @@ I officially graduated from **Embry-Riddle Aeronautical University** with:
 
 This journey has been one of the most transformative experiences of my life. Moving from Italy to the United States at 18 years old, adapting to a new culture and language, balancing academics, research, leadership, and athletics, and pursuing excellence every day came with both challenges and unforgettable opportunities.
 
-During my time at Embry-Riddle, I had the privilege of conducting research in machine learning, control systems, network science, and human-centered AI, contributing to multiple projects and conference publications. Beyond academics, I served as President of the Data Science Club, competed as a student-athlete on the Men’s Soccer team, and had the opportunity to work alongside incredible professors, mentors, teammates, and friends who profoundly shaped my journey.
+During my time at Embry-Riddle, I had the privilege of conducting research in machine learning, control systems, network science, and human-centered AI, contributing to multiple projects and conference publications. Beyond academics, I served as Founder & President of the Data Science Club, competed as a student-athlete on the Men’s Soccer team, and had the opportunity to work alongside incredible professors, mentors, teammates, and friends who profoundly shaped my journey.
 
 I am deeply grateful to my family, professors, collaborators, and everyone who supported me throughout these years. None of this would have been possible without their guidance and encouragement.
 
-As one chapter closes, another begins. I am excited to continue my journey as a Ph.D. student in Machine Learning at the **Georgia Institute of Technology**.
+As one chapter closes, another begins...
 
 <div class="auto-carousel">
   <div class="auto-carousel-track">
