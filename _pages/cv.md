@@ -107,7 +107,9 @@ GPA: 4.0/4.0
 ## 🏆 HONORS & AWARDS
 
 - Chancellor’s Award, Embry-Riddle Aeronautical University — 2026
+- College of Engineering Outstanding Graduate Award, Embry-Riddle Aeronautical University — 2026
 - Ten Outstanding Young Persons, Junior Chamber International (Varese Chapter) — 2026
+- Top Graduate Award, IEEE-HKN — 2026
 - Top Scholar Award, Phi Kappa Phi — 2026
 - 20 Twenties Award, Aviation Week Network — 2026
 - Outstanding Student Award, West Virginia University Institute of Technology — 2023
