@@ -1,6 +1,6 @@
 ---
 title: "B.S. Graduation – Embry-Riddle Aeronautical University"
-date: 2026-04-24
+date: 2026-05-02
 image: /images/gradcap.avif
 excerpt: "Graduated Summa Cum Laude from Embry-Riddle Aeronautical University with dual degrees in Software Engineering and Data Science."
 layout: single
