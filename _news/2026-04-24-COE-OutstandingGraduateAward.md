@@ -1,5 +1,5 @@
 ---
-title: "College of Engineering Outstanding Graduate Award – Embry-Riddle Aeronautical University"
+title: "COE Outstanding Graduate Award – Embry-Riddle Aeronautical University"
 date: 2026-04-24
 image: /images/erau_logo.png
 excerpt: "Recognized as the outstanding graduating student of the College of Engineering at Embry-Riddle Aeronautical University."
