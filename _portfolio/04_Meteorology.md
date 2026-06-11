@@ -56,13 +56,9 @@ This role was focused on the **data analysis and feature discovery stage** of th
 
 ## Technical Approach
 
-The analysis is based on computing mutual information between variables \(X\) (atmospheric signals) and \(Y\) (precipitation), while introducing a time lag \(\tau\):
+The analysis is based on computing mutual information between atmospheric signals and precipitation, while introducing a time lag.
 
-\[
-I(X_t ; Y_{t+\tau})
-\]
-
-By sweeping across different values of \(\tau\), the framework identifies:
+By sweeping across different values of lagging time, the framework identifies:
 - **Leading indicators** of precipitation  
 - Time delays at which variables carry the most predictive information  
 - Nonlinear dependencies that may not be captured by standard correlation analysis  
