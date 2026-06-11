@@ -101,7 +101,7 @@ By avoiding active sensing, the system offers a **covert and energy-efficient al
 
 The following key project deliverables document the design, development, and validation of the system throughout the capstone lifecycle:
 
-- **Initial Design Proposal (IDP)**  
+- **Individual Development Plan (IDP)**  
   [View Document](/files/IDP.pdf)
 
 - **Preliminary Design Review (PDR)**  
