@@ -11,7 +11,7 @@ institution: purdue
   <span style="font-size: 0.9em; color: #555;">Accepted to IFAC World Congress 2026</span>
 
 👉 *Identifying Informative Psychophysiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach*  
-  <span style="font-size: 0.9em; color: #555;">Submitted to ASPIRE 2026 (HFES Annual Meeting)</span>
+  <span style="font-size: 0.9em; color: #555;">Accepted to ASPIRE 2026 (HFES Annual Meeting)</span>
 
 ## Main Work
 
