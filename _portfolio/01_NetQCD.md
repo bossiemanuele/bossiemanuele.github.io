@@ -5,6 +5,7 @@ collection: portfolio
 level: graduate
 institution: georgia tech
 header:
-  image: /images/NetQCD_image.png
+  teaser: /images/portfolio/networked-qcd.png
+  image: /images/portfolio/networked-qcd.png
 ---
 
