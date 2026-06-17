@@ -145,7 +145,7 @@ redirect_from:
 }
 </style>
 
-I am a Ph.D. student in *Machine Learning* at the **Georgia Institute of Technology**, where I work with [*Dr. Matthew Hale*](https://research.gatech.edu/people/matthew-hale) in the *Controls, Optimization, Robotics Engineering (CORE) Laboratory*. My research focuses on online decision-making and sequential detection for networked systems, with emphasis on quickest change detection, anomaly detection, and sensor scheduling under uncertainty.
+I am a Ph.D. student in *Machine Learning* at the **Georgia Institute of Technology**, where I work with [*Dr. Matthew Hale*](https://research.gatech.edu/people/matthew-hale) in the *Controls, Optimization, Robotics Engineering (CORE) Laboratory*. My research focuses on online decision-making and sequential detection for networked systems, with emphasis on quickest change detection and adaptive sensing under uncertainty.
 
 I earned dual B.S. degrees, *Summa Cum Laude*, in Software Engineering and Data Science from **Embry-Riddle Aeronautical University**, along with a minor in Mathematics. During my undergraduate studies, I contributed to several [research projects](https://bossiemanuele.github.io/portfolio/undergraduate/) under the mentorship of *Dr. Abd AlRahman AlMomani*, *Dr. Andri M. Gretarsson*, and other faculty members, working on topics spanning machine learning, network science, scientific computing, and autonomous systems. In Summer 2025, I joined the [*Jain Research Lab*](https://engineering.purdue.edu/JainResearchLab/) at **Purdue University** as a *Visiting Research Fellow*, conducting research on human cognition and automation in safety-critical systems.
 
