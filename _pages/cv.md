@@ -83,7 +83,7 @@ redirect_from:
 
 **Georgia Institute of Technology**, Atlanta, GA  
 **Ph.D., Machine Learning** — *Expected 2030*  
-Advisor: FirstName LastName  
+Advisor: Matthew Hale  
 
 **Georgia Institute of Technology**, Atlanta, GA  
 **M.S., Electrical and Computer Engineering** — *Expected 2027*  
@@ -119,6 +119,18 @@ GPA: 4.0/4.0
 <div id="research-experience"></div>
 
 ## 🔬 RESEARCH EXPERIENCE
+
+### Georgia Institute of Technology — Atlanta, GA  
+**Graduate Research Assistant** *(May 2026 – Current)*  
+
+- <a href="{{ site.baseurl }}/portfolio/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+  Quickest Change-point Detection Over Correlated Networked Streams 
+  </a>  
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Matthew Hale
+  </span>
+
+---
 
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
 **Undergraduate Research Assistant** *(Aug 2024 – May 2026)*  
