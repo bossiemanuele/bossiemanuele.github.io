@@ -4,5 +4,7 @@ excerpt: "Online sequential detection for anomaly localization in correlated net
 collection: portfolio
 level: graduate
 institution: georgia tech
+header:
+  teaser: NetQCD_image.png
 ---
 
