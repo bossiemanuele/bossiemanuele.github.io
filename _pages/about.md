@@ -13,7 +13,7 @@ redirect_from:
   <h1><b>Emanuele Bossi</b></h1>
   <p class="title"><i>Ph.D. Student</i></p>
   <p class="affiliation"><a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a></p>
-  <p class="contact"><a href="mailto:bossie@my.erau.edu">bossie@my.erau.edu</a></p>
+  <p class="contact"><a href="mailto:ebossi3@gatech.edu">ebossi3@gatech.edu</a></p>
 
   <!-- LinkedIn Icon -->
   <div class="social-icons">
