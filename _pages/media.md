@@ -32,6 +32,13 @@ author_profile: false
 <div class="media-grid">
 
   <div class="media-card">
+    <a href="https://bossiemanuele.github.io/files/CorriereDeiTerritori.pdf" target="_blank" style="color: inherit; text-decoration: none;">
+      <img src="/images/graduation1.jpg" alt="Emanuele, genio dell'aerospazio">
+      <h3>"Emanuele, genio dell'aerospazio”</h3>
+    </a>
+  </div>
+
+  <div class="media-card">
     <a href="https://www.prealpina.it/pages/da-gallarate-alla-nasa-emanuele-premiato-a-washington-dc-409419.html" target="_blank" style="color: inherit; text-decoration: none;">
       <img src="/images/20Twenties_ceremony2.jpg" alt="Da Gallarate alla Nasa, Emanuele Bossi premiato a Washington Dc">
       <h3>"Da Gallarate alla Nasa, Emanuele Bossi premiato a Washington Dc”</h3>
