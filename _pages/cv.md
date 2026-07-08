@@ -82,8 +82,7 @@ redirect_from:
 ## 🎓 EDUCATION
 
 **Georgia Institute of Technology**, Atlanta, GA  
-**Ph.D., Machine Learning** — *Expected 2030*  
-Advisor: Matthew Hale  
+**Ph.D., Machine Learning** — *Expected 2030*
 
 **Georgia Institute of Technology**, Atlanta, GA  
 **M.S., Electrical and Computer Engineering** — *Expected 2027*  
