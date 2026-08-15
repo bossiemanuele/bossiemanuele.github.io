@@ -66,7 +66,7 @@ author_profile: false
 
       
 <p style="text-align: left; font-size: 1.1em;">
-  Additionally, you can explore several advanced projects completed as part of my undergraduate coursework:
+  Additionally, you can explore some advanced projects completed as part of my undergraduate coursework:
 </p>
 
 <ul style="font-size: 1.1em;">
