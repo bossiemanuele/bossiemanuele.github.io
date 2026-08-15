@@ -62,3 +62,20 @@ author_profile: false
   </a>
 
 </div>
+
+<p style="text-align: left; font-size: 1.1em;">
+  Additionally, you can explore several advanced projects completed as part of my upper-level coursework:
+</p>
+
+<ul style="font-size: 1.1em;">
+  <li>
+    <a href="https://github.com/bossiemanuele/Motorized-Travelling-Salesman" target="_blank" rel="noopener noreferrer">
+      Motorized Travelling Salesman
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/bossiemanuele/Spacecraft-Mission-Control" target="_blank" rel="noopener noreferrer">
+      Spacecraft Mission Control
+    </a>
+  </li>
+</ul>
