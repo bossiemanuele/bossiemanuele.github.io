@@ -77,7 +77,7 @@ author_profile: false
     <a href="https://github.com/bossiemanuele/Spacecraft-Mission-Control" target="_blank" rel="noopener noreferrer">
       Spacecraft Mission Control
     </a>
-  </li
+  </li>
   <li>
     <a href="https://github.com/bossiemanuele/Data-Analytics-and-Machine-Learning-in-the-Aviation-Sector" target="_blank" rel="noopener noreferrer">
       Data Analytics and Machine Learning in the Aviation Sector
