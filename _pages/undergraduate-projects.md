@@ -64,7 +64,7 @@ author_profile: false
 </div>
 
 <p style="text-align: left; font-size: 1.1em;">
-  Additionally, you can explore several advanced projects completed as part of my upper-level coursework:
+  Additionally, you can explore several advanced projects completed as part of my undergraduate coursework:
 </p>
 
 <ul style="font-size: 1.1em;">
@@ -76,6 +76,11 @@ author_profile: false
   <li>
     <a href="https://github.com/bossiemanuele/Spacecraft-Mission-Control" target="_blank" rel="noopener noreferrer">
       Spacecraft Mission Control
+    </a>
+  </li
+  <li>
+    <a href="https://github.com/bossiemanuele/Data-Analytics-and-Machine-Learning-in-the-Aviation-Sector" target="_blank" rel="noopener noreferrer">
+      Data Analytics and Machine Learning in the Aviation Sector
     </a>
   </li>
 </ul>
