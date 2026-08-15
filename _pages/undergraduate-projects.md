@@ -63,6 +63,8 @@ author_profile: false
 
 </div>
 
+
+      
 <p style="text-align: left; font-size: 1.1em;">
   Additionally, you can explore several advanced projects completed as part of my undergraduate coursework:
 </p>
