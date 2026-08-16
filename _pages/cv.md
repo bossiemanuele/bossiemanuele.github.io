@@ -119,18 +119,6 @@ GPA: 4.0/4.0
 
 ## 🔬 RESEARCH EXPERIENCE
 
-### Georgia Institute of Technology — Atlanta, GA  
-**Graduate Research Assistant** *(May 2026 – Current)*  
-
-- <a href="{{ site.baseurl }}/portfolio/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
-  Quickest Change-point Detection Over Correlated Networked Streams 
-  </a>  
-  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
-    Advisor: Matthew Hale
-  </span>
-
----
-
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
 **Undergraduate Research Assistant** *(Aug 2024 – May 2026)*  
 
