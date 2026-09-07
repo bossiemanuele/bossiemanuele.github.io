@@ -10,8 +10,8 @@ institution: purdue
 👉 *A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving*  
   <span style="font-size: 0.9em; color: #555;">Accepted to IFAC World Congress 2026</span>
 
-👉 *Identifying Informative Psychophysiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach*  
-  <span style="font-size: 0.9em; color: #555;">Accepted to ASPIRE 2026 (HFES Annual Meeting)</span>
+👉 [*Identifying Informative Psychophysiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach*]("https://journals.sagepub.com/doi/10.1177/10711813261484476")  
+  <span style="font-size: 0.9em; color: #555;">Proceedings of the 70th HFES International Annual Meeting</span>
 
 ## Main Work
 
