@@ -200,7 +200,7 @@ GPA: 4.0/4.0
 
 - Bossi, E., Jeevanandam, S., Jain, N.  
   *Identifying Informative Physiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach.*  
-  <span style="font-size: 0.9em; color: #555;">HFES ASPIRE 2026 (Accepted)</span>
+  <span style="font-size: 0.9em; color: #555;">Proceedings of the 70th HFES International Annual Meeting</span>
 
 - Bossi, E., Jeevanandam, S., Jain, N.  
   *A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving.*  
