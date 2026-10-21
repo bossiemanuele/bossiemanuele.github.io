@@ -1,7 +1,7 @@
 ---
 title: "Finalist Best Paper Award - HFES ASPIRE 2026"
 date: 2026-10-19
-image: /images/teaching_emoji.jpg
+image: /images/aspire_logo.jpg
 excerpt: "Our paper has been selected as finalist for the Best Paper Award in the Surface Transportation Technical Group."
 layout: single
 author_profile: false
