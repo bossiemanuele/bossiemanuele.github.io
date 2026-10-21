@@ -1,0 +1,10 @@
+---
+title: "Finalist Best Paper Award - HFES ASPIRE 2026"
+date: 2026-10-19
+image: /images/teaching_emoji.jpg
+excerpt: "Our paper has been selected as finalist for the Best Paper Award in the Surface Transportation Technical Group."
+layout: single
+author_profile: false
+---
+
+Our paper [*Identifying Informative Psychophysiological and Gaze-Based Indicators for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach*](https://journals.sagepub.com/doi/10.1177/10711813261484476) has been selected as finalist for the **Best Paper Award** in the *Surface Transportation Technical Group* at HFES Aspire 2026!
