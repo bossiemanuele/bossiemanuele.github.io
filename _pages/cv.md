@@ -116,6 +116,18 @@ GPA: 4.0/4.0
 
 ## 🔬 RESEARCH EXPERIENCE
 
+### Purdue University — West Lafayette, IN  
+**Undergraduate Research Fellow** *(May 2025 – August 2026)*  
+
+- <a href="{{ site.baseurl }}/portfolio/000_SURF/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
+  Sensor-Scheduling for Cognitive State Estimation During Automated Driving
+  </a>  
+  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
+    Advisor: Neera Jain
+  </span>
+
+---
+
 ### Embry-Riddle Aeronautical University — Prescott, AZ  
 **Undergraduate Research Assistant** *(Aug 2024 – May 2026)*  
 
@@ -173,18 +185,6 @@ GPA: 4.0/4.0
   </a>  
   <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
     Advisor: Sameer Abufardeh
-  </span>
-
----
-
-### Purdue University — West Lafayette, IN  
-**Undergraduate Research Fellow** *(May 2025 – August 2025)*  
-
-- <a href="{{ site.baseurl }}/portfolio/000_SURF/" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">
-  Sensor-Scheduling for Cognitive State Estimation During Automated Driving
-  </a>  
-  <span style="font-size: 0.9em; color: #555; margin-left: 12px; display: inline-block;">
-    Advisor: Neera Jain
   </span>
 
 ---
