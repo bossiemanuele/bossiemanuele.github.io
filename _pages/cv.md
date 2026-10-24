@@ -201,7 +201,7 @@ GPA: 4.0/4.0
 
 - Bossi, E., Jeevanandam, S., Jain, N.  
   *A Sensor-Scheduling Approach to Predict Human Reliance on Automation During Automated Driving.*  
-  <span style="font-size: 0.9em; color: #555;">IFAC World Congress 2026 (Accepted)</span>
+  <span style="font-size: 0.9em; color: #555;">Proceedings of the 23rd IFAC World Congress</span>
 
 - Bossi, E., AlMomani, R.  
   *Uncovering Direct Influence Networks of Takeoff Weight: A Network Science and Information-Theoretic Approach.*  
