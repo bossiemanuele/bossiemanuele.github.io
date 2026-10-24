@@ -34,7 +34,7 @@ Papers listed by type and year of publication or year of submission/expected sub
   **Identifying Informative Physiological Indicators and Time Scales for Inferring Human Cognition During Automated Driving: An Information-Theoretic Approach**
 </a>   
 &nbsp;&nbsp;&nbsp;&nbsp; E. Bossi, S. Jeevanandam, N. Jain      
-&nbsp;&nbsp;&nbsp;&nbsp; *Proceedings of the 70th HFES International Annual Meeting*     
+&nbsp;&nbsp;&nbsp;&nbsp; *Proceedings of the 70th HFES International Annual Meeting* (**Best Paper Award** Finalist (STTG))     
 &nbsp;&nbsp;&nbsp;&nbsp; 2026   
 
 <a href="https://skoge.folk.ntnu.no/prost/proceedings/ifac2026_IFACWC26_preprints/files/3197.pdf" style="color:#000; font-weight:bold;">
