@@ -76,7 +76,7 @@ author_profile: false
     </a>
   </li>
   <li>
-    <a href="https://github.com/bossiemanuele/Spacecraft-Mission-Control" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/bossiemanuele/planar-spacecraft-control" target="_blank" rel="noopener noreferrer">
       Spacecraft Mission Control
     </a>
   </li>
